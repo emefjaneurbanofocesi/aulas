@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FF4646</corbanda>
+        <cornavega>FDFD00</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>ALFABETIZAÇÃO E LETRAMENTO</subtitulo>
+        <logo>logoeducadigital.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRETO</correcto>
+        <incorrecto son="" modo="1" >INCORRETO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="103" posy="-23">ALFABETO_.jpg</imaxe>
+              <texto posx="62" posy="240" ancho="495" largo="112"><![CDATA[
+<p align="center">
+<font color="#000000" face="Calibri" size="24"><b>ALFABETIZAÇÃO E LETRAMENTO</b><br>
+</font><font color="#000000" face="Cambria" size="12">EMEF JANE URBANO FOCESI<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>35</tipo>
+              <cabeceira>ORDERNAR IMAGENS</cabeceira>
+              <forma>0</forma>
+              <completa>1.png</completa>
+              <completa>2.png</completa>
+              <completa>3.png</completa>
+              <completa>4.png</completa>
+              <completa>5.png</completa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="A.jpg" texto="" son="">Avi_ao-desenho.jpg</peza>
+              <peza imaxe="B.jpeg" texto="" son="">BALEIA.png</peza>
+              <peza imaxe="C.jpg" texto="" son="">cachorro.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="LETRA_d.jpg" texto="" son="">dado.jpg</peza>
+              <peza imaxe="rLetraE.PNG" texto="" son="">elefante.jpg</peza>
+              <peza imaxe="FFF.jpg" texto="" son="">FACA-DE-CHEF.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="GGG.jpg" texto="" son="">GIRAFA.png</peza>
+              <peza imaxe="HHH.png" texto="" son="">helicoptero.png</peza>
+              <peza imaxe="II.png" texto="" son="">indio.gif</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMORIA</cabeceira>
+              <parellas>Avi_ao-desenho.jpg</parellas>
+              <parellas>BALEIA.png</parellas>
+              <parellas>cachorro.jpg</parellas>
+              <parellas>dado.jpg</parellas>
+              <parellas>FACA-DE-CHEF.jpg</parellas>
+              <parellas>GALINHA.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>4</tipo>
+              <cabeceira>CAÇA-PALAVRAS</cabeceira>
+              <modo>1</modo>
+              <sopa enun="BOI">BOI</sopa>
+              <sopa enun="BOTO">BOTO</sopa>
+              <sopa enun="BALEIA">BALEIA</sopa>
+              <sopa enun="BARATA">BARATA</sopa>
+              <sopa enun="BÚFALO">BÚFALO</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+              <fondo>X</fondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTA IMAGEM</cabeceira>
+              <peza imaxe="1.png" texto="" son="">1P.jpg</peza>
+              <peza imaxe="2.png" texto="" son="">2P.png</peza>
+              <peza imaxe="3.png" texto="" son="">3P.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMORIA</cabeceira>
+              <parellas>TARTARUGA.png</parellas>
+              <parellas>TATU.jpg</parellas>
+              <parellas>QUEIJO.jpg</parellas>
+              <parellas>TUCANO.jpg</parellas>
+              <parellas>VIOLAO.png</parellas>
+              <parellas>RATO.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>3</tipo>
+              <cabeceira>QUEBRA CABEÇA</cabeceira>
+              <imaxe>ABC.jpg</imaxe>
+              <imfondo  trans="20">ABC.jpg</imfondo>
+              <filas>2</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <texto posx="103" posy="115" ancho="400" largo="129"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="20">PARABÉNS, AULA FINALIZADA!</font></p>
+]]></texto>
+              <ctexto>FF0080</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

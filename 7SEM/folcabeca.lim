@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>249FE1</corbanda>
+        <cornavega>249FE1</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>FOLCLORE  (QUEBRA-CABEÇA)</subtitulo>
+        <logo>logo.png</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>2.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Bradley" size="18"><b>AULA: FOLCLORE BRASILEIRO </b><br>
+<br>
+EMEF JANE URBANO FOCESI</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <cabeceira>BOTO</cabeceira>
+              <imaxe>boto.png</imaxe>
+              <imfondo  trans="25">boto.png</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>3</tipo>
+              <cabeceira>MULA SEM CABEÇA</cabeceira>
+              <imaxe>mula.png</imaxe>
+              <imfondo  trans="25">mula.png</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <cabeceira>IARA</cabeceira>
+              <imaxe>sereia.png</imaxe>
+              <imfondo  trans="25">sereia.png</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>3</tipo>
+              <cabeceira>CURUPIRA</cabeceira>
+              <imaxe>curupir.gif</imaxe>
+              <imfondo  trans="25">curupir.gif</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <cabeceira>BOITATÁ</cabeceira>
+              <imaxe>boitata.gif</imaxe>
+              <imfondo  trans="25">boitata.gif</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>3</tipo>
+              <cabeceira>CUCA</cabeceira>
+              <imaxe>cuca.png</imaxe>
+              <imfondo  trans="25">cuca.png</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>3</tipo>
+              <cabeceira>FOLCLORE</cabeceira>
+              <imaxe>1.jpg</imaxe>
+              <imfondo  trans="25">1.jpg</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>17</tipo>
+              <parellas>boto.png</parellas>
+              <parellas>cuca.jpg</parellas>
+              <parellas>curupir.gif</parellas>
+              <parellas>mula.png</parellas>
+              <parellas>boitata.gif</parellas>
+              <parellas>sereia.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">colorir-dia-do-folclore.swf</imaxe>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <imaxe posx="183" posy="-23">o-que-e-folclore-historia-folclore10.gif</imaxe>
+              <texto posx="0" posy="-42" ancho="200" largo="200"><![CDATA[
+<p align="center">
+<font color="#004080" face="Arial" size="20"><b><u>PARABÉNS,</u></b><br>
+</font><font color="#080000" face="Arial" size="16"> VOCÊ CONCLUIU A AULA!</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

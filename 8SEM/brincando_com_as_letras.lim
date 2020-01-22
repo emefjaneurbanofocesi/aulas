@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>rec</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>D2D2D2</corfondo>
+        <corbanda>800040</corbanda>
+        <cornavega>408080</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <logo>logoeducadigital.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS!</correcto>
+        <incorrecto son="" modo="1" >TENTE OUTRA VEZ!</incorrecto>
+        <modomenu>1</modomenu>
+        <liga ir="2">Atividades</liga>
+        <liga ir="11">Jogos</liga>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-36">1.png</imaxe>
+              <texto posx="114" posy="22" ancho="450" largo="354"><![CDATA[
+<p align="center">
+<font color="#800080" face="Verdana" size="24"><br>
+</font></p>
+<p align="left">
+<font color="#800080" face="Verdana" size="24">Emef </font><font color="#408080" face="Verdana" size="24">JANE URBANO FOCESI<br>
+</font><font color="#800080" face="Verdana" size="24">Aula: </font><font color="#008080" face="Verdana" size="24">Brincando com as letras<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="55" posy="2">aeb.png</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>14</tipo>
+              <cabeceira>Com qual  letra começa AVIÃO e BOLA ?</cabeceira>
+              <peza imaxe="A.png" texto="AVIÃO" son="">AVIAO.png</peza>
+              <peza imaxe="B.png" texto="BOLA" son="">BOLA.png</peza>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="52" posy="-3">CD.png</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>14</tipo>
+              <cabeceira>Com qual  letra começa CORUJA e DADO ?</cabeceira>
+              <peza imaxe="CORUJA.png" texto="CORUJA" son="">C.png</peza>
+              <peza imaxe="DADO.jpg" texto="DADO" son="">D.png</peza>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="55" posy="-8">EF.png</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>14</tipo>
+              <peza imaxe="ELEFANTE.png" texto="ELEFANTE" son="">E.png</peza>
+              <peza imaxe="FORMIGA.jpg" texto="FORMIGA" son="">F.png</peza>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>19</tipo>
+              <cabeceira>FORME A PALAVRA: AVIÃO.</cabeceira>
+              <imaxe>AVIAO.png</imaxe>
+              <texto><![CDATA[                               AVIÃO]]></texto>
+              <resp texto="AÃBCDEFGHIJKLMNOPQRSTUVWYZ">AVIÃO</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>19</tipo>
+              <cabeceira>FORME A PALAVRA: ELEFANTE.</cabeceira>
+              <imaxe>ELEFANTE.png</imaxe>
+              <texto><![CDATA[                       ELEFANTE]]></texto>
+              <resp texto="ABCDEFGHIJKLMNOPQRSTUVWYZ">ELEFANTE</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>39</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="AVIAO.png" texto="">A.png</parellas>
+              <parellas imaxe="BOLA.png" texto="">B.png</parellas>
+              <parellas imaxe="CORUJA.png" texto="">C.png</parellas>
+              <parellas imaxe="DADO.jpg" texto="">D.png</parellas>
+              <parellas imaxe="ELEFANTE.png" texto="">E.png</parellas>
+              <parellas imaxe="FORMIGA.jpg" texto="">F.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>400040</ctapa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>16</tipo>
+              <externa>aviao.swf</externa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>16</tipo>
+              <externa>362_motor_abecedario.swf</externa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

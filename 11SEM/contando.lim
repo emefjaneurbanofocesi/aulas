@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>00FF40</corbanda>
+        <cornavega>00C100</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>CONTANDO</subtitulo>
+        <logo>logoeducadigital.png</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <imaxe posx="420" posy="23">trenzinho.png</imaxe>
+              <texto posx="0" posy="54" ancho="514" largo="332"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="16"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+</font><font color="#080000" face="Calibri" size="32"><b>APRENDENDO A CONTAR</b><br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>35</tipo>
+              <cabeceira>ORDENE OS NÚMEROS</cabeceira>
+              <forma>0</forma>
+              <completa>0.jpg</completa>
+              <completa>1.jpg</completa>
+              <completa>2.jpg</completa>
+              <completa>3.jpg</completa>
+              <completa>4.jpg</completa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>35</tipo>
+              <cabeceira>ORDENE OS NÚMEROS</cabeceira>
+              <forma>0</forma>
+              <completa>5.jpg</completa>
+              <completa>6.jpg</completa>
+              <completa>7.jpg</completa>
+              <completa>8.jpg</completa>
+              <completa>9.jpg</completa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <imaxe>555555corujas.png</imaxe>
+              <imfondo  trans="30">555555corujas.png</imfondo>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>11</tipo>
+              <cabeceira>ARRASTE A QUANTIDADE DE OBJETOS ABAIXO</cabeceira>
+              <modo>3</modo>
+              <cousa nome="6">6casinhas.png</cousa>
+              <cousa nome="4">4maccas.png</cousa>
+              <cousa nome="3">tr_esamigos.png</cousa>
+              <cousa nome="1">sapato.gif</cousa>
+              <cousa nome="5">5bolas.png</cousa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>CLIC SOMENTE NOS NÚMEROS</cabeceira>
+              <etiqueta imaxe="9.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="6.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="lapis.png" texto="">0</etiqueta>
+              <etiqueta imaxe="fusca.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="navio.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="4.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>tr_esamigos.png</parellas>
+              <parellas>peixe.jpg</parellas>
+              <parellas>navio.jpg</parellas>
+              <parellas>submarino.jpg</parellas>
+              <parellas>moto.jpg</parellas>
+              <parellas>brincando.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>A8A8FF</ctapa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>3</tipo>
+              <cabeceira>MONTE O QUEBRA-CABEÇA</cabeceira>
+              <imaxe>girafas.jpg</imaxe>
+              <imfondo  trans="30">girafas.jpg</imfondo>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>27</tipo>
+              <cabeceira>AGORA DESENHE TODOS OS NÚMEROS QUE VOCÊ APRENDEU!</cabeceira>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="36" posy="183">trenzinho.png</imaxe>
+              <texto posx="123" posy="6" ancho="478" largo="253"><![CDATA[
+<p align="center">
+<font color="#0000FF" face="Cambria" size="32">PARABÉNS,<br>
+VOCÊ FINALIZOU A AULA !!!<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

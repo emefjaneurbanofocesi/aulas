@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSO</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>5AADAD</corbanda>
+        <cornavega>5AADAD</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>FAMÍLIA</subtitulo>
+        <logo>logoeducadigital.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS</correcto>
+        <incorrecto son="" modo="1" >TENTE OUTRA VEZ..</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="322" posy="10">familiadapesada2.png</imaxe>
+              <texto posx="0" posy="69" ancho="382" largo="282"><![CDATA[
+<p align="center">
+<font color="#080000" face="Cambria" size="18">EMEF JANE URBANO FOCESI<br>
+<br>
+A MINHA FAMÍLIA <br>
+PEDRO BANDEIRA <br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>POEMA</cabeceira>
+              <imaxe posx="0" posy="0">familia3.jpg</imaxe>
+              <texto posx="500" posy="18" ancho="357" largo="350"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12"><br>
+</font><font color="#080000" face="Carlito" size="16">A MINHA FAMÍLIA <br>
+<br>
+EU GOSTO DA <br>
+MINHA MÃE,<br>
+DO MEU PAI,<br>
+DO MEU IRMÃO.<br>
+NEM SEI COMO <br>
+TANTA GENTE <br>
+CABE NO<br>
+MEU CORAÇÃO!</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>14</tipo>
+              <cabeceira>VAMOS ARRASTAR AS IMAGENS</cabeceira>
+              <peza imaxe="vovocombolo.jpg" texto="VOVÓ" son="">vovocombolo2.jpg</peza>
+              <peza imaxe="VOVO1.jpg" texto="VOVÔ" son="">vovopassaro.jpg</peza>
+              <peza imaxe="terno-dicas-03.jpg" texto="PAPAI" son="">paisozinho.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <cabeceira>MONTE O QUEBRA-CABEÇA</cabeceira>
+              <imaxe>familia3.jpg</imaxe>
+              <imfondo  trans="30">familia3.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>17</tipo>
+              <cabeceira>ENCONTRE OS PARES A SEGUIR</cabeceira>
+              <parellas>amigosefamilia.jpg</parellas>
+              <parellas>av_onfjblnfdljnbldsz.jpg</parellas>
+              <parellas>familia3.jpg</parellas>
+              <parellas>av_osenetos.gif</parellas>
+              <parellas>familia112233.jpg</parellas>
+              <parellas>osincriveis.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENE A IMAGEM</cabeceira>
+              <imaxe>MAE.png</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>MÃE</completa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENE A IMAGEM</cabeceira>
+              <imaxe>familia112233.jpg</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>FAMÍLIA</completa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <imaxe posx="67" posy="57">osincriveis1.jpg</imaxe>
+              <texto posx="120" posy="-21" ancho="371" largo="121"><![CDATA[
+<p align="left">
+<font color="#080000" face="Comic" size="14"><i>PARABÉNS VOCÊ CONCLUIU AS ATIVIDADES !!!</i><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

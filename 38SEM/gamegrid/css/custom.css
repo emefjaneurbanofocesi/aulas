@@ -1,0 +1,243 @@
+
+body{
+    width:100% !important;
+    height: 100%;
+    margin: 0px auto;
+    text-align: center;
+    overflow: hidden;
+    
+
+}
+modal-body{
+
+    text-align: center;
+}
+
+.container{
+    margin-top: 50px;
+    width:100% !important;
+    height: 100%;
+
+}
+
+.games-container{
+    margin: 0px auto;
+    width:80% !important;
+    height: 100%;  
+}
+
+.btn{
+    margin:3px;
+}
+
+/* Cores dos botões */
+.purple{
+    background-color: purple;
+    color: white;
+}
+
+
+.red{
+    background-color: #C82333;
+    color: white;
+}
+
+
+.blue{
+    background-color: #0069D9;
+    color:white;
+}
+
+
+.black{
+    background-color: #23272B;
+    color: white;
+}
+
+
+.teal{
+    background-color: teal;
+    color: white;
+}
+
+.yellow{
+    background-color: #FFC107;
+    color: black;
+}
+
+
+.green{
+    background-color: #218838;
+    color:white;
+}
+
+
+.brown{
+    background-color: brown;
+    color: white;
+}
+
+.orange{
+    background-color: orangered;
+    color: white;
+}
+
+
+.dark-blue{
+    background-color: midnightblue;
+    color: white;
+}
+
+.pink{
+    background-color: pink;
+    color: black;
+}
+
+/* Cores dos botões */
+
+
+
+/* .overlay-1 {
+    background-color: rgba(7, 112, 204, 0.68);
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 493px;
+    top: 48px;
+    z-index: 999;
+}
+
+.overlay-2 {
+    background-color: rgba(204, 53, 7, 0.68);
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 699px;
+    top: 48px;
+    z-index: 999;
+}
+
+
+.overlay-3 {
+    background-color: rgba(79, 204, 7, 0.68);
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 493px;
+    top: 205px;
+    z-index: 999;
+}
+
+.overlay-4 {
+    background-color: rgba(204, 201, 7, 0.68);
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left: 699px;
+    top: 205px;
+    z-index: 999;
+} */
+
+
+.col-6{
+    /* border:1px solid black; */
+    margin: 0px auto;
+    text-align: center;
+    /* z-index: 999 !important; */
+    
+}
+
+object, embed{
+    background-color: gray;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1 !important;
+    width: 100% !important;
+    height:100% !important ;
+    margin: 0px;
+    padding: 0px;
+    
+    /* position: relative !important; */
+}
+
+
+
+
+.modal-open .modal {
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    height: 100%;
+    display: none;
+    background-color: rgba(255, 0, 0, 0.336);
+}
+
+.modal-body{
+    height: 100%;
+    width: 100% !important;
+    padding: 0px !important;
+    margin: 0px !important;
+
+   
+}
+
+.modal-dialog{
+    margin: 0px ;
+    padding: 0px;
+    height: 100%;
+    background-color: rgba(9, 255, 161, 0.5);
+}
+
+.modal-content{
+    height: 100% !important;
+    line-height: 0px;
+}
+
+.close{
+    background-color: red !important;
+    position: absolute ;
+    padding-bottom: 7px !important;
+    width: 60px;
+    border-radius: 60px;
+    height: 60px;
+    bottom: 10px;
+    left: 10px;
+    z-index: 99 !important;
+}
+
+.x{
+    color: white;
+    font-size: 2rem;
+}
+
+
+
+::-webkit-scrollbar{
+    display: none !important;
+}
+    .modal-xl {
+        max-width: 1366px;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+     
+    }   
+
+.modal-content {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: -ms-flexbox;
+    display: block;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    pointer-events: auto;
+    background-color: rgba(0, 0, 0, 0.575);
+    background-clip: padding-box;
+    border: 0px solid rgba(0, 0, 0, 0.2); 
+    border-radius: 0px;
+    outline: 0;
+}

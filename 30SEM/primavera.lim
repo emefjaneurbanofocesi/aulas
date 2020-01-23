@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>65E956</corbanda>
+        <cornavega>F34BD1</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>Primavera</subtitulo>
+        <logo>logo.png</logo>
+        <imaxefondo posx="-242" posy="50" trans="25">primavera-2.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-24">beijaflor.jpg</imaxe>
+              <texto posx="36" posy="330" ancho="470" largo="241"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18"><b>AULA: PRIMAVERA</b><br>
+<br>
+<b>EMEF JANE URBANO FOCESI</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>12</tipo>
+              <cabeceira>IMAGENS PRIMAVERA</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="">flores.jpg</galeria>
+              <galeria grande="" son="" texto="">frutas.jpg</galeria>
+              <galeria grande="" son="" texto="">girassol.jpg</galeria>
+              <galeria grande="" son="" texto="">borboleta.jpg</galeria>
+              <galeria grande="" son="" texto="">beijaflor.jpg</galeria>
+              <galeria grande="" son="" texto="">primavera-2.jpg</galeria>
+        </paxina>
+        <paxina id="3" >
+              <tipo>17</tipo>
+              <parellas>beijaflortrans.png</parellas>
+              <parellas>girassol2.png</parellas>
+              <parellas>flortrans.png</parellas>
+              <parellas>borboletapng.png</parellas>
+              <parellas>flortrans2.png</parellas>
+              <parellas>flortrans3.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <imaxe>frutas.jpg</imaxe>
+              <imfondo  trans="50">frutas.jpg</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>36</tipo>
+              <forma>0</forma>
+              <modo>1</modo>
+              <etiqueta>00555000</etiqueta>
+              <etiqueta>05444500</etiqueta>
+              <etiqueta>05444500</etiqueta>
+              <etiqueta>00525000</etiqueta>
+              <etiqueta>00020200</etiqueta>
+              <etiqueta>00022000</etiqueta>
+              <etiqueta>00020000</etiqueta>
+        </paxina>
+        <paxina id="6" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="PRIMAVERA">PRIMAVERA</sopa>
+              <sopa enun="SOL">SOL</sopa>
+              <sopa enun="CALOR">CALOR</sopa>
+              <sopa enun="FLOR">FLOR</sopa>
+              <sopa enun="GIRASSOL">GIRASSOL</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRS</fondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="71" posy="-30">PARABENS.png</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-6">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

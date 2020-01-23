@@ -138,5 +138,9 @@ ATÉ A PRÓXIMA!</font></i></p>
               <ctexto>000000</ctexto>
               <chtml>1</chtml>
         </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
     </libro>
 </lim>

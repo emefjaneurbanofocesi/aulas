@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+          <recursos>$C:\Users\ALUNO\Desktop\LIVRO SUELLEN\Livro_Português\</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+          <corfondo>ffffff</corfondo>
+        <corbanda>00FF00</corbanda>
+        <cornavega>00FF00</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>EMEF BENEDITO INÁCIO SOARES</titulo>
+          <subtitulo>Português:  x e Ch</subtitulo>
+          <autor>Prof° Selma Mendes</autor>
+          <iden>Suellen</iden>
+          <imaxefondo posx="-244" posy="52" trans="100">C:\Users\suellen\Documents\Livro_suellen\recursos\fundo5.JPG</imaxefondo>
+          <informe>1</informe>
+          <botonson>1</botonson>
+          <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns!!!</correcto>
+        <incorrecto son="" modo="1" >Tente novamente!!!</incorrecto>
+        <caracteres>çáéãõêôàèí</caracteres>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <cabeceira>Capa</cabeceira>
+              <imaxe posx="18" posy="22">C:\Users\suellen\Documents\Livro_suellen\recursos\images.jpg</imaxe>
+              <texto posx="328" posy="127" ancho="273" largo="50"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="28"><b>Português</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>Vídeo Gato da China.</cabeceira>
+              <imaxe posx="1" posy="0">C:\Users\suellen\Documents\Livro_suellen\recursos\Gato da China - Jose Paulo Paes - Stop motion.mp4</imaxe>
+              <texto posx="336" posy="31" ancho="156" largo="32"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="20"><b></font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <cabeceira>Leia o Poema.</cabeceira>
+              <texto posx="29" posy="2" ancho="574" largo="355"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="16"><b>                     </b></font><font color="#000000" face="Verdana" size="24"><b>Gato da China</b><br>
+</font><font color="#000000" face="Verdana" size="16"><b>                </b><br>
+</font><font color="#000000" face="Verdana" size="14"><b>                 </b></font><font color="#000000" face="Verdana" size="20"><b>  Era uma vez</b><br>
+<b>              um gato chinês</b><br>
+<b>              que morava em Xangai</b><br>
+<b>              sem mãe e sem pai,</b><br>
+<b>              que sorria amarelo,</b><br>
+<b>              para o Rio Amarelo,</b><br>
+<b>              com seus olhos puxados</b><br>
+<b>              um pra cada lado.</b><br>
+<b>              [...]  </b><br>
+<b>        </b><br>
+</font><font color="#000000" face="Verdana" size="16"><b>                                                          José Paulo Paes.</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>29</tipo>
+              <cabeceira>Complete o poema com as palavras escritas com x e ch.</cabeceira>
+              <pe>Escrever as palavras que falta no texto.</pe>
+              <texto><![CDATA[         Gato da China
+      Era uma vez um gato *chinês
+      que morava em *Xangai
+      sem mãe e  sem pai,
+      que sorria amarelo
+      para o Rio Amarelo,
+      com seus olhos *puxados
+      um para cada lado.
+      [...]]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>1</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>20</tipo>
+              <cabeceira>Ligue a palavra à figura correspondente.</cabeceira>
+              <imaxe>C:\Users\suellen\Documents\Livro_suellen\recursos\images.jpg3.jpg</imaxe>
+              <modo>9</modo>
+              <etiqueta posx="195" posy="87">chave</etiqueta>
+              <etiqueta posx="53" posy="92">xícara</etiqueta>
+              <etiqueta posx="347" posy="147">mochila</etiqueta>
+              <etiqueta posx="47" posy="146">peixe</etiqueta>
+              <etiqueta posx="195" posy="25">chocolate</etiqueta>
+              <etiqueta posx="273" posy="201">abacaxi</etiqueta>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <cabeceira>Dica</cabeceira>
+              <texto posx="4" posy="1" ancho="598" largo="348"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="12">                   </font><font color="#000000" face="Verdana" size="24"> Em certas palavras, a letra</font><font color="#FF0000" face="Verdana" size="24"> X</font><font color="#000000" face="Verdana" size="24"> tem mesmo som do</font><font color="#FF0000" face="Verdana" size="24"> CH</font><font color="#000000" face="Verdana" size="24">.<br>
+           <br>
+           Observe: apai</font><font color="#FF0000" face="Verdana" size="24">x</font><font color="#000000" face="Verdana" size="24">onado, coa</font><font color="#FF0000" face="Verdana" size="24">x</font><font color="#000000" face="Verdana" size="24">ou, li</font><font color="#FF0000" face="Verdana" size="24">x</font><font color="#000000" face="Verdana" size="24">a, </font><font color="#FF0000" face="Verdana" size="24">ch</font><font color="#000000" face="Verdana" size="24">amou, </font><font color="#FF0000" face="Verdana" size="24">ch</font><font color="#000000" face="Verdana" size="24">orou, fi</font><font color="#FF0000" face="Verdana" size="24">ch</font><font color="#000000" face="Verdana" size="24">a.<br>
+<br>
+           Na hora de escrever, é importante consutar o dicionário.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="7" >
+              <tipo>4</tipo>
+              <cabeceira>Caça-Palavras com as letras X e CH.</cabeceira>
+              <modo>2</modo>
+              <sopa enun="C:\Users\suellen\Documents\Livro_suellen\recursos\BORRACHA.jpg1.jpg">borracha</sopa>
+              <sopa enun="C:\Users\suellen\Documents\Livro_suellen\recursos\xampu.jpg">xampu</sopa>
+              <sopa enun="C:\Users\suellen\Documents\Livro_suellen\recursos\mochila.jpg2.jpg">mochila</sopa>
+              <sopa enun="C:\Users\suellen\Documents\Livro_suellen\recursos\abacaxi.jpg3.jpg">abacaxi</sopa>
+              <sopa enun="C:\Users\suellen\Documents\Livro_suellen\recursos\boliche.jpg">boliche</sopa>
+              <sopa enun="C:\Users\suellen\Documents\Livro_suellen\recursos\peixe.jpg16.jpg">peixe</sopa>
+              <sopa enun="C:\Users\suellen\Documents\Livro_suellen\recursos\faicha.jpg">faixa</sopa>
+              <sopa enun="C:\Users\suellen\Documents\Livro_suellen\recursos\ficha.jpg2.jpg">ficha</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="8" >
+              <tipo>3</tipo>
+              <cabeceira>Quebra- cabeça.</cabeceira>
+              <imaxe>C:\Users\suellen\Documents\Livro_suellen\recursos\peixe.jpg5.jpg</imaxe>
+              <imfondo  trans="30">C:\Users\ALUNO\Desktop\LIVRO SUELLEN\Livro_Português\peixe.jpg5.jpg</imfondo>
+              <filas>6</filas>
+              <columnas>6</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>37</tipo>
+              <cabeceira>Resolva a cruzadinha com palavras que tenham as letras X e CH.</cabeceira>
+              <texto><![CDATA[1- As crianças levam para escola.
+
+2- Pode ser usada para abrir a porta.
+
+3- Mora no fundo do mar.
+
+4- Usa chapéu e tem uma estrela no peito.
+
+5- É usada para plantar e tirar mato da terra.
+
+6- É feita de papelão e pode colocar várias coisas dentro dela. ]]></texto>
+              <completa>mochila</completa>
+              <completa>chave</completa>
+              <completa>peixe</completa>
+              <completa>xerife</completa>
+              <completa>enxada</completa>
+              <completa>caixa</completa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>17</tipo>
+              <cabeceira>Jogo da Memória.</cabeceira>
+              <parellas>C:\Users\suellen\Documents\Livro_suellen\recursos\6.jpg</parellas>
+              <parellas>C:\Users\suellen\Documents\Livro_suellen\recursos\BORRACHA.jpg</parellas>
+              <parellas>C:\Users\suellen\Documents\Livro_suellen\recursos\chave.jpg</parellas>
+              <parellas>C:\Users\suellen\Documents\Livro_suellen\recursos\CACHORRO 3.jpg</parellas>
+              <parellas>C:\Users\suellen\Documents\Livro_suellen\recursos\caixa.jpg</parellas>
+              <parellas>C:\Users\suellen\Documents\Livro_suellen\recursos\XERIFE.jpg1.jpg</parellas>
+              <cfondo>00FFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>51</tipo>
+              <cabeceira>Jogo do memória.</cabeceira>
+              <valor>5</valor>
+              <peza imaxe="C:\Users\suellen\Documents\Livro_suellen\recursos\chuchu1.jpg">1</peza>
+              <peza imaxe="C:\Users\suellen\Documents\Livro_suellen\recursos\GATO 5.jpg">2</peza>
+        </paxina>
+        <paxina id="12" >
+              <tipo>14</tipo>
+              <cabeceira>Arraste a imagens à letra correspodente.</cabeceira>
+              <peza imaxe="" texto="CH" son="">C:\Users\suellen\Documents\Livro_suellen\recursos\chave.jpg</peza>
+              <peza imaxe="" texto="X" son="">C:\Users\suellen\Documents\Livro_suellen\recursos\XERIFE.jpg3.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>18</tipo>
+              <cabeceira>Complete as palavras com M, N, X, Ch.</cabeceira>
+              <modo>3</modo>
+              <completa ant="De" post="tadura">n</completa>
+              <completa ant=" Pei" post="ada">x</completa>
+              <completa ant="ca" post="pina">m</completa>
+              <completa ant="En" post="ada">x</completa>
+              <completa ant="Pei" post="eiro">x</completa>
+              <completa ant="sa" post="ba">m</completa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>39</tipo>
+              <cabeceira>Jogo da Memória 2.</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="boliche">C:\Users\suellen\Documents\Livro_suellen\recursos\boliche.jpg1.jpg</parellas>
+              <parellas imaxe="" texto="enxada">C:\Users\suellen\Documents\Livro_suellen\recursos\ENCHADA.jpg</parellas>
+              <parellas imaxe="" texto="mochila">C:\Users\suellen\Documents\Livro_suellen\recursos\mochila.jpg</parellas>
+              <parellas imaxe="" texto="caixa">C:\Users\suellen\Documents\Livro_suellen\recursos\caixa.jpg3.jpg</parellas>
+              <parellas imaxe="" texto="faixa">C:\Users\suellen\Documents\Livro_suellen\recursos\faicha3.jpg</parellas>
+              <parellas imaxe="" texto="peixe">C:\Users\suellen\Documents\Livro_suellen\recursos\peixe.jpg3.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>11</tipo>
+              <cabeceira>Arraste o nome para a figura correspondente.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="abacaxi">recursos\abacaxi.jpg1.jpg</cousa>
+              <cousa nome="cachorro">recursos\CACHORRO 4.jpg</cousa>
+              <cousa nome="caixa">recursos\caixa2.jpg</cousa>
+              <cousa nome="chaveiro">recursos\chaveiro.jpg2.jpg</cousa>
+              <cousa nome="chocolate">recursos\CHOCOLATE.jpg2.jpg</cousa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>11</tipo>
+              <cabeceira>Escreva  o nome da figura.</cabeceira>
+              <modo>1</modo>
+              <cousa nome="chuchu">recursos\chuchu3.jpg</cousa>
+              <cousa nome="enxada">recursos\ENCHADA.jpg2.jpg</cousa>
+              <cousa nome="faixa">recursos\faicha2.jpg</cousa>
+              <cousa nome="ficha">recursos\ficha.jpg</cousa>
+              <cousa nome="xícara">recursos\x 2.jpg</cousa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>13</tipo>
+              <cabeceira>ORGANIZE AS PALAVRAS NA SUA FAMÍLIA.</cabeceira>
+              <unir texto="DENTE">DENTISTA</unir>
+              <unir texto="PEIXE">PEIXADA</unir>
+              <unir texto="CHUVA">CHUVISCO</unir>
+              <unir texto="CRIANÇA">CRIANCICE</unir>
+              <unir texto="SAMBA">SAMBADOR</unir>
+        </paxina>
+    </libro>
+</lim>

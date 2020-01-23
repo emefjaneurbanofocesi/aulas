@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FF8000</corbanda>
+        <cornavega>FF8000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>Festa Junina</subtitulo>
+        <logo>logoeducadigital.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS!</correcto>
+        <incorrecto son="" modo="1" >OPS! VOCÊ ERROU! TENTE NOVAMENTE.</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="65" posy="-17">logo.jpg</imaxe>
+              <texto posx="66" posy="257" ancho="433" largo="101"><![CDATA[
+<p align="center">
+<font color="#000000" face="Calibri" size="20"><b>Origens e comidas típicas</b><br>
+<br>
+<br>
+</font><font color="#000000" face="Calibri" size="32"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="489" posy="45">images.jpg</imaxe>
+              <texto posx="2" posy="1" ancho="493" largo="357"><![CDATA[
+<p align="center">
+<font color="#FF8040" face="Verdana" size="28"><b>Origem da Festa Junina.</b></font><font color="#000000" face="Verdana" size="28"><br>
+<br>
+Na época da colonização do Brasil,após o ano de 1500, os portugueses introduziram em nosso país muitas características da cultura europeia, como as festas juninas.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="259" posy="111">comidas-juninas-variadas.jpg</imaxe>
+              <texto posx="0" posy="0" ancho="594" largo="305"><![CDATA[
+<p align="left">
+<font color="#080000" face="Calibri" size="28"><b>Comidas típicas</b><br>
+</font><font color="#080000" face="Calibri" size="18"><b> Os igredientes mais usados para as comidas da festa junina são: milho, arroz, côco, amendoim e maçã.</b><br>
+<br>
+</font><font color="#080000" face="Calibri" size="16"><b>Algumas comidas:</b><br>
+</font></p>
+<p align="left">
+<font color="#080000" face="Arial" size="12"><li>Arroz doce</li>
+<li>Cuscuz</li>
+<li>Pipoca</li>
+<li>Maçã do amor</li>
+<li>Pamonha</li>
+<li>Pé de moleque</li></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>5</tipo>
+              <cabeceira>Raio x! Mova o circulo e descubra o nome do objeto.</cabeceira>
+              <imfondo  posx="201" posy="36">fogueira2.png</imfondo>
+              <ctapa>838383</ctapa>
+              <resp>fogueira</resp>
+              <rdim>80</rdim>
+        </paxina>
+        <paxina id="5" >
+              <tipo>4</tipo>
+              <cabeceira>Encontre os nomes das comidas típicas da festa junina.</cabeceira>
+              <modo>1</modo>
+              <sopa enun="MILHO">MILHO</sopa>
+              <sopa enun="PIPOCA">PIPOCA</sopa>
+              <sopa enun="CANJICA">CANJICA</sopa>
+              <sopa enun="COCADA">COCADA</sopa>
+              <sopa enun="QUENTÃO">QUENTÃO</sopa>
+              <sopa enun="DOCES">DOCES</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUV</fondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <cabeceira>Escreva o nome das comidas típicas da festa junina:</cabeceira>
+              <imaxe>pamonha.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18"><b>Escreva o nome das comidas típicas da festa junina:</b><br>
+<br>
+</font><font color="#080000" face="Arial" size="16">Qual o nome dessa prato típico da festa junina?</font></p>
+]]></texto>
+              <resp>Pamonha</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>38</tipo>
+              <cabeceira>Escreva o nome das comidas típicas da festa junina:</cabeceira>
+              <imaxe>pipoca.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18"><b>Escreva o nome das comidas típicas da festa junina:</b><br>
+<br>
+</font><font color="#080000" face="Arial" size="16">Qual o nome dessa prato típico da festa junina?</font></p>
+]]></texto>
+              <resp>Pipoca</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="8" >
+              <tipo>50</tipo>
+              <cabeceira>Forme os nomes das comidas típicas da festa junina arrastando as letras.</cabeceira>
+              <peza imaxe="maca-do-amor.jpg"  son="">_M_A_Ç_Ã _D_O _A_M_O_R</peza>
+              <peza imaxe="cuscuz.jpg"  son="">_C_U_S_C_U_Z</peza>
+        </paxina>
+        <paxina id="9" >
+              <tipo>17</tipo>
+              <cabeceira>Jogo da memória,encontre os pares!</cabeceira>
+              <parellas>images3.jpg</parellas>
+              <parellas>7.jpg</parellas>
+              <parellas>9.jpg</parellas>
+              <parellas>images.jpg</parellas>
+              <parellas>6.jpg</parellas>
+              <parellas>festa1.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FFFF80</ctapa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>1</tipo>
+              <imaxe>download.png</imaxe>
+              <texto>Escolha apenas as alternativas que representa comidas típicas da festa junina.</texto>
+              <resp texto="" valor="0">Feijoada</resp>
+              <resp texto="" valor="1">Cocada</resp>
+              <resp texto="" valor="1">Milho verde</resp>
+              <resp texto="" valor="0">Risoto</resp>
+        </paxina>
+        <paxina id="11" >
+              <tipo>3</tipo>
+              <cabeceira>Monte o quebra cabeça.</cabeceira>
+              <imaxe>festa1.jpg</imaxe>
+              <imfondo  trans="25">festa1.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>3</tipo>
+              <cabeceira>Monte o quebra-cabeça.</cabeceira>
+              <imaxe>89.jpg</imaxe>
+              <imfondo  trans="15">89.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

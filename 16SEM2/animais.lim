@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>D9ECFF</corfondo>
+        <corbanda>004000</corbanda>
+        <cornavega>004000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>ANIMAIS</subtitulo>
+        <logo>LOGO.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >MUITO BEM!</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE.</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="75" posy="23">OI.jpg</imaxe>
+              <texto posx="58" posy="37" ancho="405" largo="215"><![CDATA[
+<p align="center">
+<font color="#008000" face="Verdana" size="12"><b>EMEF JANE URBANO FOCESI </b><br>
+<br>
+<b>AULA : ANIMAIS</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>NESTA AULA VOCÊ VAI APRENDER SOBRE OS ANIMAIS...</cabeceira>
+              <imaxe posx="82" posy="85">ANI2.jpg</imaxe>
+              <texto posx="27" posy="6" ancho="563" largo="33"><![CDATA[
+<p align="center">
+<font color="#000000" face="Lucida" size="14"><b>OS ANIMAIS QUE VIVEM NA NATUREZA SEM RECEBER A INTERVENÇÃO DO HOMEM EM SUAS VIDAS SÃO CHAMADOS DE </b></font><font color="#FF0000" face="Lucida" size="14"><b>ANIMAIS SILVESTRES.</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>38</tipo>
+              <imaxe>FAZDOM.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#FF0000" face="Lucida" size="16"><b>ANIMAIS DOMÉSTICOS</b></font><font color="#212121" face="Lucida" size="16"><b> SÃO AQUELES QUE NÃO VIVEM MAIS EM AMBIENTES NATURAIS E TIVERAM SEU COMPORTAMENTO ALTERADO PELO CONVÍVIO COM O HOMEM ELES DEPENDEM DE ALIMENTAÇÃO E ABRIGO.</b><br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="4" >
+              <tipo>12</tipo>
+              <cabeceira>CONHEÇA ALGUNS ANIMAIS:</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="MACACO">MACACO.jpg</galeria>
+              <galeria grande="" son="" texto="GALINHA">galinha.jpg</galeria>
+              <galeria grande="" son="" texto="CACHORRO">DOG.jpg</galeria>
+              <galeria grande="" son="" texto="GIRAFA">GIRAFA.jpg</galeria>
+              <galeria grande="" son="" texto="GATO">GATO.jpg</galeria>
+              <galeria grande="" son="" texto="PORCO">PORCO.jpg</galeria>
+        </paxina>
+        <paxina id="5" >
+              <tipo>12</tipo>
+              <cabeceira>CONHEÇA ALGUNS ANIMAIS:</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="COELHO">COELHO.jpg</galeria>
+              <galeria grande="" son="" texto="ELEFANTE">ELEFANTE.jpg</galeria>
+              <galeria grande="" son="" texto="PORCO">PORCO.jpg</galeria>
+              <galeria grande="" son="" texto="PASSÁRO">PASSARO.jpg</galeria>
+              <galeria grande="" son="" texto="COBRA">COBRA.jpg</galeria>
+              <galeria grande="" son="" texto="VACA">VACA.jpg</galeria>
+        </paxina>
+        <paxina id="6" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA:</cabeceira>
+              <parellas>MACACO.jpg</parellas>
+              <parellas>LEAAO.jpg</parellas>
+              <parellas>GATO.jpg</parellas>
+              <parellas>galinha.jpg</parellas>
+              <parellas>ELEFANTE.jpg</parellas>
+              <parellas>COELHO.jpg</parellas>
+              <cfondo>D9ECFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>7</tipo>
+              <cabeceira>CLASSIFIQUE OS ANIMAIS:</cabeceira>
+              <caixa1>SILVESTRES</caixa1>
+              <caixa2>DOMÉSTICOS/FAZENDA</caixa2>
+              <mini caixa="1">ELEFANTE.jpg</mini>
+              <mini caixa="2">DOG.jpg</mini>
+              <mini caixa="1">GIRAFA.jpg</mini>
+              <mini caixa="2">VACA.jpg</mini>
+              <mini caixa="1">LEAAO.jpg</mini>
+              <mini caixa="2">GATO.jpg</mini>
+              <cfondo>D9ECFF</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>14</tipo>
+              <cabeceira>CLIQUE E ARRASTE OS ANIMAIS ATÉ A CASA CORRESPONDENTE</cabeceira>
+              <peza imaxe="floresta.jpg" texto="" son="">LEAAO.jpg</peza>
+              <peza imaxe="fazenda.jpg" texto="" son="">PORCO.jpg</peza>
+              <peza imaxe="casa.jpg" texto="" son="">DOG.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>14</tipo>
+              <cabeceira>CLIQUE E ARRASTE OS ANIMAIS ATÉ A CASA CORRESPONDENTE</cabeceira>
+              <peza imaxe="casa.jpg" texto="" son="">GATO.jpg</peza>
+              <peza imaxe="floresta.jpg" texto="" son="">GIRAFA.jpg</peza>
+              <peza imaxe="fazenda.jpg" texto="" son="">galinha.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>5</tipo>
+              <cabeceira>PASSE O MOUSE PARA DESCOBRIR QUAL ANIMAL ESTÁ ATRÁS DA CASA:</cabeceira>
+              <imaxe>casa.jpg</imaxe>
+              <imfondo  posx="116" posy="97">GATO.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <rdim>120</rdim>
+        </paxina>
+        <paxina id="11" >
+              <tipo>3</tipo>
+              <cabeceira>MONTE O QUEBRA-CABEÇA:</cabeceira>
+              <imaxe>FAZDOM.jpg</imaxe>
+              <imfondo  trans="30">FAZDOM.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>27</tipo>
+              <cabeceira>DESENHE UM ANIMAL QUE VOCÊ MAIS GOSTA</cabeceira>
+              <etiqueta>VACA.jpg</etiqueta>
+              <etiqueta>PASSARO.jpg</etiqueta>
+              <etiqueta>GIRAFA.jpg</etiqueta>
+              <etiqueta>DOG.jpg</etiqueta>
+              <etiqueta>COELHO.jpg</etiqueta>
+              <etiqueta>GATO.jpg</etiqueta>
+              <etiqueta>galinha.jpg</etiqueta>
+              <etiqueta>LEAAO.jpg</etiqueta>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <imaxe posx="100" posy="28">OI.jpg</imaxe>
+              <texto posx="146" posy="97" ancho="300" largo="200"><![CDATA[
+<p align="center">
+<font color="#004000" face="Verdana" size="18"><b>PARABÉNS! <br>
+ATÉ A PRÓXIMA AULA.</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="14" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

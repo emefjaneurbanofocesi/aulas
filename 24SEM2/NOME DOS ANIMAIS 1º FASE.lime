@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <recursos>$RECURSOS\</recursos>
+        <idioma>4</idioma>
+          <corfondo>ffffff</corfondo>
+        <corbanda>FFFFFF</corbanda>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>EMEI/EMEF BERNARDO FERREIRA LOUZADA</titulo>
+          <subtitulo>NOME DOS ANIMAIS 1º FASE</subtitulo>
+          <autor>JANDIRA NOGUEIRA </autor>
+          <iden>CRISTIANA ALESANDRA</iden>
+        <logo>C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\logoeducadigital.png</logo>
+          <imaxefondo posx="-240" posy="-2" trans="100">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\pp.jpg</imaxefondo>
+          <informe>1</informe>
+          <botonson>1</botonson>
+          <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABENS !!!</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE !!!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="10" posy="11" ancho="573" largo="333"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="28"><b>EMEI/EMEF BERNARDO FERREIRA LOUZADA<br>
+AULA: NOME DOS ANIMAIS 1º FASE<br>
+ELABORAÇÃO: JANDIRA NOGUEIRA<br>
+PRODUÇÃO: CRISTIANA ALESANDRA</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>VIDEO</cabeceira>
+              <imaxe posx="0" posy="0">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\Alfabetização Infantil com os Animais - Vídeo Infantil.mp4</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>12</tipo>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\anta.jpg</galeria>
+              <galeria grande="" son="" texto="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\beija-flor.jpeg</galeria>
+              <galeria grande="" son="" texto="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\CAPIVARA.jpg</galeria>
+              <galeria grande="" son="" texto="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\arara-azul-pequena_phixr.jpg</galeria>
+              <galeria grande="" son="" texto="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\jabutI.jpg</galeria>
+              <galeria grande="" son="" texto="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\JACUTINGA.jpg</galeria>
+        </paxina>
+        <paxina id="4" >
+              <tipo>12</tipo>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\800px-Ramphastos_dicolorus_-Brazil-8_(1).jpg</galeria>
+              <galeria grande="" son="" texto="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\TAMANDUA.jpg</galeria>
+              <galeria grande="" son="" texto="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\lobo.jpg</galeria>
+              <galeria grande="" son="" texto="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\onça.jpg</galeria>
+              <galeria grande="" son="" texto="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\OURIÇO.jpg</galeria>
+              <galeria grande="" son="" texto="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\preguiça.jpg</galeria>
+        </paxina>
+        <paxina id="5" >
+              <tipo>14</tipo>
+              <peza imaxe="C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\arara-azul-pequena_phixr.jpg" texto="" son="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\j.png</peza>
+              <peza imaxe="C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\jabutI.jpg" texto="" son="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\l-300.png</peza>
+              <peza imaxe="C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\lobo.jpg" texto="" son="">C:\Users\Familia\Desktop\AULAS OK\1º FASE-NOME DOS ANIMAIS\RECURSOS\letras png alfabeto azul (1).png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+    </libro>
+</lim>

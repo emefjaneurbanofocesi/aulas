@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>IMAGENS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FFFFFF</corbanda>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>NOME DOS ANIMAIS</titulo>
+        <subtitulo>NOME DOS ANIMAIS</subtitulo>
+        <logo>logoeducadigital.png</logo>
+        <imaxefondo posx="-240" posy="-2" trans="100">pp.jpg</imaxefondo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABENS !!!</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE !!!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="10" posy="11" ancho="573" largo="333"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="28"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+<b>NOME DOS ANIMAIS</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTE A LETRA INICIAL DO NOME DE CADA ANIMAL</cabeceira>
+              <peza imaxe="arara-azul-pequena_phixr.jpg" texto="" son="">A.jpg</peza>
+              <peza imaxe="jabutI.jpg" texto="" son="">J.jpg</peza>
+              <peza imaxe="lobo.jpg" texto="" son="">L.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTE A LETRA INICIAL DO NOME DE CADA ANIMAL</cabeceira>
+              <peza imaxe="anta.jpg" texto="" son="">A.jpg</peza>
+              <peza imaxe="OURICCO.jpg" texto="" son="">O.jpg</peza>
+              <peza imaxe="TAMANDUA.jpg" texto="" son="">T.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTE A LETRA INICIAL DO NOME DE CADA ANIMAL</cabeceira>
+              <peza imaxe="quati.jpeg" texto="" son="">Q.jpg</peza>
+              <peza imaxe="800px-Ramphastos_dicolorus_-Brazil-8_(1).jpg" texto="" son="">T.jpg</peza>
+              <peza imaxe="Veado-campeiro-mata-atlantica-defensores-da-natureza-1024x671_(1).jpg" texto="" son="">V.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTE A LETRA INICIAL DO NOME DE CADA ANIMAL</cabeceira>
+              <peza imaxe="beija-flor.jpeg" texto="" son="">B.jpg</peza>
+              <peza imaxe="CAPIVARA.jpg" texto="" son="">C.png</peza>
+              <peza imaxe="JACUTINGA.jpg" texto="" son="">J.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTE A LETRA INICIAL DO NOME DE CADA ANIMAL</cabeceira>
+              <peza imaxe="mico-leao-DOURADO.jpeg" texto="" son="">M.jpg</peza>
+              <peza imaxe="oncca.jpg" texto="" son="">O.jpg</peza>
+              <peza imaxe="preguicca.jpg" texto="" son="">B.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENE O NOME DO ANIMAL</cabeceira>
+              <imaxe>CORUJA.jpg</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>CORUJA</completa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENE O NOME DO ANIMAL</cabeceira>
+              <imaxe>quati.jpeg</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>QUATI</completa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENE O NOME DO ANIMAL</cabeceira>
+              <imaxe>jabutI.jpg</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>JABUTI</completa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENE O NOME DO ANIMAL</cabeceira>
+              <imaxe>CAPIVARA.jpg</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>CAPIVARA</completa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENE O NOME DO ANIMAL</cabeceira>
+              <imaxe>oncca.jpg</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>ONÇA</completa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>39</tipo>
+              <cabeceira>ENCONTRE O NOME DE CADA ANIMAL</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="TUCANOO.jpg" texto="">800px-Ramphastos_dicolorus_-Brazil-8_(1).jpg</parellas>
+              <parellas imaxe="ANTAA.jpg" texto="">anta.jpg</parellas>
+              <parellas imaxe="ARARA.jpg" texto="">arara-azul-pequena_phixr.jpg</parellas>
+              <parellas imaxe="LOBOO.jpg" texto="">lobo.jpg</parellas>
+              <parellas imaxe="ONCCAA.jpg" texto="">oncca.jpg</parellas>
+              <parellas imaxe="QUATII.jpg" texto="">quati.jpeg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>3</tipo>
+              <cabeceira>MONTE O QUEBRA-CABEÇA</cabeceira>
+              <imaxe>612345-Animais-da-Mata-Atl_antica-em-extincc_ao.jpg</imaxe>
+              <imfondo  trans="30">612345-Animais-da-Mata-Atl_antica-em-extincc_ao.jpg</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>16</tipo>
+              <externa dimx="600" dimy="400">SOMBRA.swf</externa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>2</tipo>
+              <imaxe posx="52" posy="-1">BORDA_COLORIDA_(211).jpg</imaxe>
+        </paxina>
+        <paxina id="16" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

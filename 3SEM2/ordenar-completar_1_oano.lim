@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>IMAGENS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>B7FFB7</corfondo>
+        <corbanda>FFFFFF</corbanda>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>ORDENAR - COMPLETAR</subtitulo>
+        <logo>logoeducadigital.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS !!!</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE !!!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="8" posy="7" ancho="583" largo="331"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="24"><b>AULA: ORDENAR-COMPLETAR </b><br>
+<br>
+<br>
+</font><font color="#0080FF" face="Verdana" size="24"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>16</tipo>
+              <cabeceira>ORDENAR O ALFABETO</cabeceira>
+              <externa dimx="400" dimy="400">alfabeto.swf</externa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>38</tipo>
+              <imaxe>ABACAXI.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="54"><b></b><br>
+</font></p>
+]]></texto>
+              <resp>abacaxi</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="4" >
+              <tipo>38</tipo>
+              <imaxe>CAVALO.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="54"><b></b><br>
+</font></p>
+]]></texto>
+              <resp>cavalo</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <cabeceira>DIGITE A LETRA QUE ESTA FALTANDO</cabeceira>
+              <imaxe>ELEFANTE.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="54"><b></b><br>
+</font></p>
+]]></texto>
+              <resp>elefante</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <imaxe>MONICA.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="54"><b></b><br>
+</font></p>
+]]></texto>
+              <resp>monica</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>38</tipo>
+              <imaxe>BORBOLETA.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="54"><b></b><br>
+</font></p>
+]]></texto>
+              <resp>borboleta</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="8" >
+              <tipo>38</tipo>
+              <imaxe>MORANGO.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="54"><b></b><br>
+</font></p>
+]]></texto>
+              <resp>morango</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="9" >
+              <tipo>38</tipo>
+              <imaxe>SEREIA.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="54"><b></b><br>
+</font></p>
+]]></texto>
+              <resp>sereia</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="10" >
+              <tipo>38</tipo>
+              <imaxe>TARTARUGA.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="54"><b></b><br>
+</font></p>
+]]></texto>
+              <resp>tartaruga</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <cabeceira>ATIVIDADE</cabeceira>
+              <imaxe posx="0" posy="0">Jogo_das_letras.swf</imaxe>
+        </paxina>
+        <paxina id="12" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENAR</cabeceira>
+              <imaxe>MACACO.png</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>MACACO</completa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENAR</cabeceira>
+              <imaxe>MELANCIA.png</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>MELANCIA</completa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENAR</cabeceira>
+              <imaxe>GIRAFA.png</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>GIRAFA</completa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENAR</cabeceira>
+              <imaxe>BOLA.png</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>BOLA</completa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>16</tipo>
+              <cabeceira>SELECIONE A LETRA QUE ESTA FALTANDO</cabeceira>
+              <externa dimx="400" dimy="400">jogodasvogais.swf</externa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>4</tipo>
+              <cabeceira>CAÇA-PALAVRA</cabeceira>
+              <modo>2</modo>
+              <sopa enun="CARRO.png">CARRO</sopa>
+              <sopa enun="FADA.png">FADA</sopa>
+              <sopa enun="MORANGO.png">MORANGO</sopa>
+              <sopa enun="SEREIA.png">SEREIA</sopa>
+              <sopa enun="sol.png">SOL</sopa>
+              <sopa enun="URSO.png">URSO</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>QWERTYUIOPÇLKJHGFDSAZXCVBNM</fondo>
+        </paxina>
+        <paxina id="18" >
+              <tipo>3</tipo>
+              <cabeceira>QUEBRA-CABEÇA</cabeceira>
+              <imaxe>turmaMonica.jpg</imaxe>
+              <imfondo  trans="20">turmaMonica.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>2</tipo>
+              <cabeceira>FIM</cabeceira>
+              <imaxe posx="39" posy="-8">crianccas.jpg</imaxe>
+        </paxina>
+        <paxina id="20" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

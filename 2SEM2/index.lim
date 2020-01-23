@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>E1FBF9</corfondo>
+        <corbanda>21BEB7</corbanda>
+        <cornavega>21BEB7</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>CONHECENDO A ESCOLA</subtitulo>
+        <autor>MARTA</autor>
+        <iden>JOYCE AVELINO</iden>
+        <logo>logoeducadigital.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >MUITO BEM!</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="73" posy="90">schll.jpg</imaxe>
+              <texto posx="96" posy="-13" ancho="433" largo="173"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="28"><b><i></i></b><br>
+<b><i>CONHECENDO A ESCOLA</i></b><br>
+</font><font color="#000000" face="Calibri" size="14"><b><i>EMEF JANE URBANO FOCESI</i></b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="274" posy="11">ESSS.png</imaxe>
+              <texto posx="0" posy="49" ancho="286" largo="284"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="18">A ESCOLA É O LUGAR ONDE VAMOS PARA ESTUDAR E APRENDER VÁRIOS CONTEÚDOS. ALÉM DE CONVIVER EM GRUPO E FAZER AMIZADES.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA:</cabeceira>
+              <parellas>APONTADOR.png</parellas>
+              <parellas>BORRACHA.png</parellas>
+              <parellas>CADERNO.jpg</parellas>
+              <parellas>LAPIS.png</parellas>
+              <parellas>MOCHILA.jpg</parellas>
+              <parellas>LIVRO.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>12</tipo>
+              <cabeceira>EXISTEM PESSOAS MUITO IMPORTANTES PARA O FUNCIONAMENTO DA ESCOLA SÃO ELAS:</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="DIRETOR OU DIRETORA">DIRETORA.jpg</galeria>
+              <galeria grande="" son="" texto="PROFESSOR/ PROFESSORA">PROFESSOR.png</galeria>
+              <galeria grande="" son="" texto="COORDENADORA">COORDE.jpg</galeria>
+              <galeria grande="" son="" texto="MERENDEIRA">MERENDEIRA.jpg</galeria>
+              <galeria grande="" son="" texto="FAXINEIRA">FAXINA.jpg</galeria>
+              <galeria grande="" son="" texto="SECRETÁRIA">secretaria.jpg</galeria>
+        </paxina>
+        <paxina id="5" >
+              <tipo>12</tipo>
+              <cabeceira>OS MATERIAIS USADOS NA ESCOLA SÃO:</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="CADERNO">CADERNO.jpg</galeria>
+              <galeria grande="" son="" texto="LAPÍS">LAPIS.png</galeria>
+              <galeria grande="" son="" texto="MOCHILA">MOCHILA.jpg</galeria>
+              <galeria grande="" son="" texto="BORRACHA">BORRACHA.png</galeria>
+              <galeria grande="" son="" texto="APONTADOR">APONTADOR.png</galeria>
+              <galeria grande="" son="" texto="LIVROS">LIVRO.png</galeria>
+        </paxina>
+        <paxina id="6" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>PROFESSORA.jpg</parellas>
+              <parellas>MERENDEIRA.jpg</parellas>
+              <parellas>FAXINA.jpg</parellas>
+              <parellas>COORDE.jpg</parellas>
+              <parellas>secretaria.jpg</parellas>
+              <parellas>escola.JPG</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>3</tipo>
+              <cabeceira>MONTE O QUEBRA-CABEÇA:</cabeceira>
+              <imaxe>schll.jpg</imaxe>
+              <imfondo  trans="30">schll.jpg</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>7</tipo>
+              <cabeceira>CLASSIFIQUE AS IMAGENS:</cabeceira>
+              <caixa1>FUNCIONÁRIOS</caixa1>
+              <caixa2>MATERIAIS</caixa2>
+              <mini caixa="1">FAXINA.jpg</mini>
+              <mini caixa="2">CADERNO.jpg</mini>
+              <mini caixa="1">MERENDEIRA.jpg</mini>
+              <mini caixa="2">LIVRO.png</mini>
+              <mini caixa="1">PROFESSORA.jpg</mini>
+              <mini caixa="2">LAPIS.png</mini>
+              <cfondo>E1FBF9</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENE A PALAVRA:</cabeceira>
+              <imaxe>escola.JPG</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>ESCOLA</completa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>27</tipo>
+              <cabeceira>DESENHE A SUA ESCOLA:</cabeceira>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <imaxe posx="63" posy="3">ESSSS.jpg</imaxe>
+              <texto posx="20" posy="25" ancho="340" largo="161"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="18"><i>PARABÉNS! <br>
+VOCÊ FINALIZOU A AULA.<br>
+ATÉ A PRÓXIMA!</font></i></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

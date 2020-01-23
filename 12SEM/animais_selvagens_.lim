@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>CEEFFF</corfondo>
+        <corbanda>008000</corbanda>
+        <cornavega>008000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>ANIMAIS SELVAGENS</subtitulo>
+        <iden>SECRETÁRIA DE EDUCAÇÃO</iden>
+        <logo>22.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS!</correcto>
+        <incorrecto son="" modo="1" >TENTE OUTRA VEZ...</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-33">paintfundo.jpg</imaxe>
+              <texto posx="341" posy="11" ancho="392" largo="285"><![CDATA[
+<p align="center">
+<font color="#008040" face="@Arial" size="18"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+<b>ANIMAIS SELVAGENS</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTE AS IMAGENS DO FILHOTES PARA SEUS PAIS</cabeceira>
+              <peza imaxe="aguiasave.jpg" texto="AGUIA" son="">aguiaFilhote.jpg</peza>
+              <peza imaxe="cavalo.jpg" texto="CAVALO" son="">cavaloFilhote.jpg</peza>
+              <peza imaxe="elefante.jpg" texto="ELEFANTE" son="">elefanteFilhote.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>7</tipo>
+              <cabeceira>VAMOS SEPARAR ANIMAIS PEQUENOS ENTRE ANIMAIS GRANDES</cabeceira>
+              <caixa1>ANIMAIS PEQUENOS</caixa1>
+              <caixa2>ANIMAIS GRANDES</caixa2>
+              <mini caixa="1">camundongo.jpg</mini>
+              <mini caixa="2">rinoceronte.jpg</mini>
+              <mini caixa="1">coelho.jpg</mini>
+              <mini caixa="2">girafaGrande.jpg</mini>
+              <mini caixa="1">papagaio.jpg</mini>
+              <mini caixa="2">elefante.jpg</mini>
+              <cfondo>CEEFFF</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>44</tipo>
+              <cabeceira>ENCONTRE E ARRASTE O NOME DOS ANIMAIS</cabeceira>
+              <cousa nome="                 ZEBRA" son="">zebra.jpg</cousa>
+              <cousa nome="                MACACO " son="">macaco.jpg</cousa>
+              <cousa nome="                   LEÃO" son="">le_ao.jpg</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>avestruz.jpg</parellas>
+              <parellas>gorila.jpg</parellas>
+              <parellas>LINGUADAGIRAFA.jpg</parellas>
+              <parellas>hipopotamo.jpg</parellas>
+              <parellas>coruja.jpg</parellas>
+              <parellas>lobos.jpg</parellas>
+              <cfondo>B3FFFF</cfondo>
+              <ctapa>008040</ctapa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>7</tipo>
+              <cabeceira>SEPARE OS ANIMAIS QUE VIVEM NA MATA E OS QUE VIVEM NA NEVE</cabeceira>
+              <fondocaixa1 trans="30">coelho.jpg</fondocaixa1>
+              <fondocaixa2 trans="30">ursodaneve.jpg</fondocaixa2>
+              <caixa1>ANIMAIS QUE VIVEM NA MATA</caixa1>
+              <caixa2>ANIMAIS QUE VIVEM NA NEVE</caixa2>
+              <mini caixa="1">onccapintada.jpg</mini>
+              <mini caixa="2">lobodaneve.jpg</mini>
+              <mini caixa="1">papagaio.jpg</mini>
+              <mini caixa="2">pinguins.jpg</mini>
+              <mini caixa="1">coelho.jpg</mini>
+              <mini caixa="2">ursodaneve.jpg</mini>
+              <cfondo>CEEFFF</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>3</tipo>
+              <cabeceira>MONTE O QUEBRA-CABEÇA</cabeceira>
+              <imaxe>desenhopanda2.png</imaxe>
+              <imfondo  trans="30">desenhopanda2.png</imfondo>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>12</tipo>
+              <cabeceira>VOCÊ CONHEÇE ESSES ANIMAIS ?</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="GORILA">gorila.jpg</galeria>
+              <galeria grande="" son="" texto="TIGRE">tigre.jpg</galeria>
+              <galeria grande="" son="" texto="ONÇA PINTADA">onccapintada.jpg</galeria>
+              <galeria grande="" son="" texto="BUFALO">bufalo.jpg</galeria>
+              <galeria grande="" son="" texto="CAMUNDONGO">camundongo.jpg</galeria>
+              <galeria grande="" son="" texto="COALA">coala.jpg</galeria>
+        </paxina>
+        <paxina id="9" >
+              <tipo>27</tipo>
+              <cabeceira>DESENHE OS ANIMAIS QUE VOCÊ CONHECEU.</cabeceira>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="45" posy="50">animal-157733_640.png</imaxe>
+              <texto posx="0" posy="-10" ancho="561" largo="194"><![CDATA[
+<p align="center">
+<font color="#000000" face="@Meiryo" size="20"><b><i>Parabéns você concluiu a aula!</font></i></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

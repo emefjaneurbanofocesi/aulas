@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>rec_alimentacao</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FFFFB3</corbanda>
+        <cornavega>FF8040</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>A NOSSA ALIMENTAÇÃO</subtitulo>
+        <imaxefondo posx="-52" posy="0" trans="100">22.png</imaxefondo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="Resposta_certa.mp3" modo="1" >PARABÉNS!</correcto>
+        <incorrecto son="efeito_sonoro_fail.mp3" modo="1" >TENTE DE NOVO!</incorrecto>
+        <modomenu>1</modomenu>
+        <liga ir="2">INTRODUÇÃO</liga>
+        <liga ir="3">GALERIA</liga>
+        <liga ir="6">ATIVIDADES</liga>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="281" posy="17">cesta-de-frutas-outono1.jpg</imaxe>
+              <texto posx="0" posy="2" ancho="400" largo="344"><![CDATA[
+<p align="left">
+<font color="#FF5353" face="Calibri" size="46"><b>A NOSSA ALIMENTAÇÃO</b><br>
+</font><font color="#FF8040" face="Calibri" size="20">Ensino Fundamental I<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>50</tipo>
+              <cabeceira>Escreva o nome dos alimentos corretamente:</cabeceira>
+              <peza imaxe="beterraba.gif"  son="">_B_E_T_E_R_R_A_B_A</peza>
+              <peza imaxe="kiwi.jpg"  son="">_K_I_W_I</peza>
+              <peza imaxe="appl3.jpg"  son="">_M_A_Ç_Ã</peza>
+        </paxina>
+        <paxina id="3" >
+              <tipo>50</tipo>
+              <cabeceira>Escreva o nome dos alimentos corretamente:</cabeceira>
+              <peza imaxe="pessego.png"  son="">_P_Ê_S_S_E_G_O</peza>
+              <peza imaxe="COMID009.jpg"  son="">_A_B_A_C_A_T_E</peza>
+              <peza imaxe="alface.jpg"  son="">A_L_F_A_CE</peza>
+        </paxina>
+        <paxina id="4" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>COMID003.jpg</parellas>
+              <parellas>COMID009.jpg</parellas>
+              <parellas>COMID010.jpg</parellas>
+              <parellas>COMID284.jpg</parellas>
+              <parellas>COMID291.jpg</parellas>
+              <parellas>COMID358.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>29</tipo>
+              <cabeceira>COMPLETE OS TRECHOS DA MÚSICA</cabeceira>
+              <son auto="1">225_Batatinha_Quando_Nasce.mp3</son>
+              <texto><![CDATA[
+ *BATATINHA* QUANDO NASCE 
+
+ SE ESPARRAMA PELO *CHÃO*
+
+ *MENININHA* QUANDO *DORME*
+
+ PÕE A *MÃO* NO *CORAÇÃO* .]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>18</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <cabeceira>QUEBRA CABEÇA</cabeceira>
+              <imaxe>garfield-picnic.jpg</imaxe>
+              <imfondo  trans="40">garfield-picnic.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>4</tipo>
+              <cabeceira>CAÇA-PALAVRAS</cabeceira>
+              <modo>1</modo>
+              <sopa enun="CEREAIS">CEREAIS</sopa>
+              <sopa enun="HORTALIÇAS">HORTALIÇAS</sopa>
+              <sopa enun="LEITE">LEITE</sopa>
+              <sopa enun="LEGUMINOSAS">LEGUMINOSAS</sopa>
+              <sopa enun="CARNES">CARNES</sopa>
+              <sopa enun="ÓLEOS">OLEOS</sopa>
+              <sopa enun="AÇÚCARES">AÇUCARES</sopa>
+              <sopa enun="DOCES">DOCES</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQTRSTYUVWXYZ</fondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>38</tipo>
+              <cabeceira>ARRASTE AS FRUTAS ATÉ SUAS IMAGENS</cabeceira>
+              <imaxe>sombra04.swf</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="9" >
+              <tipo>18</tipo>
+              <cabeceira>COMPLETE AS PALAVRAS (USE O TECLADO)</cabeceira>
+              <modo>1</modo>
+              <completa ant="OV" post="S">O</completa>
+              <completa ant="LE" post="MES">GU</completa>
+              <completa ant="HOR" post="ÇAS">TALI</completa>
+              <completa ant="FRU" post="">TAS</completa>
+              <completa ant="ALI" post="TOS">MEN</completa>
+              <completa ant="AÇU" post="RES">CA</completa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

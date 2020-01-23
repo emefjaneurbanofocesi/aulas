@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+          <recursos>$/home/professor/AULA GUSTAVO/recursos/</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+          <corfondo>ffffff</corfondo>
+        <corbanda>3AB7FF</corbanda>
+        <cornavega>0063FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>Água</titulo>
+          <subtitulo>EMEI/EMEF PROF ANTONIA RIBEIRO DA SILVA</subtitulo>
+          <autor>VALDETE, SUZANA, JAQUELINE, IVONE E BEATRIZ</autor>
+          <informe>1</informe>
+          <botonson>1</botonson>
+          <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS!</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <cabeceira>inicio</cabeceira>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>video</cabeceira>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>12</tipo>
+              <cabeceira>IMAGENS DE DISPERDICIO DE ÁGUA</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="DESPERDÍCIO AO TOMAR BANHO">/home/professor/AULA GUSTAVO/recursos/desperdicio_agua003.png</galeria>
+              <galeria grande="" son="" texto="ESCOVANDO COM A TORNEIRA ABERTA">/home/professor/AULA GUSTAVO/recursos/desperdicio-de-agua.png</galeria>
+              <galeria grande="" son="" texto="ESFREGANDO-SE COM O CHUVEIRO ABERTO">/home/professor/AULA GUSTAVO/recursos/verao_estacao_do_desperdicio1.jpg</galeria>
+              <galeria grande="" son="" texto="BARBEANDO-SE COM A TORNEIRA ABERTA">/home/professor/AULA GUSTAVO/recursos/hqdefault.jpg</galeria>
+        </paxina>
+        <paxina id="5" >
+              <tipo>7</tipo>
+              <cabeceira>CLASSIFIQUE O QUE É DESPERDÍCIO E ECONOMIZAR ÁGUA?</cabeceira>
+              <caixa1>ECONOMIZAR ÁGUA</caixa1>
+              <caixa2>DESPERDÍCIO DE ÁGUA</caixa2>
+              <mini caixa="2">/home/professor/AULA GUSTAVO/recursos/Desperdício_de_água_GetNinjas.jpg</mini>
+              <mini caixa="2">/home/professor/AULA GUSTAVO/recursos/desperdicio-de-agua.png</mini>
+              <mini caixa="1">/home/professor/AULA GUSTAVO/recursos/Pia do banheiro - abril.jpg</mini>
+              <mini caixa="2">/home/professor/AULA GUSTAVO/recursos/desperdicio_agua003.png</mini>
+              <mini caixa="1">/home/professor/AULA GUSTAVO/recursos/Chuveiro.jpg</mini>
+              <mini caixa="2">/home/professor/AULA GUSTAVO/recursos/hqdefault.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <cabeceira>MONTE O QUEBRA-CABEÇA</cabeceira>
+              <imaxe>/home/professor/AULA GUSTAVO/recursos/AGUA-DESTAQUE.jpg</imaxe>
+              <imfondo  trans="30">/home/professor/AULA GUSTAVO/recursos/AGUA-DESTAQUE.jpg</imfondo>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>17</tipo>
+              <parellas>/home/professor/AULA GUSTAVO/recursos/agua-5.jpg</parellas>
+              <parellas>/home/professor/AULA GUSTAVO/recursos/Chuveiro.jpg</parellas>
+              <parellas>/home/professor/AULA GUSTAVO/recursos/desperdicio-de-agua.png</parellas>
+              <parellas>/home/professor/AULA GUSTAVO/recursos/AGUA-DESTAQUE.jpg</parellas>
+              <parellas>/home/professor/AULA GUSTAVO/recursos/desperdicio_agua003.png</parellas>
+              <parellas>/home/professor/AULA GUSTAVO/recursos/untitled.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>20</tipo>
+              <modo>1</modo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>5</tipo>
+              <ctapa>84E1FD</ctapa>
+              <rdim>50</rdim>
+        </paxina>
+    </libro>
+</lim>

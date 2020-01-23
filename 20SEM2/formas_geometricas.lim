@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>00FF00</corbanda>
+        <cornavega>FF8000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>FORMAS GEOMÉTRICAS</subtitulo>
+        <logo>ed.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="LEGAL12.mp3" modo="1" >PARABÉNS!</correcto>
+        <incorrecto son="tente_novamente.mp3" modo="1" >TENTE NOVAMENTE!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-26">formas_intordu..png</imaxe>
+              <texto posx="92" posy="205" ancho="520" largo="305"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="18">EMEF </font><font color="#FF8000" face="Verdana" size="18">JANE URBANO FOCESI<br>
+<br>
+</font><font color="#000000" face="Verdana" size="18">AULA:</font><font color="#FF8000" face="Verdana" size="18"><i>FORMAS GEOMÉTRICAS </i><br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>triangulo2.png</parellas>
+              <parellas>retangulo2.png</parellas>
+              <parellas>quadrado2.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>A8FF51</ctapa>
+              <tempo>20</tempo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>7</tipo>
+              <cabeceira>CLASSIFIQUE AS IMAGENS</cabeceira>
+              <pe>ARRASTE AS IMAGENS A CAIXA CORRESPONDENTE</pe>
+              <fondocaixa1 trans="30">download.png</fondocaixa1>
+              <fondocaixa2 trans="15">DEDO.png</fondocaixa2>
+              <caixa1>FORMAS GEOMÉTRICAS</caixa1>
+              <caixa2>ANIMAIS</caixa2>
+              <mini caixa="1">Imagem7.png</mini>
+              <mini caixa="2">Imagem6.png</mini>
+              <mini caixa="2">Imagem4.png</mini>
+              <mini caixa="1">Imagem8.png</mini>
+              <mini caixa="1">Imagem9.png</mini>
+              <mini caixa="2">Imagem5.png</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <cabeceira>ARRASTE O NOME DAS FORMAS GEOMÉTRICAS</cabeceira>
+              <modo>3</modo>
+              <cousa nome="QUADRADO">Imagem7.png</cousa>
+              <cousa nome="CÍRCULO">Imagem9.png</cousa>
+              <cousa nome="TRIÂNGULO">Imagem8.png</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>32</tipo>
+              <cabeceira>REPITA A SEQUÊNCIA</cabeceira>
+              <pe>CLIQUE E ARRASTE AS FORMAS GEOMETRICAS PARA FORMAR A SEQUÊNCIA</pe>
+              <modo></modo>
+              <etiqueta>Imagem15.png</etiqueta>
+              <etiqueta>Imagem8.png</etiqueta>
+              <etiqueta>Imagem16.png</etiqueta>
+              <etiqueta>Imagem10.png</etiqueta>
+        </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <cabeceira>QUEBRA CABEÇA</cabeceira>
+              <imaxe>forma_s3.jpg</imaxe>
+              <imfondo  trans="18">forma_s3.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>Imagem7.png</parellas>
+              <parellas>Imagem10.png</parellas>
+              <parellas>Imagem12.png</parellas>
+              <parellas>Imagem8.png</parellas>
+              <parellas>Imagem9.png</parellas>
+              <parellas>Imagem11.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF8000</ctapa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>16</tipo>
+              <cabeceira>ARRASTE AS FIGURAS</cabeceira>
+              <externa dimx="600" dimy="400">sombra07.swf</externa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>38</tipo>
+              <imaxe>GIF.swf</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#FFFF00" face="Tunga" size="20"><b>P</b></font><font color="#000080" face="Tunga" size="20"><b>A</b></font><font color="#FF0080" face="Tunga" size="20"><b>R</b></font><font color="#000080" face="Tunga" size="20"><b>A</b></font><font color="#008000" face="Tunga" size="20"><b>B</b></font><font color="#000080" face="Tunga" size="20"><b>É</b></font><font color="#00FFFF" face="Tunga" size="20"><b>N</b></font><font color="#000080" face="Tunga" size="20"><b>S !!!</b><br>
+<br>
+</font><font color="#000080" face="Tunga" size="16"><b>VOCÊ FINALIZOU A AULA</b><br>
+</font></p>
+<p align="center">
+<font color="#800080" face="Comic" size="28"><b>VAMOS JOGAR ?</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="10" >
+              <tipo>16</tipo>
+              <externa dimx="500" dimy="200">babyangel.swf</externa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>16</tipo>
+              <externa dimx="500" dimy="400">4-wheel-madness.swf</externa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

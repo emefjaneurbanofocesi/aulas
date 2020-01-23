@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <recursos>$RECURSOS\</recursos>
+        <idioma>4</idioma>
+          <corfondo>ffffff</corfondo>
+        <corbanda>00FF00</corbanda>
+        <cornavega>FF8000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <subtitulo>FOMAS GEOMÉTRICAS</subtitulo>
+        <logo>C:\Users\user\Desktop\Agosto\RECURSOS\ed.png</logo>
+          <imaxefondo posx="-120" posy="118" trans="15">C:\Users\user\Desktop\Agosto\RECURSOS\formas intordu..png</imaxefondo>
+          <informe>1</informe>
+          <botonson>1</botonson>
+          <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS!</correcto>
+        <incorrecto son="C:\Users\user\Desktop\Agosto\RECURSOS\tente novamente.mp3" modo="1" >TENTE NOVAMENTE!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="324" posy="140" ancho="520" largo="305"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="18">CEI/EMEI </font><font color="#FF8000" face="Verdana" size="18">THEREZA YANESSE SCHIMIDT CARDOZO</font><font color="#000000" face="Verdana" size="18"><br>
+AULA:</font><font color="#FF8000" face="Verdana" size="18"><i>FORMAS GEOMÉTRICAS </i></font><font color="#000000" face="Verdana" size="18"><i><br>
+PRODUÇÃO: </i></font><font color="#FF8000" face="Verdana" size="18"><i>TÁLITA SIERRA </i></font><font color="#000000" face="Verdana" size="18"><i><br>
+ELABORAÇÃO: </i></font><font color="#FF8000" face="Verdana" size="18"><i>VICTOR AUGUSTO</i></font><font color="#000000" face="Verdana" size="18"><i><br>
+ANO:</i></font><font color="#FF8000" face="Verdana" size="18"><i>1ª FASE B</font></i></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="2" posy="-13">C:\Users\user\Desktop\Agosto\RECURSOS\galinha.mp4</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>17</tipo>
+              <parellas>C:\Users\user\Desktop\Agosto\RECURSOS\circulo.png</parellas>
+              <parellas>C:\Users\user\Desktop\Agosto\RECURSOS\quadrado.png</parellas>
+              <parellas>C:\Users\user\Desktop\Agosto\RECURSOS\triangulo.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>7</tipo>
+              <caixa1>coloque o que é forma geometrica</caixa1>
+              <caixa2>coloque o que não é forma geométrica</caixa2>
+              <mini caixa="1">C:\Users\user\Desktop\Agosto\RECURSOS\triangulo1.gif</mini>
+              <mini caixa="1">C:\Users\user\Desktop\Agosto\RECURSOS\retangulo.png</mini>
+              <mini caixa="1">C:\Users\user\Desktop\Agosto\RECURSOS\quadrado.png</mini>
+              <mini caixa="2">C:\Users\user\Desktop\Agosto\RECURSOS\beijaflor1.jpg</mini>
+              <mini caixa="2">C:\Users\user\Desktop\Agosto\RECURSOS\Abelha Cute.JPG</mini>
+              <mini caixa="2">C:\Users\user\Desktop\Agosto\RECURSOS\borboletinha infantil.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="5" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="QUADRADO">C:\Users\user\Desktop\Agosto\RECURSOS\quadrado.png</cousa>
+              <cousa nome="RETANGULO">C:\Users\user\Desktop\Agosto\RECURSOS\retangulo.png</cousa>
+              <cousa nome="TRIANGULO">C:\Users\user\Desktop\Agosto\RECURSOS\triangulo2.png</cousa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>32</tipo>
+              <modo></modo>
+              <etiqueta>C:\Users\user\Desktop\Agosto\RECURSOS\quadrado2.png</etiqueta>
+              <etiqueta>C:\Users\user\Desktop\Agosto\RECURSOS\retangulo2.png</etiqueta>
+              <etiqueta>C:\Users\user\Desktop\Agosto\RECURSOS\triangulo2.png</etiqueta>
+              <etiqueta>C:\Users\user\Desktop\Agosto\RECURSOS\circulo2.png</etiqueta>
+        </paxina>
+        <paxina id="7" >
+              <tipo>3</tipo>
+              <imaxe>C:\Users\user\Desktop\Agosto\RECURSOS\forma s3.jpg</imaxe>
+              <imfondo  trans="18">C:\Users\user\Desktop\Agosto\RECURSOS\forma s3.jpg</imfondo>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>17</tipo>
+              <parellas>C:\Users\user\Desktop\Agosto\RECURSOS\images nomes formas1.jpg</parellas>
+              <parellas>C:\Users\user\Desktop\Agosto\RECURSOS\retangulo2.png</parellas>
+              <parellas>C:\Users\user\Desktop\Agosto\RECURSOS\triangulo2.png</parellas>
+              <parellas>C:\Users\user\Desktop\Agosto\RECURSOS\quadrado2.png</parellas>
+              <parellas>C:\Users\user\Desktop\Agosto\RECURSOS\circulo2.png</parellas>
+              <parellas>C:\Users\user\Desktop\Agosto\RECURSOS\triangulo1.gif</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>15</tipo>
+              <cfondo>84E1FD</cfondo>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

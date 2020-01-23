@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recurso</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>FRUTAS</subtitulo>
+        <logo>logoeducadigital.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS</correcto>
+        <incorrecto son="" modo="1" >TENTE DE NOVO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-46">verao-frutas-tropicais-fundo_23-2147552800.jpg</imaxe>
+              <texto posx="210" posy="1" ancho="376" largo="165"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="14"><b>EMEF JANE URBANO FOCESI </b><br>
+<br>
+AULA:FRUTAS<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>abacaxi.jpg</parellas>
+              <parellas>abcate.jpg</parellas>
+              <parellas>banana.jpg</parellas>
+              <parellas>laranja.jpg</parellas>
+              <parellas>maca.jpg</parellas>
+              <parellas>morango.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>ARRASTE O NOME DA FRUTA</cabeceira>
+              <modo>3</modo>
+              <cousa nome="MORANGO">morango.jpg</cousa>
+              <cousa nome="BANANA">banana.jpg</cousa>
+              <cousa nome="ABACAXI">abacaxi.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>5</tipo>
+              <cabeceira>RAIO X</cabeceira>
+              <imaxe>kiwi.jpg</imaxe>
+              <imfondo  posx="178" posy="74">morango.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <rdim>150</rdim>
+        </paxina>
+        <paxina id="5" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA ANIMAIS COMENDO FRUTAS</cabeceira>
+              <parellas>cachorro.jpg</parellas>
+              <parellas>hamster.jpg</parellas>
+              <parellas>caqui.jpg</parellas>
+              <parellas>Coala.jpg</parellas>
+              <parellas>macaco.jpg</parellas>
+              <parellas>tartaruga.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <cabeceira>QUEBRA-CABEÇAS</cabeceira>
+              <imaxe>hamster.jpg</imaxe>
+              <imfondo  trans="50">hamster.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>3</tipo>
+              <cabeceira>QUEBRA-CABEÇAS</cabeceira>
+              <imaxe>cachorro.jpg</imaxe>
+              <imfondo  trans="50">cachorro.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>7</tipo>
+              <cabeceira>CLASSIFIQUE AS IMAGENS</cabeceira>
+              <fondocaixa1 trans="50">verao-frutas-tropicais-fundo_23-2147552800.jpg</fondocaixa1>
+              <fondocaixa2 trans="100">100</fondocaixa2>
+              <caixa1>FRUTAS</caixa1>
+              <caixa2>OBJETOS</caixa2>
+              <mini caixa="1">abacaxi.jpg</mini>
+              <mini caixa="1">4.jpg</mini>
+              <mini caixa="1">banana2.jpg</mini>
+              <mini caixa="2">RELOGIO.jpg</mini>
+              <mini caixa="2">CADEIRA.jpg</mini>
+              <mini caixa="1">kiwi.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

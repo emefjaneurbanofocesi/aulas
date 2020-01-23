@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <recursos>$</recursos>
+        <idioma>4</idioma>
+          <corfondo>CEEFFF</corfondo>
+        <corbanda>008000</corbanda>
+        <cornavega>008000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>ANIMAIS SELVAGENS</titulo>
+          <iden>SECRETÁRIA DE EDUCAÇÃO</iden>
+        <logo>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\22.png</logo>
+          <informe>1</informe>
+          <botonson>1</botonson>
+          <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS!</correcto>
+        <incorrecto son="" modo="1" >TENTE OUTRA VEZ...</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-33">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\paintfundo.jpg</imaxe>
+              <texto posx="431" posy="5" ancho="392" largo="285"><![CDATA[
+<p align="center">
+<font color="#008040" face="@Arial" size="18"><b>CEI FRANSCISO ASSIS DE CARVALHO <br>
+ANIMAIS SELVAGENS<br>
+ELABORAÇÃO: PROFª MARIA APARECIDA<br>
+PRODUÇÃO: MIRELY FREITAS<br>
+1º FASE B</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTE AS IMAGENS DO FILHOTES PARA SEUS PAIS</cabeceira>
+              <peza imaxe="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\aguiasave.jpg" texto="AGUIA" son="">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\aguiaFilhote.jpg</peza>
+              <peza imaxe="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\cavalo.jpg" texto="CAVALO" son="">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\cavaloFilhote.jpg</peza>
+              <peza imaxe="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\elefante.jpg" texto="ELEFANTE" son="">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\elefanteFilhote.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>7</tipo>
+              <cabeceira>VAMOS SEPARAR ANIMAIS PEQUENOS ENTRE ANIMAIS GRANDES</cabeceira>
+              <caixa1>ANIMAIS PEQUENOS</caixa1>
+              <caixa2>ANIMAIS GRANDES</caixa2>
+              <mini caixa="1">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\camundongo.jpg</mini>
+              <mini caixa="2">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\rinoceronte.jpg</mini>
+              <mini caixa="1">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\coelho.jpg</mini>
+              <mini caixa="2">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\girafaGrande.jpg</mini>
+              <mini caixa="1">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\papagaio.jpg</mini>
+              <mini caixa="2">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\elefante.jpg</mini>
+              <cfondo>CEEFFF</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>CLIQUE NAS IMAGENS ONDE SE ENCONTRA OS ANIMAIS.</cabeceira>
+              <etiqueta imaxe="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\CAMA.jpg" texto="CAMA">0</etiqueta>
+              <etiqueta imaxe="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\ursopanda.jpg" texto="URSO">1</etiqueta>
+              <etiqueta imaxe="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\macaco.jpg" texto="MACACO">1</etiqueta>
+              <etiqueta imaxe="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\ursodaneve.jpg" texto="URSO DA NEVE ">1</etiqueta>
+              <etiqueta imaxe="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\TELEFONE.jpg" texto="TELEFONE">0</etiqueta>
+              <etiqueta imaxe="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\girafaezebra.jpg" texto="GIRAFA E ZEBRAS">1</etiqueta>
+              <cfondo>BFFFDF</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>44</tipo>
+              <cabeceira>ENCONTRE E ARRASTE O NOME DOS ANIMAIS</cabeceira>
+              <cousa nome="                 ZEBRA" son="">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\zebra.jpg</cousa>
+              <cousa nome="                MACACO" son="">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\macaco.jpg</cousa>
+              <cousa nome="                   LEÃO" son="">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\leão.jpg</cousa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\avestruz.jpg</parellas>
+              <parellas>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\gorila.jpg</parellas>
+              <parellas>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\LINGUADAGIRAFA.jpg</parellas>
+              <parellas>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\hipopotamo.jpg</parellas>
+              <parellas>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\coruja.jpg</parellas>
+              <parellas>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\lobos.jpg</parellas>
+              <cfondo>B3FFFF</cfondo>
+              <ctapa>008040</ctapa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>3</tipo>
+              <cabeceira>MONTE O QUEBRA-CABEÇA</cabeceira>
+              <imaxe>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\desenhopanda2.png</imaxe>
+              <imfondo  trans="30">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\desenhopanda2.png</imfondo>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>50</tipo>
+              <cabeceira>VAMOS OUVIR OS ANIMAIS!</cabeceira>
+              <peza imaxe="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\gorila.jpg"  son="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\som_de_gorila_www.toquesengracadosmp3.com.mp3">GORILA</peza>
+              <peza imaxe="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\papagaio.jpg"  son="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\efeitossonoros-periquitos-fb29e5.mp3">PAPAGAIO</peza>
+              <peza imaxe="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\lobos.jpg"  son="C:\Users\17458\Desktop\ANIMAIS SELVAGENS\toque_para_celular_uivo_de_lobo_www.toquesengracadosmp3.com.mp3">LOBOS</peza>
+        </paxina>
+        <paxina id="9" >
+              <tipo>12</tipo>
+              <cabeceira>VOCÊ CONHEÇE ESSES ANIMAIS ?</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="GORILA">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\gorila.jpg</galeria>
+              <galeria grande="" son="" texto="TIGRE">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\tigre.jpg</galeria>
+              <galeria grande="" son="" texto="ONÇA PINTADA">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\onçapintada.jpg</galeria>
+              <galeria grande="" son="" texto="BUFALO">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\bufalo.jpg</galeria>
+              <galeria grande="" son="" texto="CAMUNDONGO">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\camundongo.jpg</galeria>
+              <galeria grande="" son="" texto="COALA">C:\Users\17458\Desktop\ANIMAIS SELVAGENS\coala.jpg</galeria>
+        </paxina>
+        <paxina id="10" >
+              <tipo>35</tipo>
+              <cabeceira>OBSERVE OS ANIMAIS</cabeceira>
+              <forma>1</forma>
+              <completa>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\ursodaneve.jpg</completa>
+              <completa>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\macacolingua.jpeg</completa>
+              <completa>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\aguiasave.jpg</completa>
+              <completa>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\rinoceronte.jpg</completa>
+              <completa>C:\Users\17458\Desktop\ANIMAIS SELVAGENS\avestruz.jpg</completa>
+        </paxina>
+    </libro>
+</lim>

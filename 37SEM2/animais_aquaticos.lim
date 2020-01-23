@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recurso</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <corbanda>88C4FF</corbanda>
+        <cornavega>8CC6FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>ANIMAIS AQUÁTICOS</subtitulo>
+        <logo>logo__conecta_png.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS</correcto>
+        <incorrecto son="" modo="1" >TENTE OUTRA VEZ.</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-40">papeldeparede.jpg</imaxe>
+              <texto posx="161" posy="-30" ancho="422" largo="293"><![CDATA[
+<p align="center">
+<font color="#59ACFF" face="Showcard" size="18"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+ANIMAIS AQUÁTICOS<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="79">tubaroes.png</imaxe>
+              <texto posx="279" posy="12" ancho="461" largo="205"><![CDATA[
+<p align="center">
+<font color="#5FB3F1" face="Trebuchet" size="18"><b>ANIMAIS AQUÁTICOS <br>
+<br>
+SÃO ANIMAIS QUE VIVEM A MAIOR PARTE DO TEMPO DENTRO DA ÁGUA, SEJA ELA DE RIOS, LAGOS OU MAR.</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>3</tipo>
+              <cabeceira>MONTE O QUEBRA-CABEÇA</cabeceira>
+              <imaxe>cavalomarinho.jpg</imaxe>
+              <imfondo  trans="20">cavalomarinho.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>17</tipo>
+              <cabeceira>ENCONTRE OS PARES</cabeceira>
+              <parellas>nemoepai.jpg</parellas>
+              <parellas>polvo2.jpg</parellas>
+              <parellas>estrelapatrick.png</parellas>
+              <parellas>caramujo2.PNG</parellas>
+              <parellas>peixeoscar.jpg</parellas>
+              <parellas>peixinhoamarelo.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FFFFB0</ctapa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>7</tipo>
+              <cabeceira>SEPARE AS IMAGENS ENTRE PEIXES E TUBARÕES.</cabeceira>
+              <fondocaixa1 trans="20">peixelaranja2.jpg</fondocaixa1>
+              <fondocaixa2 trans="20">tubaraodesenho.jpg</fondocaixa2>
+              <caixa1>PEIXES</caixa1>
+              <caixa2>TUBARÕES</caixa2>
+              <mini caixa="1">doryalone.jpg</mini>
+              <mini caixa="2">tubaraozinho.jpg</mini>
+              <mini caixa="1">peixelaranja2.jpg</mini>
+              <mini caixa="2">tubar_aomal.png</mini>
+              <mini caixa="1">peixerosa.jpg</mini>
+              <mini caixa="2">tubaraodesenho.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>17</tipo>
+              <cabeceira>ENCONTRE OS PARES</cabeceira>
+              <parellas>lulamolusco.jpg</parellas>
+              <parellas>caramujo.png</parellas>
+              <parellas>plankton.png</parellas>
+              <parellas>doryalone.jpg</parellas>
+              <parellas>estrelapatrick2.png</parellas>
+              <parellas>peixebaiacu2.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FFFFB0</ctapa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>14</tipo>
+              <cabeceira>IDENTIFIQUE OS ANIMAIS.</cabeceira>
+              <peza imaxe="tartarugamonga.png" texto="" son="">tartarugavidareal.jpg</peza>
+              <peza imaxe="baleiabranca.jpg" texto="" son="">baleiavidarealbranca.jpg</peza>
+              <peza imaxe="nemo111111111111111111111.jpg" texto="" son="">nemo222222222222222222222222.jpg</peza>
+              <cfondo>D9FFFF</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>12</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cabeceira>CONHEÇE ESSES ANIMAIS?</cabeceira>
+              <modo>1</modo>
+              <ctapa>0</ctapa>
+              <galeria grande="" son="" texto="CARANGUEJO">caranguejo2.gif</galeria>
+              <galeria grande="" son="" texto="LEÃO-MARINHO">leoesmarinhos.jpg</galeria>
+              <galeria grande="" son="" texto="RAIA">raia.jpg</galeria>
+              <galeria grande="" son="" texto="LULA">lulaa.jpg</galeria>
+              <galeria grande="" son="" texto="PEIXE ESPADA">peixeespada.jpg</galeria>
+              <galeria grande="" son="" texto="PEIXE BAIACU">baiacu222222222.jpg</galeria>
+        </paxina>
+        <paxina id="9" >
+              <tipo>27</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <etiqueta>caramujo.png</etiqueta>
+              <etiqueta>caranguejo2_(2).gif</etiqueta>
+              <etiqueta>estrela.png</etiqueta>
+              <etiqueta>estrelapatrick.png</etiqueta>
+              <etiqueta>tubar_aomal.png</etiqueta>
+              <etiqueta>peixerosa.jpg</etiqueta>
+              <etiqueta>plankton.png</etiqueta>
+              <etiqueta>tartarugamonga.png</etiqueta>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

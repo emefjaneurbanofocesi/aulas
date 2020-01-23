@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>008000</corbanda>
+        <cornavega>008000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <logo>banner-educa1_(1).png</logo>
+        <imaxefondo posx="-246" posy="-70" trans="10">superimagem-megacurioso-727349071001035846.jpg</imaxefondo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >MUITO BEM!</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <cabeceira>BEM VINDOS A AULA DE MATEMÁTICA!</cabeceira>
+              <imaxe auto="1"  posx="368" posy="92">png.png</imaxe>
+              <texto posx="0" posy="24" ancho="636" largo="270"><![CDATA[
+<p align="left">
+<font color="#0000FF" face="Verdana" size="20"><b><u>PREPARADOS PARA CONTAR?</u></b><br>
+</font><font color="#0080FF" face="Verdana" size="20"><b>EMEF PROFª JANE URBANO FOCESI</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>14</tipo>
+              <cabeceira>JUNTE A IMAGEM AOS SEUS NÚMEROS</cabeceira>
+              <peza imaxe="download.png" texto="" son="">9cec740daaf0c7f1a4adc127066462f3.jpg</peza>
+              <peza imaxe="2.png" texto="" son="">f3fc4df148e1f26db0655082fadaf1f6.jpg</peza>
+              <peza imaxe="3.jpg" texto="" son="">49a02269fd87edd944f3c61a3df22a42.jpg</peza>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>14</tipo>
+              <peza imaxe="4.jpg" texto="" son="">c1fb88faae94a6e357f92ca33c8b1888.jpg</peza>
+              <peza imaxe="5.png" texto="" son="">d4d417ade0e9cae87ae71776a2dd82b6.jpg</peza>
+              <peza imaxe="66.png" texto="" son="">619447ec38fb9df56fde05f07cd2229b.jpg</peza>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>14</tipo>
+              <peza imaxe="Abelhas-67716.gif" texto="" son="">0461ac05204c6ef051e3b554e40fb299.jpg</peza>
+              <peza imaxe="8.jpg" texto="" son="">2917e180000c43105426539319c423ae.jpg</peza>
+              <peza imaxe="99.jpg" texto="" son="">7cbd790b899729c332fcca804647fc90.jpg</peza>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>14</tipo>
+              <peza imaxe="counting-objects.gif" texto="" son="">numero101-300x225.jpg</peza>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>11</tipo>
+              <cabeceira>ESCREVA O NÚMERO DA IMAGEM NAS LACUNAS</cabeceira>
+              <modo>1</modo>
+              <cousa nome="0">9931c2931fe3909320329c1cd916e1fc.jpg</cousa>
+              <cousa nome="1">9cec740daaf0c7f1a4adc127066462f3.jpg</cousa>
+              <cousa nome="2">f3fc4df148e1f26db0655082fadaf1f6.jpg</cousa>
+              <cousa nome="3">49a02269fd87edd944f3c61a3df22a42.jpg</cousa>
+              <cousa nome="4">c1fb88faae94a6e357f92ca33c8b1888.jpg</cousa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>11</tipo>
+              <cabeceira>ESCREVA O NÚMERO DA IMAGEM NAS LACUNAS</cabeceira>
+              <modo>1</modo>
+              <cousa nome="5">d4d417ade0e9cae87ae71776a2dd82b6.jpg</cousa>
+              <cousa nome="6">619447ec38fb9df56fde05f07cd2229b.jpg</cousa>
+              <cousa nome="7">0461ac05204c6ef051e3b554e40fb299.jpg</cousa>
+              <cousa nome="8">2917e180000c43105426539319c423ae.jpg</cousa>
+              <cousa nome="9">7cbd790b899729c332fcca804647fc90.jpg</cousa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>11</tipo>
+              <cabeceira>ESCREVA O NÚMERO DA IMAGEM NAS LACUNAS</cabeceira>
+              <modo>1</modo>
+              <cousa nome="10">numero101-300x225.jpg</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>3</tipo>
+              <cabeceira>VAMOS JOGAR UM QUEBRA-CABEÇA?</cabeceira>
+              <imaxe>QUBRA.png</imaxe>
+              <imfondo  trans="20">QUBRA.png</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="84" posy="62">boy-160168-640.png</imaxe>
+              <texto posx="0" posy="-35" ancho="662" largo="111"><![CDATA[
+<p align="center">
+<font color="#0080FF" face="Verdana" size="20"><b>PARABÉNS, VOCÊ CONCLUIU A AULA!!!<br>
+    ATÉ A PRÓXIMA!</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

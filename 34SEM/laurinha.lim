@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>21D2E7</corbanda>
+        <cornavega>6BE48A</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>CORES (AS CORES DE LAURINHA)</subtitulo>
+        <logo>logo.png</logo>
+        <imaxefondo posx="-78" posy="50" trans="15">Mistura_tinta.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >:D</correcto>
+        <incorrecto son="" modo="1" >:(</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>capa.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="18"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+<b>AULA: AS CORES DE LAURINHA (PEDRO BANDEIRA)</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>7</tipo>
+              <fondocaixa1 trans="50">vermelho_claro.jpg</fondocaixa1>
+              <fondocaixa2 trans="50">azul_ceu_4811_400x400.jpg</fondocaixa2>
+              <caixa1>VERMELHO</caixa1>
+              <caixa2>AZUL</caixa2>
+              <mini caixa="1">red-lamborghini-52584.png</mini>
+              <mini caixa="2">Blue-Beetle-Profile.png</mini>
+              <mini caixa="2">all_star.png</mini>
+              <mini caixa="1">salto.png</mini>
+              <mini caixa="1">1406320996.png</mini>
+              <mini caixa="2">asas.png</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>27</tipo>
+              <imaxe>fundo.jpg</imaxe>
+              <etiqueta>planta.png</etiqueta>
+              <etiqueta>red-lamborghini-52584.png</etiqueta>
+              <etiqueta>Blue-Beetle-Profile.png</etiqueta>
+              <etiqueta>asas.png</etiqueta>
+              <etiqueta>all_star.png</etiqueta>
+              <etiqueta>1406320996.png</etiqueta>
+              <etiqueta>green_balloon.png</etiqueta>
+        </paxina>
+        <paxina id="4" >
+              <tipo>14</tipo>
+              <peza imaxe="AM+VER.png" texto="" son="">LARANJA.png</peza>
+              <peza imaxe="AZ+AM.png" texto="" son="">VERDE.png</peza>
+              <peza imaxe="VER+AZ.png" texto="" son="">ROXO.png</peza>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">colores.swf</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <imaxe>fogos.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="right">
+<font color="#080000" face="Comic" size="20">PARABÉNS VOCÊ TERMINOU A SUA AULA SOBRE CORES !!!<br>
+NA PRÓXIMA PÁGINA TEM UM JOGO SOBRE O ASSUNTO DE HOJE DIVIRTA-SE !<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

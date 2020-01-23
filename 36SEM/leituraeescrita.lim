@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSO</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>0080FF</corbanda>
+        <cornavega>0080FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>LEITURA E ESCRITA</subtitulo>
+        <logo>logo__conecta_png.png</logo>
+        <aspectosup >skin_4_sup.swf</aspectosup>
+        <aspectoinf >skin_inferior.swf</aspectoinf>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="Xilofone.mp3" modo="1" >PARABÉNS!!!</correcto>
+        <incorrecto son="ERROU.mp3" modo="1" >TENTE OUTRA VEZ...</incorrecto>
+        <modomenu>1</modomenu>
+        <liga ir="2,3,4,5,6">PARLENDAS</liga>
+        <liga ir="7,8,9,10,11,12,13,14,15">ATIVIDADES</liga>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="1">capa.png</imaxe>
+              <texto posx="90" posy="251" ancho="448" largo="107"><![CDATA[
+<p align="center">
+<font color="#000000" face="Tw" size="18"><b>EMEF JANE URBANO FOCESI </b><br>
+<br>
+<b>AULA: LEITURA E ESCRITA</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="80" posy="78">leitura_grupo.JPG</imaxe>
+              <texto posx="108" posy="6" ancho="383" largo="57"><![CDATA[
+<p align="center">
+<font color="#000000" face="Lucida Fax" size="20"><b>PARLENDAS CURTAS </font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>38</tipo>
+              <imaxe>Macaco_C_(2).jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#000000" face="Tw" size="24"><b>MEIO DIA <br>
+MACACO ASSOBIA<br>
+PANELA NO FOGO<br>
+BARRIGA VAZIA</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="4" >
+              <tipo>38</tipo>
+              <imaxe>1284409374.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#000000" face="Lucida" size="24"><b>QUEM COCHICHA <br>
+O RABO ESPICHA<br>
+COME PÃO COM LAGARTIXA</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <imaxe>popcorn.gif</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#000000" face="Tw" size="24"><b>PULA, PULA, PIPOQUINHA<br>
+PULA, PULA, SEM PARAR<br>
+E DEPOIS DÁ UMA VOLTINHA <br>
+CADA UM NO SEU LUGAR</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <imaxe>galinhaovinhos.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#000000" face="Tw" size="24"><b>A GALINHA DO VIZINHO<br>
+BOTA OVO AMARELINHO<br>
+BOTA 1, BOTA 2, BOTA 3...</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="9" posy="21">080903_leitura.jpg</imaxe>
+              <texto posx="285" posy="55" ancho="248" largo="46"><![CDATA[
+<p align="center">
+<font color="#000000" face="Poor Richard" size="20"><b>ATIVIDADES </font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="8" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTAR AS IMAGENS</cabeceira>
+              <peza imaxe="Galinha_ruiva1.gif" texto="" son="">nomegalionha.png</peza>
+              <peza imaxe="MACA.jpg" texto="" son="">nomemacaco.png</peza>
+              <peza imaxe="uesrx5nq4rd.png" texto="" son="">nomepipoca.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>34</tipo>
+              <cabeceira>DESEMBARALHE AS SEGUINTES PALAVRAS:</cabeceira>
+              <imaxe>galinhaovinhos.jpg</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>GALINHA</completa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>34</tipo>
+              <imaxe>MACACO1.png</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>MACACO</completa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>34</tipo>
+              <imaxe>uesrx5nq4rd.png</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>PIPOCA</completa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>popcorn.gif</parellas>
+              <parellas>Galinha_ruiva1.gif</parellas>
+              <parellas>MACA.jpg</parellas>
+              <parellas>lagartixa_1356138339_img.gif</parellas>
+              <parellas>popcornn.png</parellas>
+              <parellas>egg.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>AED7FF</ctapa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>35</tipo>
+              <cabeceira>ORDENE A QUANTIDADE DE OVOS</cabeceira>
+              <forma>0</forma>
+              <completa>egg.jpg</completa>
+              <completa>2eggs.png</completa>
+              <completa>3eggs.png</completa>
+              <completa>4eggs.png</completa>
+              <completa>5eggs.png</completa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>3</tipo>
+              <imaxe>lagartixa_1356138339_img.gif</imaxe>
+              <imfondo  trans="40">lagartixa_1356138339_img.gif</imfondo>
+              <filas>3</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="15" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="3">alunoslivros.jpg</imaxe>
+              <texto posx="403" posy="16" ancho="186" largo="98"><![CDATA[
+<p align="left">
+<font color="#000000" face="Perpetua Titling MT" size="12"><b>PARABÉNS VOCÊ CONCLUIU A ATIVIDADE !!!</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="16" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

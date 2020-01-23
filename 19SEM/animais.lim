@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>8000FF</corbanda>
+        <cornavega>8000FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>Animais</subtitulo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns!</correcto>
+        <incorrecto son="" modo="1" >Tente novamente!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="1">coelho.jpg</imaxe>
+              <texto posx="62" posy="277" ancho="442" largo="254"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18">ANIMAIS <br>
+<br>
+EMEF JANE URBANO FOCESI</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>17</tipo>
+              <parellas>ABELHA.jpg</parellas>
+              <parellas>CACHORRO.jpg</parellas>
+              <parellas>girafa.png</parellas>
+              <parellas>coelho.jpg</parellas>
+              <parellas>gato.jpg</parellas>
+              <parellas>macaco.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <imaxe>macaco.jpg</imaxe>
+              <texto><![CDATA[IDENTIFIQUE O ANIMAL:]]></texto>
+              <resp texto="ABCDEFGHIJKLMNOPQRSTUVWXYZ">MACACO</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <imaxe>gato.jpg</imaxe>
+              <texto><![CDATA[IDENTIFIQUE O ANIMAL:]]></texto>
+              <resp texto="ABCDEFGHIJKLMNOPQRSTUVWXYZ">GATO</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <imaxe>girafa.png</imaxe>
+              <texto><![CDATA[IDENTIFIQUE O ANIMAL:]]></texto>
+              <resp texto="ABCDEFGHIJKLMNOPQRSTUVWXYZ">GIRAFA</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <imaxe>rato.jpg</imaxe>
+              <texto><![CDATA[IDENTIFIQUE O ANIMAL:]]></texto>
+              <resp texto="ABCDEFGHIJKLMNOPQRSTUVWXYZ">RATO</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <imaxe>tartaruga.png</imaxe>
+              <texto><![CDATA[IDENTIFIQUE O ANIMAL:]]></texto>
+              <resp texto="ABCDEFGHIJKLMNOPQRSTUVWXYZ">TARTARUGA</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>4</tipo>
+              <cabeceira>Encontre os nomes</cabeceira>
+              <modo>1</modo>
+              <sopa enun="ABELHA">ABELHA</sopa>
+              <sopa enun="CACHORRO">CACHORRO</sopa>
+              <sopa enun="GATO">GATO</sopa>
+              <sopa enun="MACACO">MACACO</sopa>
+              <sopa enun="SAPO">SAPO</sopa>
+              <sopa enun="VACA">VACA</sopa>
+              <sopa enun="GIRAFA">GIRAFA</sopa>
+              <sopa enun="TARTARUGA">TARTARUGA</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>X</fondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="153" posy="97">capa.jpg</imaxe>
+              <texto posx="85" posy="0" ancho="436" largo="233"><![CDATA[
+<p align="center">
+<font color="#080000" face="Comic" size="24">PARABÉNS!<br>
+VOCÊ FINALIZOU A AULA</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

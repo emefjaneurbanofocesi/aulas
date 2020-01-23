@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>D7F2FF</corfondo>
+        <corbanda>0080FF</corbanda>
+        <cornavega>0080FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>ANIMAIS MAMÍFEROS</subtitulo>
+        <logo>logoeducadigital.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >MUITO BEM!</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="148" posy="145">MAMIFEROS.png</imaxe>
+              <texto posx="0" posy="-2" ancho="587" largo="152"><![CDATA[
+<p align="center">
+<font color="#0080FF" face="Verdana" size="16"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+<b>AULA:</b></font><font color="#000000" face="Verdana" size="16"><b> ANIMAIS MAMÍFEROS - FASE 1</b><br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>12</tipo>
+              <cabeceira>CONHEÇA ALGUNS ANIMAIS MAMÍFEROS:</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="baleia.mp3" texto="BALEIA">BALEIRA.jpg</galeria>
+              <galeria grande="" son="cachorro.mp3" texto="CACHORRO">CACJHORRO.jpg</galeria>
+              <galeria grande="" son="cavalo.mp3" texto="CAVALO">CAVALO.jpg</galeria>
+              <galeria grande="" son="" texto="COELHO">COELHO.png</galeria>
+              <galeria grande="" son="elefante.mp3" texto="ELEFANTE">ELEFANYE.jpg</galeria>
+              <galeria grande="" son="gato.mp3" texto="GATO">GATO.jpg</galeria>
+        </paxina>
+        <paxina id="3" >
+              <tipo>12</tipo>
+              <cabeceira>CONHECE ALGUNS ANIMAIS MAMÍFEROS:</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="GIRAFA">GIRAFA.jpg</galeria>
+              <galeria grande="" son="golfinho.mp3" texto="GOLFINHO">golfinho.jpg</galeria>
+              <galeria grande="" son="leao.mp3" texto="LEÃO">LEAO.jpg</galeria>
+              <galeria grande="" son="macaco.mp3" texto="MACACO">MACACO.jpg</galeria>
+              <galeria grande="" son="" texto="MORCEGO">MORCEGO.png</galeria>
+              <galeria grande="" son="vaca.mp3" texto="VACA">VACA.png</galeria>
+        </paxina>
+        <paxina id="4" >
+              <tipo>7</tipo>
+              <cabeceira>CLASSIFIQUE OS ANIMAIS:</cabeceira>
+              <caixa1>MAMÍFEROS</caixa1>
+              <caixa2>OUTROS ANIMAIS</caixa2>
+              <mini caixa="1">CACJHORRO.jpg</mini>
+              <mini caixa="2">COBRA.png</mini>
+              <mini caixa="1">ELEFANYE.jpg</mini>
+              <mini caixa="2">JACARE.jpg</mini>
+              <mini caixa="1">LEAO.jpg</mini>
+              <mini caixa="2">GALINHA.jpg</mini>
+              <cfondo>D7F2FF</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA:</cabeceira>
+              <parellas>BALEIRA.jpg</parellas>
+              <parellas>ELEFANYE.jpg</parellas>
+              <parellas>golfinho.jpg</parellas>
+              <parellas>MACACO.jpg</parellas>
+              <parellas>LEAO.jpg</parellas>
+              <parellas>GATO.jpg</parellas>
+              <cfondo>D7F2FF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>14</tipo>
+              <cabeceira>ARRASTE OS FILHOTES DE CADA MAMÍFERO:</cabeceira>
+              <peza imaxe="VACA.png" texto="" son="">BEZERRO.jpg</peza>
+              <peza imaxe="LEAO.jpg" texto="" son="">LEAOZI.jpg</peza>
+              <peza imaxe="CACJHORRO.jpg" texto="" son="">CACHPRRI.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>ESCOLHA SOMENTE OS MAMÍFEROS:</cabeceira>
+              <etiqueta imaxe="CAVALO.jpg" texto="CAVALO">1</etiqueta>
+              <etiqueta imaxe="golfinho.jpg" texto="GOLFINHO">1</etiqueta>
+              <etiqueta imaxe="PINTINHO.jpg" texto="PINTINHO">0</etiqueta>
+              <etiqueta imaxe="JACARE.jpg" texto="JACARÉ">0</etiqueta>
+              <etiqueta imaxe="LEAO.jpg" texto="LEÃO">1</etiqueta>
+              <etiqueta imaxe="COBRA.png" texto="COBRA">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>11</tipo>
+              <cabeceira>IDENTIFIQUE AS IMAGENS:</cabeceira>
+              <modo>3</modo>
+              <cousa nome="VACA">VACA.png</cousa>
+              <cousa nome="GATO">GATO.jpg</cousa>
+              <cousa nome="LEÃO">LEAO.jpg</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>5</tipo>
+              <cabeceira>ARRASTE O CÍRCULO PARA ACHAR O MAMÍFERO QUE VIVE NO MAR:</cabeceira>
+              <imaxe>MAR.jpg</imaxe>
+              <imfondo  posx="307" posy="10">BALEIRA.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <rdim>170</rdim>
+        </paxina>
+        <paxina id="10" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENE O NOME DESSE MAMÍFERO:</cabeceira>
+              <imaxe>LEAO.jpg</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>LEÃO</completa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

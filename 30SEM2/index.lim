@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>Regiões Brasileiras</subtitulo>
+        <autor>Diego Lopes</autor>
+        <imaxefondo posx="12" posy="10" trans="100">logo_informatica.png</imaxefondo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >MUITO BEM!</correcto>
+        <incorrecto son="" modo="1" >OPS! VOCÊ ERROU. TENTE NOVAMENTE</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="404" posy="104">bandeira-do-brasil-logo-A69271FA61-seeklogo.com.png</imaxe>
+              <texto posx="0" posy="15" ancho="597" largo="296"><![CDATA[
+<p align="left">
+<font color="#0E6804" face="Calibri" size="46"><b>Regiões Brasileiras</b><br>
+</font><font color="#080000" face="Calibri" size="20"><b>Características e culturas</b><br>
+<br>
+<b>EMEF JANE URBANO FOCESI</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>Assista o vídeo sobre as regiões Brasileiras:</cabeceira>
+              <imaxe posx="0" posy="-5">regBR2.mp4</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="350" posy="8">regioes-brasileiras.jpg</imaxe>
+              <texto posx="0" posy="-1" ancho="431" largo="374"><![CDATA[
+<p align="left">
+<font color="#080000" face="Calibri" size="20">O Brasil é um país dividido em 5 regiões:<br>
+<br>
+</font><font color="#059E1D" face="Calibri" size="20"><b>NORTE</b><br>
+</font><font color="#A40004" face="Calibri" size="20"><b>CENTRO-OESTE</b><br>
+</font><font color="#C8D202" face="Calibri" size="20"><b>SUDESTE</b><br>
+</font><font color="#0000FF" face="Calibri" size="20"><b>SUL</b><br>
+</font><font color="#9E6C21" face="Calibri" size="20"><b>NORDESTE</b><br>
+<br>
+</font><font color="#000000" face="Calibri" size="20">Hoje, nós vamos conhecer as características e culturas de cada região.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>12</tipo>
+              <cabeceira>Veja as fotos dos lugares e culturas da região norte (Clique na imagem para ampliar)</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="Belém, capital do pará">Norte-belem.jpg</galeria>
+              <galeria grande="" son="" texto="Floresta amazônica">floresta-amazonica-norte.jpg</galeria>
+              <galeria grande="" son="" texto="Celebração indígena">celebracao_indigena-norte.jpg</galeria>
+        </paxina>
+        <paxina id="5" >
+              <tipo>12</tipo>
+              <cabeceira>Veja as fotos dos lugares e culturas da região centro-oeste:</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="Chapada dos Veadeiros">chapada-dos-veadeiros-centro.jpg</galeria>
+              <galeria grande="" son="" texto="Pantanal">pantanal-centro.jpg</galeria>
+              <galeria grande="" son="" texto="Cultura - Cavalhadas">cavalhadas-norte3.jpg</galeria>
+              <galeria grande="" son="" texto="Cerrado, vegetação predominante do Centro-oeste">cerrado-centro.jpg</galeria>
+        </paxina>
+        <paxina id="6" >
+              <tipo>12</tipo>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="Cristo Redentor - Rio de Janeiro">cristo-redentor.jpg</galeria>
+              <galeria grande="" son="" texto="Pão de açúcar - Rio de Janeiro">pao-de-acucar-panoramico.jpg</galeria>
+              <galeria grande="" son="" texto="Carnaval">carnaval-rio-2-1.jpg</galeria>
+        </paxina>
+        <paxina id="7" >
+              <tipo>12</tipo>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="Festa da uva em Caxias do Sul">festadauva-sul.jpg</galeria>
+              <galeria grande="" son="" texto="Gaúchos do Rio Grande do Sul">gaucho2-sul.jpg</galeria>
+              <galeria grande="" son="" texto="Chimarrão - bebida típica do sul">chimarrao-sul2.jpg</galeria>
+        </paxina>
+        <paxina id="8" >
+              <tipo>12</tipo>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="Sertão Nordestino">sertao-nordeste.jpg</galeria>
+              <galeria grande="" son="" texto="Caatinga - Vegetação predominante no Nordeste">vegetacao-caatinga.jpeg</galeria>
+              <galeria grande="" son="" texto="Festa Junina">festajunina2-nordeste.jpg</galeria>
+              <galeria grande="" son="" texto="Bahia">bahia-nordeste.jpg</galeria>
+        </paxina>
+        <paxina id="9" >
+              <tipo>20</tipo>
+              <cabeceira>Identifique as regiões do Brasil:</cabeceira>
+              <imaxe>HDmapa-do-brasil-e-regioes.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="105" posy="45">NORTE</etiqueta>
+              <etiqueta posx="158" posy="227">SUL</etiqueta>
+              <etiqueta posx="146" posy="130">CENTRO-OESTE</etiqueta>
+              <etiqueta posx="240" posy="79">NORDESTE</etiqueta>
+              <etiqueta posx="206" posy="166">SUDESTE</etiqueta>
+        </paxina>
+        <paxina id="10" >
+              <tipo>17</tipo>
+              <cabeceira>Jogo da memória</cabeceira>
+              <parellas>pao-de-acucar-panoramico.jpg</parellas>
+              <parellas>pantanal-centro.jpg</parellas>
+              <parellas>gaucho2-sul.jpg</parellas>
+              <parellas>cultura-norte.jpg</parellas>
+              <parellas>chimarrao-sul.jpg</parellas>
+              <parellas>cavalhadas-norte2.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>4</tipo>
+              <cabeceira>Encontre as 5 regiões do Brasil no caça-palavras</cabeceira>
+              <modo>2</modo>
+              <sopa enun="norte-palavras.jpg">NORTE</sopa>
+              <sopa enun="sul-palavras.jpg">SUL</sopa>
+              <sopa enun="esplanada-centro.jpg">CENTROOESTE</sopa>
+              <sopa enun="sudeste-palavras.jpg">SUDESTE</sopa>
+              <sopa enun="nordeste-palavras.jpg">NORDESTE</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>QWERTYUIOPASDFGHJKLXCVBNM</fondo>
+        </paxina>
+        <paxina id="12" >
+              <tipo>11</tipo>
+              <cabeceira>ARRASTE O NOME CORRETO DAS FESTAS E COMEMORAÇÕES:</cabeceira>
+              <modo>3</modo>
+              <cousa nome="CAVALHADAS">cavalhadas-norte2.jpg</cousa>
+              <cousa nome="CARNAVAL">carnaval-rio-2-1.jpg</cousa>
+              <cousa nome="FESTA JUNINA">festajunina2-nordeste.jpg</cousa>
+              <cousa nome="FESTA DA UVA">festadauva-sul.jpg</cousa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>50</tipo>
+              <cabeceira>Identifique os tipos de povos do norte e do sul:</cabeceira>
+              <peza imaxe="cultura-norte.jpg"  son="">_I_N_D_Í_G_E_N_A_S</peza>
+              <peza imaxe="gaucho2-sul.jpg"  son="">_G_A_Ú_C_H_O_S</peza>
+        </paxina>
+        <paxina id="14" >
+              <tipo>50</tipo>
+              <cabeceira>Identifique as vegetações que podem ser encontradas no nordeste e no centro-oeste</cabeceira>
+              <peza imaxe="cerrado-centro.jpg"  son="">C_E_RR_A_D_O</peza>
+              <peza imaxe="vegetacao-caatinga.jpeg"  son="">C_AA_T_I_N_GA</peza>
+        </paxina>
+        <paxina id="15" >
+              <tipo>50</tipo>
+              <cabeceira>Qual é o nome desta bebida típica do sul?</cabeceira>
+              <peza imaxe="chimarrao-sul.jpg"  son="">_C_H_I_M_A_R_R_Ã_O</peza>
+        </paxina>
+        <paxina id="16" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>REVESTIMENTO_LOCOMOCAO</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FF8040</corbanda>
+        <cornavega>FF0080</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Revestimento e Locomoção dos animais</titulo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS!!!</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE!!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="2">CAPA1.jpg</imaxe>
+              <texto posx="0" posy="280" ancho="596" largo="160"><![CDATA[
+<p align="center">
+<font color="#000000" face="ARIal" size="16"><b>EMEF JANE URBANO FOCESI</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>REVESTIMENTO DO CORPO DOS ANIMAIS:</cabeceira>
+              <pe>IMAGEM E TEXTO</pe>
+              <imaxe posx="115" posy="60">CAPA.jpg</imaxe>
+              <texto posx="6" posy="5" ancho="581" largo="112"><![CDATA[
+<p align="left">
+<font color="#000000" face="ARIal" size="14"><b>EXISTEM ANIMAIS QUE, ALÉM DA PELE, TÊM O CORPO COBERTO POR PELOS, PENAS, ESCAMAS OU CARAPAÇA.</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>20</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>FAÇA A CORRESPONDÊNCIA</cabeceira>
+              <pe>ETIQUETAS (UNIR)</pe>
+              <imaxe>ETIQUETA_4.jpg</imaxe>
+              <modo>9</modo>
+              <etiqueta posx="150" posy="218">CARAPAÇA</etiqueta>
+              <etiqueta posx="313" posy="280">PELO</etiqueta>
+              <etiqueta posx="73" posy="102">PENA</etiqueta>
+              <etiqueta posx="326" posy="111">ESCAMA</etiqueta>
+        </paxina>
+        <paxina id="4" >
+              <tipo>18</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>COMPLETAR COM AS SÍLABAS QUE FALTAM</cabeceira>
+              <pe>COMPLETAR (ARRASTAR)</pe>
+              <modo>3</modo>
+              <completa ant="PA" post="GAIO">PA</completa>
+              <completa ant="PA" post="">TO</completa>
+              <completa ant="PE" post="QUITO">RI</completa>
+              <completa ant="CO" post="JA">RU</completa>
+              <completa ant="" post="DORNA">CO</completa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>29</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>COMPLETE AS LACUNAS:</cabeceira>
+              <pe>TEXTO (ARRASTAR)</pe>
+              <texto><![CDATA[  a) O PAPAGAIO, PATO, PERIQUITO E A CORUJA SÃO ANIMAIS QUE POSSUEM O CORPO REVESTIDO DE *PENAS .
+b) O CACHORRO, GATO E LEÃO SÃO ANIMAIS QUE POSSUEM O CORPO REVESTIDO DE *PELOS .
+c) OS PEIXES SÃO ANIMAIS QUE POSSUEM O CORPO REVESTIDO DE *ESCAMAS .
+d) O TATU, A TARTARUGA E O CARANGUEJO SÃO ANIMAIS QUE POSSUEM O CORPO REVESTIDO DE *CARAPAÇA .
+]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>DESCUBRA A PALAVRA SECRETA:</cabeceira>
+              <pe>PALAVRA SECRETA</pe>
+              <texto><![CDATA[AS AVES SÃO ANIMAIS REVESTIDOS POR: ]]></texto>
+              <resp texto="ABCDEFGHIJKLMNOPQRSTUVWXYZÃÁÕÊÉÍÚ">PENAS</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>4</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>CAÇA-PALAVRAS:</cabeceira>
+              <pe>CAÇA-PALAVRAS (VER ENUNCIADOS ; COLORIR)</pe>
+              <modo>1</modo>
+              <sopa enun="CARAPAÇA">CARAPAÇA</sopa>
+              <sopa enun="PENAS">PENAS</sopa>
+              <sopa enun="ESPINHOS">ESPINHOS</sopa>
+              <sopa enun="ESCAMA">ESCAMA</sopa>
+              <sopa enun="PELOS">PELOS</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+              <fondo>MAIÚSCULAS</fondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>3</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>MONTE O QUEBRA-CABEÇA</cabeceira>
+              <pe>QUEBRA-CABEÇA</pe>
+              <imaxe>302059061.jpg</imaxe>
+              <imfondo  trans="20">302059061.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <cabeceira>LOCOMOÇÃO DOS ANIMAIS</cabeceira>
+              <pe>IMAGEM E TEXTO</pe>
+              <imaxe posx="92" posy="114">LOCOMOCCAO.jpg</imaxe>
+              <texto posx="3" posy="5" ancho="587" largo="135"><![CDATA[
+<p align="left">
+<font color="#000000" face="ARIal" size="16"><b>A LOCOMOÇÃO DOS ANIMAIS É O MODO COMO ELES SE DESLOCAM DE UM LOCAL PARA O OUTRO.<br>
+OS ANIMAIS PODEM SE LOCOMOVER DE VÁRIAS MANEIRAS: VOANDO, RASTEJANDO, NADANDO, SALTANDO, CAMINHANDO.</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="10" >
+              <tipo>19</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>DESCUBRA A PALAVRA SECRETA:</cabeceira>
+              <pe>PALAVRA SECRETA</pe>
+              <texto><![CDATA[DE QUE MANEIRA A COBRA SE LOCOMOVE?]]></texto>
+              <resp texto="ABCDEFGHIJKLMNOPQRSTUVWXYZÃÁÕÊÉÍÚ">RASTEJANDO</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>14</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>FAÇA A CORRESPONDÊNCIA:</cabeceira>
+              <pe>ARRASTAR IMAGENS</pe>
+              <peza imaxe="download_(2).jpg" texto="" son="">SALTANDO.jpg</peza>
+              <peza imaxe="download_(4).jpg" texto="" son="">VOANDO.jpg</peza>
+              <peza imaxe="download_(3).jpg" texto="" son="">CAMINHANDO.jpg</peza>
+              <cfondo>FF80C0</cfondo>
+        </paxina>
+        <paxina id="12" >
+              <tipo>29</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>COMPLETE AS LACUNAS QUE FALTAM:</cabeceira>
+              <pe>TEXTO (ARRASTAR)</pe>
+              <texto><![CDATA[  a) DE QUE MANEIRA O TUBARÃO SE LOCOMOVE? *NADANDO .
+b) DE QUE MANEIRA O CANGURU SE LOCOMOVE? *SALTANDO .
+c) DE QUE MANEIRA O ELEFANTE SE LOCOMOVE? *CAMINHANDO .
+d) DE QUE MANEIRA A COBRA SE LOCOMOVE? *RASTEJANDO.
+e) DE QUE MANEIRA A ÁGUIA E OS PÁSSAROS SE LOCOMOVEM? *VOANDO .]]></texto>
+              <cfondo>8080FF</cfondo>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

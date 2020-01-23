@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>FFFFFF</cortexto>
+        <autor>MARIA APAREIDA</autor>
+        <iden>VIVANE CHERRY</iden>
+        <imaxefondo posx="-678" posy="-94" trans="70">black-background-wallpaper-sun-space-moon-walls.jpg</imaxefondo>
+        <aspectosup >skin_4_sup.swf</aspectosup>
+        <aspectoinf >skin_4_inf.swf</aspectoinf>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="38" posy="35" ancho="522" largo="183"><![CDATA[
+<p align="center">
+<font color="#D5D500" face="Calibri" size="32"><b>O SISTEMA SOLAR</b><br>
+</font><font color="#D5D500" face="Calibri" size="16"><b>Ensino fundamental I</b></font></p>
+]]></texto>
+              <ctexto>FFFFFF</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>34</tipo>
+              <cabeceira>DESCUBRA A PALAVRA: MOVIMENTO EM QUE A TERRA FAZ EM VOLTA DE SI MESMA</cabeceira>
+              <imaxe>rotacao_terra.jpg</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>ROTAÇÃO</completa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>34</tipo>
+              <cabeceira>DESCUBRA A PALAVRA: MOVIMENTO EM QUE A TERRA FAZ EM VOLTA DO SOL</cabeceira>
+              <imaxe>translacao.jpg</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>TRANSLAÇÃO</completa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>12</tipo>
+              <cabeceira>GALERIA DE IMAGENS</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="NETUNO: O MAIS DISTANTE PLANETA DO SISTEMA SOLAR.">netuno.jpg</galeria>
+              <galeria grande="" son="" texto="VÊNUS:CHAMADO TAMBÉM DE IRMÃO DA TERRA POR SEREM PARECIDOS.">VENUS2.jpg</galeria>
+              <galeria grande="" son="" texto="SATURNO:PLANETA DOS ANÉIS,FORMADOS POR PARTÍCULAS DE ROCHA E GELO.">saturno5.png</galeria>
+              <galeria grande="" son="" texto="MARTE: CONHECIDO TAMBÉM COMO PLANETA VERMELHO.">MARTE2.jpg</galeria>
+              <galeria grande="" son="" texto="TERRA: CONHECIDA TAMBÉM COMO &quot;PLANETA AZUL&quot;.">TERRA2.jpg</galeria>
+              <galeria grande="" son="" texto="JÚPITER: O MAIOR DOS PLANETAS, COBERTO POR NUVENS E GASES.">JUPTER2.jpg</galeria>
+        </paxina>
+        <paxina id="5" >
+              <tipo>4</tipo>
+              <cabeceira>CAÇA-PALAVRAS (HORIZONTAL, VERTICAL E DIAGONAL )</cabeceira>
+              <modo>2</modo>
+              <sopa enun="jupter.jpg">JÚPITER</sopa>
+              <sopa enun="MARTE2.jpg">MARTE</sopa>
+              <sopa enun="MERCURIO2.jpg">MERCÚRIO</sopa>
+              <sopa enun="SATURNO3.jpg">SATURNO</sopa>
+              <sopa enun="TERRA2.jpg">TERRA</sopa>
+              <sopa enun="VENUS2.jpg">VÊNUS</sopa>
+              <sopa enun="net0003s.gif">URANO</sopa>
+              <sopa enun="netuno.jpg">NETUNO</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+              <fondo>FGHJKLMNPQRST</fondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>50</tipo>
+              <cabeceira>Escreva o nome dos planetas arrastando as letras:</cabeceira>
+              <peza imaxe="MERCURIO2.jpg"  son="">M_ERC_Ú_RIO</peza>
+              <peza imaxe="TERRA2.jpg"  son="">TE_R_RA</peza>
+              <peza imaxe="VENUS2.jpg"  son="">V_Ê_N_US</peza>
+        </paxina>
+        <paxina id="7" >
+              <tipo>50</tipo>
+              <cabeceira>Escreva o nome dos planetas arrastando as letras:</cabeceira>
+              <peza imaxe="MARTE2.jpg"  son="">M_AR_T_E</peza>
+              <peza imaxe="jupter.jpg"  son="">J_ÚPI_T_E_R</peza>
+              <peza imaxe="saturno.jpg"  son="">SA_T_UR_N_O</peza>
+        </paxina>
+        <paxina id="8" >
+              <tipo>50</tipo>
+              <cabeceira>Escreva o nome dos planetas arrastando as letras:</cabeceira>
+              <peza imaxe="net0003s.gif"  son="">_U_RA_N_O</peza>
+              <peza imaxe="netuno.jpg"  son="">N_E_T_U_NO</peza>
+        </paxina>
+        <paxina id="9" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>jupter.jpg</parellas>
+              <parellas>MARTE2.jpg</parellas>
+              <parellas>MERCURIO2.jpg</parellas>
+              <parellas>netuno.jpg</parellas>
+              <parellas>SATURNO3.jpg</parellas>
+              <parellas>TERRA2.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>3</tipo>
+              <cabeceira>QUEBRA-CABEÇA</cabeceira>
+              <imaxe>SISTEMA_SOLAR2.jpg</imaxe>
+              <imfondo  trans="60">SISTEMA_SOLAR2.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <cabeceira>PARABÉNS !!!</cabeceira>
+              <texto posx="155" posy="88" ancho="591" largo="156"><![CDATA[
+<p align="left">
+<font color="#E1E100" face="Arial" size="32"><b>Você finalizou a aula!</b><br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>FFFFFF</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <texto posx="0" posy="0" ancho="591" largo="346"><![CDATA[
+<p align="center">
+<font color="#808000" face="Arial" size="24"><b>Parabéns por terminar todas as atividades!</b><br>
+<br>
+</font><font color="#1A6AFF" face="Arial" size="18"><u><a href="https://www.google.com.br/maps/@-15.9787375,-26.2964218,22939653m/data=!3m1!1e3" target="_blank">Clique aqui para explorar o sistema solar</a></u><br>
+<br>
+</font><font color="#808000" face="Arial" size="24">Ou<br>
+<br>
+</font><font color="#1A6AFF" face="Arial" size="18"><u><a href="games.html" target="blank">Clique aqui para jogos e atividades educativas</a></u></font></p>
+]]></texto>
+              <ctexto>FFFFFF</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

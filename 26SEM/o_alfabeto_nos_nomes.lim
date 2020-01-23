@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>004080</corbanda>
+        <cornavega>004080</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>O ALFABETO</subtitulo>
+        <logo>educa.png</logo>
+        <imaxefondo posx="-484" posy="56" trans="100">abc1.jpg</imaxefondo>
+        <aspectosup >Skin_azul_sup.swf</aspectosup>
+        <aspectoinf >Skin_azul_inf.swf</aspectoinf>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="VOCEACERT.mp3" modo="1" >VOCÊ ACERTOU !!!</correcto>
+        <incorrecto son="O_OU.mp3" modo="1" >TENTE NOVAMENTE!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-35">dqw.PNG</imaxe>
+              <texto posx="30" posy="181" ancho="525" largo="197"><![CDATA[
+<p align="left">
+<font color="#000000" face="Comic" size="18"> </font><font color="#800040" face="Comic" size="18"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>16</tipo>
+              <externa>aviao.swf</externa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>a.png</parellas>
+              <parellas>b.png</parellas>
+              <parellas>c.png</parellas>
+              <parellas>d.png</parellas>
+              <parellas>e.png</parellas>
+              <parellas>f.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>80FF00</ctapa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>g.png</parellas>
+              <parellas>h.png</parellas>
+              <parellas>i.png</parellas>
+              <parellas>j.png</parellas>
+              <parellas>k.png</parellas>
+              <parellas>l.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>80FF00</ctapa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>m.png</parellas>
+              <parellas>n.png</parellas>
+              <parellas>o.png</parellas>
+              <parellas>p.png</parellas>
+              <parellas>q.png</parellas>
+              <parellas>r.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>80FF00</ctapa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>s.png</parellas>
+              <parellas>t.png</parellas>
+              <parellas>u.png</parellas>
+              <parellas>v.png</parellas>
+              <parellas>x.png</parellas>
+              <parellas>z.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>80FF00</ctapa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>3</tipo>
+              <cabeceira>QUEBRA-CABEÇA</cabeceira>
+              <imaxe>51IuI3GsJJL.jpg</imaxe>
+              <imfondo  trans="10">51IuI3GsJJL.jpg</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>11</tipo>
+              <cabeceira>ARRASTE A LETRA INICIAL DA IMAGEM:</cabeceira>
+              <modo>3</modo>
+              <cousa nome="A">a.png</cousa>
+              <cousa nome="E">e.png</cousa>
+              <cousa nome="I">i.png</cousa>
+              <cousa nome="O">o.png</cousa>
+              <cousa nome="U">u.png</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>16</tipo>
+              <externa>362_motor_abecedario.swf</externa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-38">28rlaow.png</imaxe>
+              <texto posx="175" posy="194" ancho="577" largo="180"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="32">PARABÉNS!!!<br>
+<br>
+VOCÊ CONCLUIU A AULA!</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

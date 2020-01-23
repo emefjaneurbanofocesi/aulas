@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>4ECD10</corbanda>
+        <cornavega>FF8000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>ALIMENTAÇÃO SAUDÁVEL</subtitulo>
+        <logo>logo.png</logo>
+        <imaxefondo posx="-204" posy="50" trans="25">Alimentos.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="64" posy="84" ancho="373" largo="190"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+</font><font color="#008000" face="Arial" size="12"><b> ALIMENTAÇÃO SAUDÁVEL</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="BATATA">batata.png</cousa>
+              <cousa nome="ABACAXI">abacaxi.png</cousa>
+              <cousa nome="HAMBURGUER">hamburguer.png</cousa>
+              <cousa nome="BETERRABA">beterraba.png</cousa>
+              <cousa nome="TOMATE">tomate.png</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>17</tipo>
+              <parellas>batata.png</parellas>
+              <parellas>uva.png</parellas>
+              <parellas>maca.png</parellas>
+              <parellas>limao.png</parellas>
+              <parellas>hamburguer.png</parellas>
+              <parellas>cola.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>16</tipo>
+              <externa dimx="200" dimy="200" alt="A BA CA XI">abacaxi.png</externa>
+              <estado>ABACAXI</estado>
+              <intentos>ABACAXI</intentos>
+        </paxina>
+        <paxina id="5" >
+              <tipo>34</tipo>
+              <imaxe>abaxi3.png</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>ABACAXI</completa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="33" posy="-52">PINTARALIMENTOS.swf</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

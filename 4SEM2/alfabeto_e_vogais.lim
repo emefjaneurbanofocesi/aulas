@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>00FF00</corbanda>
+        <cornavega>00FF00</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>ALFABETO E VOGAIS</subtitulo>
+        <logo>banner-educa1_(1).png</logo>
+        <imaxefondo posx="-426" posy="0" trans="5">o-alfabeto-colorido-rotula-o-fundo-16970898.jpg</imaxefondo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >MUITO BOM!</correcto>
+        <incorrecto son="" modo="1" >OPS, TENTE NOVAMENTE!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="287" posy="-38">4588174737.gif</imaxe>
+              <texto posx="1" posy="174" ancho="505" largo="186"><![CDATA[
+<p align="left">
+<font color="#00FF00" face="Verdana" size="16"><b><u>VAMOS BRINCAR DE ABC?</u></b><br>
+<br>
+</font><font color="#008000" face="Verdana" size="16"><b>EMEF PROFª JANE URBANO FOCESI</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>14</tipo>
+              <cabeceira>LIGUE OS ANIMAIS AS SUAS LETRAS INICIAIS</cabeceira>
+              <peza imaxe="Cyrillic-V.png" texto="" son="">B5.png</peza>
+              <peza imaxe="2000px-Letter_c.svg.png" texto="" son="">cachorro-topo.png</peza>
+              <peza imaxe="074102-rounded-glossy-black-icon-alphanumeric-letter-ee.png" texto="" son="">elefante.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>7</tipo>
+              <cabeceira>LIGUE AS IMAGENS AOS SEUS MURAIS</cabeceira>
+              <caixa1>LETRAS</caixa1>
+              <caixa2>NUMEROS</caixa2>
+              <mini caixa="1">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(1).png</mini>
+              <mini caixa="2">sticker-1.png</mini>
+              <mini caixa="1">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(14).png</mini>
+              <mini caixa="2">sticker-2.png</mini>
+              <mini caixa="1">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(26).png</mini>
+              <mini caixa="2">sticker-3.png</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="LARANJA">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(12).png</cousa>
+              <cousa nome="OVO">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(15)_(1).png</cousa>
+              <cousa nome="NAVIO">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(14).png</cousa>
+              <cousa nome="VIOLÃO">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(22).png</cousa>
+              <cousa nome="ZEBRA">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(26).png</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>11</tipo>
+              <cabeceira>ESCREVA SOMENTE A PRIMEIRA LETRA DO NOME DA IMAGEM</cabeceira>
+              <modo>1</modo>
+              <cousa nome="O">Ovos.jpg</cousa>
+              <cousa nome="V">M_Claires20Guitar.jpg</cousa>
+              <cousa nome="N">navio_mar_oleo.png</cousa>
+              <cousa nome="L">laranja.jpg</cousa>
+              <cousa nome="Z">635119975599384914_zebra_(1).png</cousa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <imaxe>stitches-patchwork-font-vector-colorful-motley-alphabet-for-your-design-and-text_93298927.jpg</imaxe>
+              <imfondo  trans="20">stitches-patchwork-font-vector-colorful-motley-alphabet-for-your-design-and-text_93298927.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>39</tipo>
+              <cabeceira>VAMOS JOGAR O JOGO DA MEMÓRIA?</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(4).png" texto="">imgFotos436812.jpg</parellas>
+              <parellas imaxe="alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(5).png" texto="">clipart-elefante-esguichando-aacutegua-78654.gif</parellas>
+              <parellas imaxe="alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(3).png" texto="">cachorro-topo.png</parellas>
+              <parellas imaxe="alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(1).png" texto="">honey-311047_640.png</parellas>
+              <parellas imaxe="alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(12).png" texto="">laranja.jpg</parellas>
+              <parellas imaxe="alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(14).png" texto="">navio_mar_oleo.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>5</tipo>
+              <cabeceira>PASSE O CIRCULO POR CIMA DA IMAGEM E VEJA QUAL ANIMAL ESTA ESCONDIDO</cabeceira>
+              <pe>RESPONDA SOMENTE A PRIMEIRA LETRA DO ANIMAL</pe>
+              <imaxe>huruf-besar.jpg</imaxe>
+              <imfondo  posx="74" posy="85">caretta.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>T</resp>
+              <rdim>120</rdim>
+        </paxina>
+        <paxina id="9" >
+              <tipo>35</tipo>
+              <cabeceira>VAMOR COLOCAR AS LETRAS EM ORDEM ALFABETICA?</cabeceira>
+              <forma>0</forma>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(1).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(2).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(3).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(4).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(5).png</completa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>35</tipo>
+              <cabeceira>VAMOR COLOCAR AS LETRAS EM ORDEM ALFABETICA?</cabeceira>
+              <forma>0</forma>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(6).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(7).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(8).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(9).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(10).png</completa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>35</tipo>
+              <cabeceira>VAMOR COLOCAR AS LETRAS EM ORDEM ALFABETICA?</cabeceira>
+              <forma>0</forma>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(11).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(12).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(13).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(14).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(15)_(1).png</completa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>35</tipo>
+              <cabeceira>VAMOR COLOCAR AS LETRAS EM ORDEM ALFABETICA?</cabeceira>
+              <forma>0</forma>
+              <completa>trenzinho_alfabeto.png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(17).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(18).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(19).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(20).png</completa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>35</tipo>
+              <cabeceira>VAMOR COLOCAR AS LETRAS EM ORDEM ALFABETICA?</cabeceira>
+              <forma>0</forma>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(21).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(22).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(23).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(24).png</completa>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(25).png</completa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>35</tipo>
+              <cabeceira>VAMOR COLOCAR AS LETRAS EM ORDEM ALFABETICA?</cabeceira>
+              <forma>0</forma>
+              <completa>alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(26).png</completa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>2</tipo>
+              <cabeceira>VAMOS ASSISTIR AO VIDEO DAS VOGAIS!</cabeceira>
+              <imaxe posx="37" posy="2">gali.mp4</imaxe>
+        </paxina>
+        <paxina id="16" >
+              <tipo>12</tipo>
+              <cabeceira>ESSAS SÃO AS VOGAIS</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="A">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(1).png</galeria>
+              <galeria grande="" son="" texto="E">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(5).png</galeria>
+              <galeria grande="" son="" texto="I">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(9).png</galeria>
+              <galeria grande="" son="" texto="O">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(15)_(1).png</galeria>
+              <galeria grande="" son="" texto="U">alfabeto+abc+PNG+LETRAS+FLORAL+PRIMAVERA+FLOR+FLORES+LINDO+SCRAPBOOK_(21).png</galeria>
+        </paxina>
+        <paxina id="17" >
+              <tipo>43</tipo>
+              <cabeceira>ARRASTE A VOGAL CORRETA</cabeceira>
+              <imaxe>pig-24702_960_720.png</imaxe>
+              <texto>ROINC ROINC</texto>
+              <completa post="AEIU">P_ORC_O</completa>
+        </paxina>
+        <paxina id="18" >
+              <tipo>43</tipo>
+              <cabeceira>ARRASTE A VOGAL CORRETA</cabeceira>
+              <imaxe>cartoon-cow-52394.png</imaxe>
+              <texto>MÚUUU</texto>
+              <completa post="EIOU">V_AC_A</completa>
+        </paxina>
+        <paxina id="19" >
+              <tipo>43</tipo>
+              <cabeceira>ARRASTE A VOGAL CORRETA</cabeceira>
+              <imaxe>gifs-gifs-animados-de-animais-14.gif</imaxe>
+              <texto>EU TENHO MUITOS TENTÁCULOS</texto>
+              <completa post="AEIU">P_OLV_O</completa>
+        </paxina>
+        <paxina id="20" >
+              <tipo>43</tipo>
+              <cabeceira>ARRASTE A VOGAL CORRETA</cabeceira>
+              <imaxe>fe30a71a57e20f5c2f559daa7acef0e5.jpg</imaxe>
+              <texto>GOSTO MUITO DE BANANAS</texto>
+              <completa post="EIU">M_AC_AC_O</completa>
+        </paxina>
+        <paxina id="21" >
+              <tipo>43</tipo>
+              <cabeceira>ARRASTE A VOGAL CORRETA</cabeceira>
+              <imaxe>clipart-elefante-esguichando-aacutegua-78654.gif</imaxe>
+              <texto>TENHO UM NARIZ BEM CUMPRIDO</texto>
+              <completa post="IOU">_EL_EF_ANT_E</completa>
+        </paxina>
+        <paxina id="22" >
+              <tipo>43</tipo>
+              <cabeceira>ARRASTE A VOGAL CORRETA</cabeceira>
+              <imaxe>nemofish.png</imaxe>
+              <texto>MORO NO MAR</texto>
+              <completa post="AOU">P_E_IX_E</completa>
+        </paxina>
+        <paxina id="23" >
+              <tipo>43</tipo>
+              <cabeceira>ARRASTE A VOGAL CORRETA</cabeceira>
+              <imaxe>honey-311047_640.png</imaxe>
+              <texto>ZZZZZZZ</texto>
+              <completa post="IOU">_AB_ELH_A</completa>
+        </paxina>
+        <paxina id="24" >
+              <tipo>43</tipo>
+              <cabeceira>ARRASTE A LETRA CORRETA</cabeceira>
+              <imaxe>navio_mar_oleo.png</imaxe>
+              <texto>ANDO SOBRE O MAR</texto>
+              <completa post="ABCDPG">_NA_VIO</completa>
+        </paxina>
+        <paxina id="25" >
+              <tipo>43</tipo>
+              <imaxe>B5.png</imaxe>
+              <texto>FAÇO CHOCOLATE PARA MINHA MADRINHA</texto>
+              <completa post="KJGF">_BO_RBO_LE_TA</completa>
+        </paxina>
+        <paxina id="26" >
+              <tipo>7</tipo>
+              <cabeceira>ARRASTE CADA IMAGEM AO SEU DEVIDO LUGAR</cabeceira>
+              <caixa1>VOGAIS</caixa1>
+              <caixa2>NÚMEROS</caixa2>
+              <mini caixa="1">6419058_orig.png</mini>
+              <mini caixa="2">sticker-3.png</mini>
+              <mini caixa="1">074102-rounded-glossy-black-icon-alphanumeric-letter-ee.png</mini>
+              <mini caixa="2">sticker-4-s.png</mini>
+              <mini caixa="1">U.jpg</mini>
+              <mini caixa="2">numero-moto-dakar-5-s.png</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="27" >
+              <tipo>16</tipo>
+              <pe>VAMOS JOGAR!!!</pe>
+              <externa>motor.swf</externa>
+        </paxina>
+        <paxina id="28" >
+              <tipo>2</tipo>
+              <imaxe posx="15" posy="22">Bob-esponja.png</imaxe>
+              <texto posx="249" posy="26" ancho="393" largo="198"><![CDATA[
+<p align="center">
+<font color="#8080FF" face="Verdana" size="28"><b>PARABÉNS, VOCÊ FINALIZOU A AULA!!<br>
+ATÉ A PRÓXIMA. </font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="29" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

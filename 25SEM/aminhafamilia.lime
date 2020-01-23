@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+          <recursos>$C:\Users\user\Desktop\A minha familia\RECURSO\</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+          <corfondo>ffffff</corfondo>
+        <corbanda>5AADAD</corbanda>
+        <cornavega>5AADAD</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <subtitulo>A minha família de Pedro Bandeira </subtitulo>
+        <logo>C:\Users\user\Desktop\A minha familia\RECURSO\logoeducadigital.png</logo>
+          <informe>1</informe>
+          <botonson>1</botonson>
+          <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PARABÉNS </correcto>
+        <incorrecto son="" modo="1" >TENTE OUTRA VEZ..</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="322" posy="10">C:\Users\user\Desktop\A minha familia\RECURSO\familiadapesada2.png</imaxe>
+              <texto posx="0" posy="69" ancho="382" largo="282"><![CDATA[
+<p align="center">
+<font color="#080000" face="Cambria" size="18">CEI/EMEI CÉLIA ROCHA LOBO<br>
+<br>
+A MINHA FAMÍLIA <br>
+PEDRO BANDEIRA <br>
+<br>
+ELABORAÇÃO: PROFª ROSANA <br>
+PRODUÇÃO: MIRELY FREITAS<br>
+FASES</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>POEMA</cabeceira>
+              <imaxe posx="0" posy="0">C:\Users\user\Desktop\A minha familia\RECURSO\familia3.jpg</imaxe>
+              <texto posx="498" posy="-2" ancho="357" largo="350"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12"><br>
+</font><font color="#080000" face="Carlito" size="16">A MINHA FAMÍLIA <br>
+<br>
+EU GOSTO DA <br>
+MINHA MÃE,<br>
+DO MEU PAI,<br>
+DO MEU IRMÃO.<br>
+NEM SEI COMO <br>
+TANTA GENTE <br>
+CABE NO<br>
+MEU CORAÇÃO!</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>14</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <cabeceira>VAMOS ARRASTAR AS IMAGENS</cabeceira>
+              <peza imaxe="C:\Users\user\Desktop\A minha familia\RECURSO\vovocombolo.jpg" texto="VOVÓ" son="">C:\Users\user\Desktop\A minha familia\RECURSO\vovocombolo2.jpg</peza>
+              <peza imaxe="C:\Users\user\Desktop\A minha familia\RECURSO\vov^ vida real.jpg" texto="VOVÔ" son="">C:\Users\user\Desktop\A minha familia\RECURSO\vovopassaro.jpg</peza>
+              <peza imaxe="C:\Users\user\Desktop\A minha familia\RECURSO\terno-dicas-03.jpg" texto="PAPAI" son="">C:\Users\user\Desktop\A minha familia\RECURSO\paisozinho.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <cabeceira>MONTE O QUEBRA-CABEÇA </cabeceira>
+              <imaxe>C:\Users\user\Desktop\A minha familia\RECURSO\familia3.jpg</imaxe>
+              <imfondo  trans="30">C:\Users\user\Desktop\A minha familia\RECURSO\familia3.jpg</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>17</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <cabeceira>ENCONTRE OS PARES A SEGUIR</cabeceira>
+              <parellas>C:\Users\user\Desktop\A minha familia\RECURSO\amigosefamilia.jpg</parellas>
+              <parellas>C:\Users\user\Desktop\A minha familia\RECURSO\av_onfjblnfdljnbldsz.jpg</parellas>
+              <parellas>C:\Users\user\Desktop\A minha familia\RECURSO\familia3.jpg</parellas>
+              <parellas>C:\Users\user\Desktop\A minha familia\RECURSO\av_osenetos.gif</parellas>
+              <parellas>C:\Users\user\Desktop\A minha familia\RECURSO\familia112233.jpg</parellas>
+              <parellas>C:\Users\user\Desktop\A minha familia\RECURSO\osincriveis.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>34</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <cabeceira>ORDENE A IMAGEM </cabeceira>
+              <imaxe>C:\Users\user\Desktop\A minha familia\RECURSO\MAE.png</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>MÃE</completa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <cabeceira>SELECIONE AS IMAGENS ONDE SE ECONTRAM A FAMÍLIA</cabeceira>
+              <etiqueta imaxe="C:\Users\user\Desktop\A minha familia\RECURSO\amigosefamilia.jpg" texto="FAMÍLIA">1</etiqueta>
+              <etiqueta imaxe="C:\Users\user\Desktop\A minha familia\RECURSO\familia3.jpg" texto="FAMÍLIA">1</etiqueta>
+              <etiqueta imaxe="C:\Users\user\Desktop\A minha familia\RECURSO\familia4.jpg" texto="FAMÍLIA">1</etiqueta>
+              <etiqueta imaxe="C:\Users\user\Desktop\A minha familia\RECURSO\garfo.jpg" texto="GARFO">0</etiqueta>
+              <etiqueta imaxe="C:\Users\user\Desktop\A minha familia\RECURSO\SAP.jpg" texto="SAPATO">0</etiqueta>
+              <etiqueta imaxe="C:\Users\user\Desktop\A minha familia\RECURSO\BOL.jpg" texto="BOLA">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>34</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <cabeceira>ORDENE A IMAGEM</cabeceira>
+              <imaxe>C:\Users\user\Desktop\A minha familia\RECURSO\familia112233.jpg</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>FAMÍLIA </completa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cabeceira>VAMOS JOGAR ?</cabeceira>
+              <imaxe posx="0" posy="0">C:\Users\user\Desktop\A minha familia\RECURSO\colorir.swf</imaxe>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <imaxe posx="0" posy="0">C:\Users\user\Desktop\A minha familia\RECURSO\crie_oceano.swf</imaxe>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <imaxe posx="0" posy="0">C:\Users\user\Desktop\A minha familia\RECURSO\osincriveis.jpg</imaxe>
+              <texto posx="410" posy="-2" ancho="289" largo="222"><![CDATA[
+<p align="left">
+<font color="#080000" face="Comic Sans MS" size="18"><i>PARABÉNS VOCÊ CONCLUIU AS ATIVIDADES !!!</i></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <cabeceira>FONTES </cabeceira>
+              <imaxe posx="0" posy="0">C:\Users\user\Desktop\A minha familia\RECURSO\LUPA.jpg</imaxe>
+              <texto posx="193" posy="166" ancho="516" largo="302"><![CDATA[
+<p align="left">
+<font color="#080000" face="Calibri" size="11">http://serchiqueefacil.blogspot.com.br/2013_01_01_archive.html<br>
+http://www.casadeloucas.com.br/garfo-para-mesa-de-aCo-inox-mimo-style-p4310<br>
+http://pgl.gal/galego-portugues-bola-fala-futeboles/<br>
+http://www.elo7.com.br/painel-os-incriveis/dp/2B01B8<br>
+http://luzparasabios.blogspot.com.br/2015/06/familia.html<br>
+http://www.sabordacidade.com.br/menu_colunista.asp?ID_=28</font><font color="#080000" face="Arial" size="12">6<br>
+<br>
+</font><font color="#080000" face="Calibri" size="11">https://pixabay.com/pt/homem-vov%C3%B4-aposentadoria-sentar-se-1348082</font><font color="#080000" face="Arial" size="12">/</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

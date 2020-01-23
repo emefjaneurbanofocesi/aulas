@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>E8E8E8</corfondo>
+        <corbanda>FFFFFF</corbanda>
+        <cornavega>D4D4D4</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>CANTIGAS E PARLENDAS</subtitulo>
+        <logo>LOGO.png</logo>
+        <imbarra >LOGO.png</imbarra>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="VOCEACERT.mp3" modo="1" >PARABÉNS</correcto>
+        <incorrecto son="O_OU.mp3" modo="1" >QUE PENINHA</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="191" posy="-5">Palhacinho_A.T.O.png</imaxe>
+              <texto posx="0" posy="239" ancho="599" largo="113"><![CDATA[
+<p align="left">
+<font color="#000000" face="Arial" size="14"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+CANTIGAS E PARLENDAS</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>quebra_gato.jpg</parellas>
+              <parellas>quebra_image.jpg</parellas>
+              <parellas>quebra_rei.png</parellas>
+              <parellas>quebra_soldado.png</parellas>
+              <parellas>quebra_touro.jpg</parellas>
+              <parellas>quebra_roda.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>IDENTIFIQUE A IMAGEM</cabeceira>
+              <modo>3</modo>
+              <cousa nome="FOGO">iden_fire.png</cousa>
+              <cousa nome="SOLDADO">quebra_soldado.png</cousa>
+              <cousa nome="GATO">iden_gato.png</cousa>
+              <cousa nome="VACA">iden_vaca.jpg</cousa>
+              <cousa nome="PALHAÇO">iden_palhacco.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>46</tipo>
+              <cabeceira>LIGAR A PRIMEIRA LETRA DE CADA PALAVRA</cabeceira>
+              <etiqueta texto="FOGO"  posy="6">M</etiqueta>
+              <etiqueta texto="REI"  posy="5">P</etiqueta>
+              <etiqueta texto="GATO"  posy="4">B</etiqueta>
+              <etiqueta texto="BRINQUEDO "  posy="3">G</etiqueta>
+              <etiqueta texto="PORCO"  posy="1">F</etiqueta>
+              <etiqueta texto="MACACO"  posy="2">R</etiqueta>
+        </paxina>
+        <paxina id="5" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="CAVERNA">CAVERNA</sopa>
+              <sopa enun="SOLDADO">SOLDADO</sopa>
+              <sopa enun="REI">REI</sopa>
+              <sopa enun="RODA">RODA</sopa>
+              <sopa enun="TOURO">TOURO</sopa>
+              <sopa enun="RAIO">RAIO</sopa>
+              <sopa enun="VACA">VACA</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQ</fondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <mais ir="2">VOLTAR</mais>
+              <evalua  crt="p" icrt="0">1</evalua>
+              <imaxe posx="151" posy="6">fim.gif</imaxe>
+              <texto posx="173" posy="255" ancho="300" largo="200"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="28">PARABÉNS VOCÊ CONSEGUIU</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+          <recursos>$/home/aluno5/Documentos/MEIOS DE TRANSPORTE/REC/</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+          <corfondo>FFFFFF</corfondo>
+        <corbanda>50FB95</corbanda>
+        <cornavega>A6CAF0</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>MEIOS DE TRANSPORTES</titulo>
+          <subtitulo>EMEI/EMEF "PROF. ANTONIA RIBEIRO DA SILVA"</subtitulo>
+          <autor>ANDREIA, PAULA E DULCINÉIA</autor>
+          <iden>MONITORA YASMIN DE OLIVEIRA, PERÍODO TARDE</iden>
+          <imaxefondo posx="8" posy="92" trans="30">/home/aluno5/Documentos/MEIOS DE TRANSPORTE/REC/adesivos-meios-de-transportes.jpg</imaxefondo>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="/home/aluno5/Documentos/MEIOS DE TRANSPORTE/REC/Resposta_certa_do_desafio.mp3" modo="1" >PARABÉNS!!!</correcto>
+        <incorrecto son="/home/aluno5/Documentos/MEIOS DE TRANSPORTE/REC/Resposta_errada_do_desafio.mp3" modo="1" >NÃO FOI DESTA VEZ!! TENTE NOVAMENTE!!</incorrecto>
+        <caracteres>ÃÁÉÊÀÕÓÍÇ</caracteres>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">/home/aluno5/Documentos/MEIOS DE TRANSPORTE/REC/unnamed.mp4</imaxe>
+        </paxina>
+    </libro>
+</lim>

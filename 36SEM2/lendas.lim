@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>DFFFEE</corfondo>
+        <corbanda>FF8000</corbanda>
+        <cornavega>FF8000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>LENDAS DE CARAGUATATUBA</subtitulo>
+        <logo>Logo.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >MUITO BEM!</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="3" posy="0">rio.jpg</imaxe>
+              <texto posx="187" posy="210" ancho="605" largo="152"><![CDATA[
+<p align="left">
+<font color="#0080C0" face="ARIal" size="18"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+<b>AULA: </b></font><font color="#000000" face="ARIal" size="18"><b>LENDAS DE CARAGUATATUBA</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <texto posx="80" posy="98" ancho="574" largo="268"><![CDATA[
+<p align="left">
+<font color="#000000" face="ARIal" size="24">CONHEÇA AGORA AS LENDAS SOBRE  A ORIGEM DO NOME DE ALGUNS BAIRROS DE CARAGUATATUBA.<br>
+<br>
+BOA AULA!</font></p>
+]]></texto>
+              <ctexto>FFFFFF</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <cabeceira>CAMAROEIRO</cabeceira>
+              <imaxe posx="1" posy="62">camar_aao.jpg</imaxe>
+              <texto posx="291" posy="93" ancho="430" largo="319"><![CDATA[
+<p align="left">
+<font color="#000000" face="ARIal" size="14"><b>O BAIRRO DO CAMAROEIRO TEM ESTE NOME POR CAUSA DE UMA ÁRVORE! É, UMA ÁRVORE CHAMADA IBIRUÇU, QUE COM O TEMPO VEIO A CAIR, OCUPANDO UM ESPAÇO MUITO GRANDE NO MAR, FEZ UMA ESPÉCIE DE REPRESA QUE, NA HORA DA MARÉ CHEIA, TRAZIA PARA A BEIRA DA PRAIA BASTANTE CAMARÃO, OS QUAIS FICAVAM PRESOS ÀS FOLHAGENS DO IBIRUÇU. NAQUELA ÉPOCA, OS GAROTOS E OS ADULTOS "PESCAVAM" OS CAMARÕES SEM REDE, USANDO APENAS AS MÃOS PARA TIRÁ-LOS. SEGUNDO ANTIGOS MORADORES, ERAM TANTOS CAMARÕES QUE DAVAM PARA ENCHER SACOLAS E MAIS SACOLAS.</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <cabeceira>RIO DO OURO</cabeceira>
+              <imaxe posx="2" posy="105">riozinho.jpg</imaxe>
+              <texto posx="302" posy="90" ancho="484" largo="321"><![CDATA[
+<p align="left">
+<font color="#000000" face="ARIal" size="14"><b>O RIO DO OURO SE CHAMA ASSIM POR CAUSA DE UMA PEPITA DE OURO ENCONTRADA NO BAIRRO! E FOI UM MORADOR DO BAIRRO QUE ACHOU. ELE, SEGUNDO OS ANTIGOS MORADORES, CUSTUMAVA SAIR PARA CAÇAR E NUM DIA, AO VOLTAR PARA CASA, AO INVÉS DA CAÇA, TROUXE PARA A FAMÍLIA UMA PEPITA DE OURO. ARRUMOU AS MALAS E FOI EMBORA. ANOS MAIS TARDE PRETO PAPUDO, COMO ERA MAIS CONHEDICO, RETORNOU COMO FAZENDEIRO. COM A VENDA DA PEPITA COMPROU UMA FAZENDA NO RIO GRANDE DO SUL E COM A RENDA OBTIDA COM O GADO LEITEIRO, VIVIA COMO BURGUÊS. A HISTÓRIA SE ESPALHOU E MUITOS VIERAM GARIMPAR NO BAIRRO, ONDE O UTENSÍLIO MAIS USADO ERA COADOR DE PANO, DAQUELES QUE NOSSOS AVÓS USAVAM PARA FAZER CAFÉ.</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <cabeceira>CANTA GALO</cabeceira>
+              <imaxe posx="3" posy="88">ANIM897.jpg</imaxe>
+              <texto posx="291" posy="91" ancho="380" largo="236"><![CDATA[
+<p align="left">
+<font color="#000000" face="ARIal" size="14"><b>O BAIRRO CANTA GALO SE CHAMA ASSIM POR CAUSA DE UMA COBRA! É. DIZEM OS ANTIGOS MORADORES QUE NO ALTO DA MONTANHA HAVIA UMA PEDRA E QUE EMBAIXO DELA MORAVA UMA COBRA QUE CANTAVA COMO GALO.</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <cabeceira>BENFICA</cabeceira>
+              <imaxe posx="23" posy="47">FAM32.jpg</imaxe>
+              <texto posx="267" posy="113" ancho="360" largo="218"><![CDATA[
+<p align="left">
+<font color="#000000" face="ARIal" size="14"><b>O NOME DO BAIRRO BENFICA É PROVENIENTE DOS POVOS QUE MORAVAM NO RIO DO OURO! É ISTO MESMO! QUANDO OS HOMENS VINHAM PARA A CIDADE DEIXAVAM PARA TRÁS UM "BEM": A ESPOSA OU A NAMORADA, E COSTUMAVAM DIZER: O "BEM FICA", BENFICA....</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <cabeceira>CENTRO</cabeceira>
+              <imaxe posx="0" posy="47">FAM12.jpg</imaxe>
+              <texto posx="301" posy="95" ancho="483" largo="302"><![CDATA[
+<p align="left">
+<font color="#000000" face="ARIal" size="14"><b>UMA PARTE DO BAIRRO MARREQUINHOS (HOJE CENTRO) TINHA VÁRIAS RAMIFICAÇÕES DE OUTROS BAIRROS, COMO JARDIM CALIFÓRNIA OU FAZENDA DO JOVENAL! POIS É, E ERA NESTA FAZENDA QUE AS CRIANÇAS PASSAVAM ANTES DE IR PARA A ESCOLA, PARA COLHEREM JABUTICABA E ERA NO CALIFÓRNIA QUE OS ESTUDANTES LAVAVAM OS PÉS (NUM PEQUENO CÓRREGO) ANTES DE CHEGAREM À SALA DE AULA. DE ACORDO COM OS REGISTROS HISTÓRICOS, UM PANO DE CHÃO FICAVA NA SOLEIRA DA PORTA DA ESCOLA E QUANDO OS ALUNOS CHEGAVAM, AINDA COM OS PÉS ÚMIDOS, ERA SÓ ESFREGÁ-LOS PARA ASSISTIREM AS AULAS, POSTERIORMENTE, COM OS PÉS LIMPINHOS...</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <cabeceira>LENDA DA PEDRA DA FREIRA</cabeceira>
+              <imaxe posx="41" posy="37">7827343.jpg</imaxe>
+              <texto posx="287" posy="74" ancho="503" largo="354"><![CDATA[
+<p align="left">
+<font color="#000000" face="ARIal" size="14"><b>VOCÊ SABE PORQUE A PRAIA DA PEDRA DA FREIRA TEM ESSE NOME? VOU TE CONTAR! NA ÉPOCA DO DESCOBRIMENTO, UMA JOVEM E DELICADA FREIRA CHAMA IRMÃ MARIA VEIO DE PORTUGAL EVANGELIZAR OS ÍNDIOS TAMAIOS. UM DOS MAIS BELOS E VALENTES GUERREIROS DA TRIBO, CHAMADO IURITI, APAIXONOU-SE PERDIDAMENTE PELA JOVEM RELIGIOSA, QUE TAMBÉM CORRESPONDEU AO SEU AMOR. ELA ESTAVA DISPOSTA A ABANDONAR SUA PÁTRIA E SEUS VOTOS PARA VIVER COM ELE. UM DIA, IURITI VIU UMA ESTRELA CADENTE RISCAR O CÉU E CAIR NO MAR. A TODO CUSTO QUIS IR BUSCÁ-LA PARA DAR DE PRESENTE A MARIA. ASSIM QUE MERGULHOU, NUNCA MAIS VOLTOU. MARIA FICOU ESPERANDO SEU AMADO, AJOELHADA NAS PEDRAS... ATÉ QUE PEDRA SE TORNOU. E ASSIM ESPERA, ATÉ HOJE...</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="9" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>ANIM897.jpg</parellas>
+              <parellas>camar_aao.jpg</parellas>
+              <parellas>FAM12.jpg</parellas>
+              <parellas>freira.jpg</parellas>
+              <parellas>riozinho.jpg</parellas>
+              <parellas>FAM32.jpg</parellas>
+              <cfondo>DFFFEE</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>7</tipo>
+              <cabeceira>CLASSIFIQUE AS IMAGENS DE ACORDO COM AS LENDAS</cabeceira>
+              <caixa1>PEDRA DA FREIRA</caixa1>
+              <caixa2>RIO DO OURO</caixa2>
+              <mini caixa="1">7827343.jpg</mini>
+              <mini caixa="2">riozinho.jpg</mini>
+              <mini caixa="1">freirinha.png</mini>
+              <mini caixa="2">riodoouro.jpg</mini>
+              <mini caixa="1">freira.jpg</mini>
+              <mini caixa="2">rio.jpg</mini>
+              <cfondo>DFFFEE</cfondo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>3</tipo>
+              <imaxe>freira.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>11</tipo>
+              <cabeceira>ARRASTE AS INICIAIS</cabeceira>
+              <modo>3</modo>
+              <cousa nome="C">camar_aao.jpg</cousa>
+              <cousa nome="F">freira.jpg</cousa>
+              <cousa nome="R">riozinho.jpg</cousa>
+              <cousa nome="C">ANIM897.jpg</cousa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>27</tipo>
+              <cabeceira>DESENHE O ANIMAL QUE DEU ORIGEM AO BAIRRO CANTAGALO</cabeceira>
+              <etiqueta>ANIM897.jpg</etiqueta>
+        </paxina>
+        <paxina id="14" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

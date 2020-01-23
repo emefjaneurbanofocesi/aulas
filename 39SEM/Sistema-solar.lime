@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+          <recursos>$C:\Users\DRCARLOS\Documents\AULA-SISTEMA SOLAR\Recursos\</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+          <corfondo>ffffff</corfondo>
+        <corbanda>000000</corbanda>
+        <cornavega>000000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>FFFFFF</cortexto>
+          <titulo>O SISTEMA SOLAR</titulo>
+          <imaxefondo posx="-264" posy="52" trans="50">C:\Users\DRCARLOS\Documents\AULA-SISTEMA SOLAR\Recursos\FUNDO.jpg</imaxefondo>
+          <informe>1</informe>
+          <botonson>1</botonson>
+          <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >ISSO MESMO!</correcto>
+        <incorrecto son="" modo="1" >TENTE NOVAMENTE!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>46</tipo>
+              <etiqueta texto=""  posy="6">SOL</etiqueta>
+              <etiqueta texto="É FONTE DE LUZ E CALOR RESPONSÁVELPELA VIDA EM NOSSO PLANETA, E ESTRELA CENTRAL DO SISTEMA SOLAR"  posy="">-</etiqueta>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>CAPA</cabeceira>
+              <pe>OBSERVE.</pe>
+              <imaxe posx="0" posy="132">C:\Users\DRCARLOS\Documents\AULA-SISTEMA SOLAR\Recursos\sistemasolar.jpg</imaxe>
+              <texto posx="1" posy="4" ancho="668" largo="172"><![CDATA[
+<p align="left">
+<font color="#000000" face="Comic" size="46"><b><i><u>O SISTEMA SOLAR</u></i></b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <texto posx="13" posy="4" ancho="575" largo="340"><![CDATA[
+<p align="center">
+<font color="#080000" face="Comic Sans MS" size="16"><b>O SISTEMA SOLAR É COMPOSTO POR:</b><br>
+</font></p>
+<p align="left">
+<font color="#080000" face="Comic Sans MS" size="16"><b>-</b> OITO PLANETAS: <b>MERCURIO, VÊNUS, TERRA, MARTE, JÚPTER, SATURNO, URANO E NETUNO.</b><br>
+<br>
+<b>-</b> O SOL QUE É NOSSA ESTRELA MAIS PRÓXIMA , E TAMBÉM P NOSSO <b>SITEMA SOLAR.</b><br>
+<br>
+<b>-</b> SATÉLITES NATURAIS.<br>
+<br>
+<b>-</b> SATÉLITES ARTIFICIAIS, COMO OS DE TELEFONIA E TV A CABO.<br>
+<br>
+<b>-</b> COMETAS<br>
+<br>
+- ASTERÓIDES.<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

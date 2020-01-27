@@ -75,7 +75,7 @@ EMEF JANE URBANO FOCESI</font></p>
         </paxina>
         <paxina id="7" >
               <tipo>19</tipo>
-              <imaxe>tartaruga.png</imaxe>
+              <imaxe>tartaruga.jpg</imaxe>
               <texto><![CDATA[IDENTIFIQUE O ANIMAL:]]></texto>
               <resp texto="ABCDEFGHIJKLMNOPQRSTUVWXYZ">TARTARUGA</resp>
               <modo>0</modo>

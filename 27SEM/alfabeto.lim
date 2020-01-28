@@ -10,8 +10,6 @@
         <cormensaxes>000000</cormensaxes>
         <cortexto>000000</cortexto>
         <subtitulo>ALFABETO</subtitulo>
-        <autor>CONECTA</autor>
-        <iden>JOYCE AVELINO</iden>
         <logo>logoeducadigital.png</logo>
         <informe>1</informe>
         <botonson>1</botonson>
@@ -19,20 +17,9 @@
         <desordenar>0</desordenar>
         <correcto son="" modo="1" >MUITO BEM!</correcto>
         <incorrecto son="" modo="1" >TENTE NOVAMENTE</incorrecto>
-        <caracteres>Á Ã É Í Ó Õ Ç</caracteres>
     </config>
     <libro>
         <paxina id="1" >
-              <tipo>2</tipo>
-              <imaxe posx="11" posy="3">alfabeto.jpg</imaxe>
-              <texto posx="596" posy="211" ancho="503" largo="294"><![CDATA[<font size="12"><font face="verdana" size="14" color="#008080"><b>AULA:</b> </font><font face="verdana" size="14" color="#000000">ALFABETO<br>
-</font><font face="verdana" size="14" color="#008080"><b>TURMA:</font><font face="verdana" size="14" color="#000000"></b> 1 ANO<br>
-</font><font face="verdana" size="14" color="#008080"><b>ELABORAÇÃO:</b> </font><font face="verdana" size="14" color="#000000">CONECTA<br>
-</font><font face="verdana" size="14" color="#008080"><b>PRODUÇÃO:</b> </font><font face="verdana" size="14" color="#000000">JOYCE AVELINO</font></p></font>]]></texto>
-              <ctexto>000000</ctexto>
-              <chtml>1</chtml>
-        </paxina>
-        <paxina id="2" >
               <tipo>12</tipo>
               <cabeceira>CLIQUE NOS ANIMAIS E OBSERVE SUAS LETRAS INICIAIS:</cabeceira>
               <modo>1</modo>
@@ -42,6 +29,18 @@
               <galeria grande="" son="" texto="DINOSSAURO">braquiossauro.jpg</galeria>
               <galeria grande="" son="" texto="ELEFANTE">ELEFANTE.png</galeria>
               <galeria grande="" son="" texto="FOCA">foca.JPG</galeria>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">alfabeto.jpg</imaxe>
+              <texto posx="59" posy="288" ancho="486" largo="193"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="20">AULA: ALFABETO<br>
+<br>
+</font><font color="#000000" face="Arial" size="20"><b>EMEF JANE URBANO FOCESI</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
         </paxina>
         <paxina id="3" >
               <tipo>4</tipo>

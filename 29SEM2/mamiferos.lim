@@ -26,7 +26,7 @@
 <p align="center">
 <font color="#0080FF" face="Verdana" size="16"><b>EMEF JANE URBANO FOCESI</b><br>
 <br>
-<b>AULA:</b></font><font color="#000000" face="Verdana" size="16"><b> ANIMAIS MAMÍFEROS - FASE 1</b><br>
+<b>AULA:</b></font><font color="#000000" face="Verdana" size="16"><b> ANIMAIS MAMÍFEROS</b><br>
 <br>
 </font></p>
 ]]></texto>
@@ -67,6 +67,8 @@
               <mini caixa="1">LEAO.jpg</mini>
               <mini caixa="2">GALINHA.jpg</mini>
               <cfondo>D7F2FF</cfondo>
+              <cadro></cadro>
+              <modo></modo>
         </paxina>
         <paxina id="5" >
               <tipo>17</tipo>

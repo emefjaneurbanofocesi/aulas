@@ -42,7 +42,6 @@
         </paxina>
         <paxina id="3" >
               <tipo>20</tipo>
-            <nonpasar>1</nonpasar>
               <cabeceira>FAÇA A CORRESPONDÊNCIA</cabeceira>
               <pe>ETIQUETAS (UNIR)</pe>
               <imaxe>ETIQUETA_4.jpg</imaxe>
@@ -54,7 +53,6 @@
         </paxina>
         <paxina id="4" >
               <tipo>18</tipo>
-            <nonpasar>1</nonpasar>
               <cabeceira>COMPLETAR COM AS SÍLABAS QUE FALTAM</cabeceira>
               <pe>COMPLETAR (ARRASTAR)</pe>
               <modo>3</modo>
@@ -66,7 +64,6 @@
         </paxina>
         <paxina id="5" >
               <tipo>29</tipo>
-            <nonpasar>1</nonpasar>
               <cabeceira>COMPLETE AS LACUNAS:</cabeceira>
               <pe>TEXTO (ARRASTAR)</pe>
               <texto><![CDATA[  a) O PAPAGAIO, PATO, PERIQUITO E A CORUJA SÃO ANIMAIS QUE POSSUEM O CORPO REVESTIDO DE *PENAS .
@@ -80,7 +77,6 @@ d) O TATU, A TARTARUGA E O CARANGUEJO SÃO ANIMAIS QUE POSSUEM O CORPO REVESTIDO
         </paxina>
         <paxina id="6" >
               <tipo>19</tipo>
-            <nonpasar>1</nonpasar>
               <cabeceira>DESCUBRA A PALAVRA SECRETA:</cabeceira>
               <pe>PALAVRA SECRETA</pe>
               <texto><![CDATA[AS AVES SÃO ANIMAIS REVESTIDOS POR: ]]></texto>
@@ -90,7 +86,6 @@ d) O TATU, A TARTARUGA E O CARANGUEJO SÃO ANIMAIS QUE POSSUEM O CORPO REVESTIDO
         </paxina>
         <paxina id="7" >
               <tipo>4</tipo>
-            <nonpasar>1</nonpasar>
               <cabeceira>CAÇA-PALAVRAS:</cabeceira>
               <pe>CAÇA-PALAVRAS (VER ENUNCIADOS ; COLORIR)</pe>
               <modo>1</modo>
@@ -106,7 +101,6 @@ d) O TATU, A TARTARUGA E O CARANGUEJO SÃO ANIMAIS QUE POSSUEM O CORPO REVESTIDO
         </paxina>
         <paxina id="8" >
               <tipo>3</tipo>
-            <nonpasar>1</nonpasar>
               <cabeceira>MONTE O QUEBRA-CABEÇA</cabeceira>
               <pe>QUEBRA-CABEÇA</pe>
               <imaxe>302059061.jpg</imaxe>
@@ -131,7 +125,6 @@ OS ANIMAIS PODEM SE LOCOMOVER DE VÁRIAS MANEIRAS: VOANDO, RASTEJANDO, NADANDO, 
         </paxina>
         <paxina id="10" >
               <tipo>19</tipo>
-            <nonpasar>1</nonpasar>
               <cabeceira>DESCUBRA A PALAVRA SECRETA:</cabeceira>
               <pe>PALAVRA SECRETA</pe>
               <texto><![CDATA[DE QUE MANEIRA A COBRA SE LOCOMOVE?]]></texto>
@@ -141,7 +134,6 @@ OS ANIMAIS PODEM SE LOCOMOVER DE VÁRIAS MANEIRAS: VOANDO, RASTEJANDO, NADANDO, 
         </paxina>
         <paxina id="11" >
               <tipo>14</tipo>
-            <nonpasar>1</nonpasar>
               <cabeceira>FAÇA A CORRESPONDÊNCIA:</cabeceira>
               <pe>ARRASTAR IMAGENS</pe>
               <peza imaxe="download_(2).jpg" texto="" son="">SALTANDO.jpg</peza>
@@ -151,7 +143,6 @@ OS ANIMAIS PODEM SE LOCOMOVER DE VÁRIAS MANEIRAS: VOANDO, RASTEJANDO, NADANDO, 
         </paxina>
         <paxina id="12" >
               <tipo>29</tipo>
-            <nonpasar>1</nonpasar>
               <cabeceira>COMPLETE AS LACUNAS QUE FALTAM:</cabeceira>
               <pe>TEXTO (ARRASTAR)</pe>
               <texto><![CDATA[  a) DE QUE MANEIRA O TUBARÃO SE LOCOMOVE? *NADANDO .

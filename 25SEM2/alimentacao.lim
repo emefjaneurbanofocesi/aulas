@@ -52,23 +52,38 @@
               <ctapa>000000</ctapa>
         </paxina>
         <paxina id="4" >
-              <tipo>16</tipo>
-              <externa dimx="200" dimy="200" alt="A BA CA XI">abacaxi.png</externa>
-              <estado>ABACAXI</estado>
-              <intentos>ABACAXI</intentos>
-        </paxina>
-        <paxina id="5" >
               <tipo>34</tipo>
               <imaxe>abaxi3.png</imaxe>
               <forma>0</forma>
               <modo>1</modo>
               <completa>ABACAXI</completa>
         </paxina>
-        <paxina id="6" >
+        <paxina id="5" >
               <tipo>2</tipo>
               <imaxe posx="33" posy="-52">PINTARALIMENTOS.swf</imaxe>
         </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <imaxe>Alimentos.jpg</imaxe>
+              <imfondo  trans="35">Alimentos.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
         <paxina id="7" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="ABACAXI">ABACAXI</sopa>
+              <sopa enun="BANANA">BANANA</sopa>
+              <sopa enun="BETERRABA">BETERRABA</sopa>
+              <sopa enun="CEBOLA">CEBOLA</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQ</fondo>
+        </paxina>
+        <paxina id="8" >
               <tipo>2</tipo>
               <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
         </paxina>

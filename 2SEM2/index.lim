@@ -10,8 +10,6 @@
         <cormensaxes>000000</cormensaxes>
         <cortexto>000000</cortexto>
         <subtitulo>CONHECENDO A ESCOLA</subtitulo>
-        <autor>MARTA</autor>
-        <iden>JOYCE AVELINO</iden>
         <logo>logoeducadigital.png</logo>
         <informe>1</informe>
         <botonson>1</botonson>
@@ -137,6 +135,10 @@ ATÉ A PRÓXIMA!</font></i></p>
 ]]></texto>
               <ctexto>000000</ctexto>
               <chtml>1</chtml>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
         </paxina>
     </libro>
 </lim>

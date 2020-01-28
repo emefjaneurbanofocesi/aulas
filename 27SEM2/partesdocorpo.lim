@@ -51,14 +51,13 @@
               <sopa enun="boca.jpg">BOCA</sopa>
               <sopa enun="barriga.jpg">BARRIGA</sopa>
               <sopa enun="CABECCA.jpg">CABEÇA</sopa>
-              <sopa enun="OLHO.jpg">OLHO</sopa>
               <sopa enun="mao.png">MÃO</sopa>
               <sopa enun="natizzzz.jpg">NARIZ</sopa>
               <sopa enun="pq.jpg">PÉ</sopa>
               <enunciado>1</enunciado>
               <colorea>1</colorea>
               <cadro>1</cadro>
-              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+              <fondo>X</fondo>
         </paxina>
         <paxina id="4" >
               <tipo>11</tipo>
@@ -77,7 +76,7 @@
               <imfondo  trans="10">corpo1.png</imfondo>
               <filas>3</filas>
               <columnas>3</columnas>
-              <reixa>0</reixa>
+              <reixa>1</reixa>
             <forma>1</forma>
         </paxina>
         <paxina id="6" >

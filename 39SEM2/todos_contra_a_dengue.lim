@@ -11,7 +11,6 @@
         <cortexto>000000</cortexto>
         <subtitulo>TODOS_CONTRA_A_DENGUE</subtitulo>
         <logo>logoeducadigital.png</logo>
-        <imaxefondo posx="16" posy="56" trans="20">a_lutacontinua.jpg</imaxefondo>
         <aspectosup >skin_superior_barra.swf</aspectosup>
         <aspectoinf >skin_verde_inf.swf</aspectoinf>
         <informe>1</informe>

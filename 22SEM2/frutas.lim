@@ -96,8 +96,8 @@ AULA:FRUTAS<br>
         <paxina id="8" >
               <tipo>7</tipo>
               <cabeceira>CLASSIFIQUE AS IMAGENS</cabeceira>
-              <fondocaixa1 trans="50">verao-frutas-tropicais-fundo_23-2147552800.jpg</fondocaixa1>
-              <fondocaixa2 trans="100">100</fondocaixa2>
+              <fondocaixa1 trans="30">verao-frutas-tropicais-fundo_23-2147552800.jpg</fondocaixa1>
+              <fondocaixa2 trans="30">CADEIRA.jpg</fondocaixa2>
               <caixa1>FRUTAS</caixa1>
               <caixa2>OBJETOS</caixa2>
               <mini caixa="1">abacaxi.jpg</mini>

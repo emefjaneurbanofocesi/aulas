@@ -96,20 +96,13 @@
               <ctapa>000000</ctapa>
         </paxina>
         <paxina id="7" >
-              <tipo>51</tipo>
-              <cabeceira>Jogo do memória.</cabeceira>
-              <valor>5</valor>
-              <peza imaxe="chuchu1.jpg">1</peza>
-              <peza imaxe="GATO_5.jpg">2</peza>
-        </paxina>
-        <paxina id="8" >
               <tipo>14</tipo>
               <cabeceira>Arraste a imagens à letra correspodente.</cabeceira>
               <peza imaxe="" texto="CH" son="">chave.jpg</peza>
               <peza imaxe="" texto="X" son="">XERIFE.jpg3.jpg</peza>
               <cfondo>84E1FD</cfondo>
         </paxina>
-        <paxina id="9" >
+        <paxina id="8" >
               <tipo>18</tipo>
               <cabeceira>Complete as palavras com M, N, X, Ch.</cabeceira>
               <modo>3</modo>
@@ -120,7 +113,7 @@
               <completa ant="PEI" post="EIRO">X</completa>
               <completa ant="SA" post="BA">M</completa>
         </paxina>
-        <paxina id="10" >
+        <paxina id="9" >
               <tipo>39</tipo>
               <cabeceira>Jogo da Memória 2.</cabeceira>
               <modo>1</modo>
@@ -133,7 +126,7 @@
               <cfondo>FFFFFF</cfondo>
               <ctapa>000000</ctapa>
         </paxina>
-        <paxina id="11" >
+        <paxina id="10" >
               <tipo>11</tipo>
               <cabeceira>Arraste o nome para a figura correspondente.</cabeceira>
               <modo>3</modo>
@@ -143,7 +136,7 @@
               <cousa nome="CHAVEIRO">chaveiro.jpg2.jpg</cousa>
               <cousa nome="CHOCOLATE">CHOCOLATE.jpg2.jpg</cousa>
         </paxina>
-        <paxina id="12" >
+        <paxina id="11" >
               <tipo>11</tipo>
               <cabeceira>Escreva  o nome da figura.</cabeceira>
               <modo>1</modo>
@@ -153,7 +146,7 @@
               <cousa nome="FICHA">ficha.jpg</cousa>
               <cousa nome="XÍCARA">x_2.jpg</cousa>
         </paxina>
-        <paxina id="13" >
+        <paxina id="12" >
               <tipo>13</tipo>
               <cabeceira>ORGANIZE AS PALAVRAS NA SUA FAMÍLIA.</cabeceira>
               <unir texto="DENTE">DENTISTA</unir>
@@ -162,7 +155,7 @@
               <unir texto="CRIANÇA">CRIANCICE</unir>
               <unir texto="SAMBA">SAMBADOR</unir>
         </paxina>
-        <paxina id="14" >
+        <paxina id="13" >
               <tipo>2</tipo>
               <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
         </paxina>

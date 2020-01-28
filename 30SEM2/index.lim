@@ -34,11 +34,6 @@
         </paxina>
         <paxina id="2" >
               <tipo>2</tipo>
-              <cabeceira>Assista o vídeo sobre as regiões Brasileiras:</cabeceira>
-              <imaxe posx="0" posy="-5">regBR2.mp4</imaxe>
-        </paxina>
-        <paxina id="3" >
-              <tipo>2</tipo>
               <imaxe posx="350" posy="8">regioes-brasileiras.jpg</imaxe>
               <texto posx="0" posy="-1" ancho="431" largo="374"><![CDATA[
 <p align="left">
@@ -55,7 +50,7 @@
               <ctexto>000000</ctexto>
               <chtml>1</chtml>
         </paxina>
-        <paxina id="4" >
+        <paxina id="3" >
               <tipo>12</tipo>
               <cabeceira>Veja as fotos dos lugares e culturas da região norte (Clique na imagem para ampliar)</cabeceira>
               <modo>1</modo>
@@ -63,7 +58,7 @@
               <galeria grande="" son="" texto="Floresta amazônica">floresta-amazonica-norte.jpg</galeria>
               <galeria grande="" son="" texto="Celebração indígena">celebracao_indigena-norte.jpg</galeria>
         </paxina>
-        <paxina id="5" >
+        <paxina id="4" >
               <tipo>12</tipo>
               <cabeceira>Veja as fotos dos lugares e culturas da região centro-oeste:</cabeceira>
               <modo>1</modo>
@@ -72,21 +67,21 @@
               <galeria grande="" son="" texto="Cultura - Cavalhadas">cavalhadas-norte3.jpg</galeria>
               <galeria grande="" son="" texto="Cerrado, vegetação predominante do Centro-oeste">cerrado-centro.jpg</galeria>
         </paxina>
-        <paxina id="6" >
+        <paxina id="5" >
               <tipo>12</tipo>
               <modo>1</modo>
               <galeria grande="" son="" texto="Cristo Redentor - Rio de Janeiro">cristo-redentor.jpg</galeria>
               <galeria grande="" son="" texto="Pão de açúcar - Rio de Janeiro">pao-de-acucar-panoramico.jpg</galeria>
               <galeria grande="" son="" texto="Carnaval">carnaval-rio-2-1.jpg</galeria>
         </paxina>
-        <paxina id="7" >
+        <paxina id="6" >
               <tipo>12</tipo>
               <modo>1</modo>
               <galeria grande="" son="" texto="Festa da uva em Caxias do Sul">festadauva-sul.jpg</galeria>
               <galeria grande="" son="" texto="Gaúchos do Rio Grande do Sul">gaucho2-sul.jpg</galeria>
               <galeria grande="" son="" texto="Chimarrão - bebida típica do sul">chimarrao-sul2.jpg</galeria>
         </paxina>
-        <paxina id="8" >
+        <paxina id="7" >
               <tipo>12</tipo>
               <modo>1</modo>
               <galeria grande="" son="" texto="Sertão Nordestino">sertao-nordeste.jpg</galeria>
@@ -94,7 +89,7 @@
               <galeria grande="" son="" texto="Festa Junina">festajunina2-nordeste.jpg</galeria>
               <galeria grande="" son="" texto="Bahia">bahia-nordeste.jpg</galeria>
         </paxina>
-        <paxina id="9" >
+        <paxina id="8" >
               <tipo>20</tipo>
               <cabeceira>Identifique as regiões do Brasil:</cabeceira>
               <imaxe>HDmapa-do-brasil-e-regioes.jpg</imaxe>
@@ -105,7 +100,7 @@
               <etiqueta posx="240" posy="79">NORDESTE</etiqueta>
               <etiqueta posx="206" posy="166">SUDESTE</etiqueta>
         </paxina>
-        <paxina id="10" >
+        <paxina id="9" >
               <tipo>17</tipo>
               <cabeceira>Jogo da memória</cabeceira>
               <parellas>pao-de-acucar-panoramico.jpg</parellas>
@@ -117,7 +112,7 @@
               <cfondo>FFFFFF</cfondo>
               <ctapa>000000</ctapa>
         </paxina>
-        <paxina id="11" >
+        <paxina id="10" >
               <tipo>4</tipo>
               <cabeceira>Encontre as 5 regiões do Brasil no caça-palavras</cabeceira>
               <modo>2</modo>
@@ -131,7 +126,7 @@
               <cadro>0</cadro>
               <fondo>QWERTYUIOPASDFGHJKLXCVBNM</fondo>
         </paxina>
-        <paxina id="12" >
+        <paxina id="11" >
               <tipo>11</tipo>
               <cabeceira>ARRASTE O NOME CORRETO DAS FESTAS E COMEMORAÇÕES:</cabeceira>
               <modo>3</modo>
@@ -140,24 +135,24 @@
               <cousa nome="FESTA JUNINA">festajunina2-nordeste.jpg</cousa>
               <cousa nome="FESTA DA UVA">festadauva-sul.jpg</cousa>
         </paxina>
-        <paxina id="13" >
+        <paxina id="12" >
               <tipo>50</tipo>
               <cabeceira>Identifique os tipos de povos do norte e do sul:</cabeceira>
               <peza imaxe="cultura-norte.jpg"  son="">_I_N_D_Í_G_E_N_A_S</peza>
               <peza imaxe="gaucho2-sul.jpg"  son="">_G_A_Ú_C_H_O_S</peza>
         </paxina>
-        <paxina id="14" >
+        <paxina id="13" >
               <tipo>50</tipo>
               <cabeceira>Identifique as vegetações que podem ser encontradas no nordeste e no centro-oeste</cabeceira>
               <peza imaxe="cerrado-centro.jpg"  son="">C_E_RR_A_D_O</peza>
               <peza imaxe="vegetacao-caatinga.jpeg"  son="">C_AA_T_I_N_GA</peza>
         </paxina>
-        <paxina id="15" >
+        <paxina id="14" >
               <tipo>50</tipo>
               <cabeceira>Qual é o nome desta bebida típica do sul?</cabeceira>
               <peza imaxe="chimarrao-sul.jpg"  son="">_C_H_I_M_A_R_R_Ã_O</peza>
         </paxina>
-        <paxina id="16" >
+        <paxina id="15" >
               <tipo>2</tipo>
               <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
         </paxina>

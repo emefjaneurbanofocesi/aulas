@@ -20,17 +20,6 @@
     </config>
     <libro>
         <paxina id="1" >
-              <tipo>12</tipo>
-              <cabeceira>CLIQUE NOS ANIMAIS E OBSERVE SUAS LETRAS INICIAIS:</cabeceira>
-              <modo>1</modo>
-              <galeria grande="" son="" texto="ABELHA">abelha.png</galeria>
-              <galeria grande="" son="" texto="BALEIA">baleia.jpg</galeria>
-              <galeria grande="" son="" texto="CACHORRO">Cachorro.png</galeria>
-              <galeria grande="" son="" texto="DINOSSAURO">braquiossauro.jpg</galeria>
-              <galeria grande="" son="" texto="ELEFANTE">ELEFANTE.png</galeria>
-              <galeria grande="" son="" texto="FOCA">foca.JPG</galeria>
-        </paxina>
-        <paxina id="2" >
               <tipo>2</tipo>
               <imaxe posx="0" posy="0">alfabeto.jpg</imaxe>
               <texto posx="50" posy="50" ancho="466" largo="248"><![CDATA[
@@ -42,7 +31,7 @@
               <ctexto>000000</ctexto>
               <chtml>1</chtml>
         </paxina>
-        <paxina id="3" >
+        <paxina id="2" >
               <tipo>4</tipo>
               <cabeceira>CAÇA-PALAVRAS:</cabeceira>
               <modo>2</modo>
@@ -58,7 +47,7 @@
               <cadro>0</cadro>
               <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
         </paxina>
-        <paxina id="4" >
+        <paxina id="3" >
               <tipo>17</tipo>
               <cabeceira>JOGO DA MEMÓRIA:</cabeceira>
               <parellas>A.gif</parellas>
@@ -70,7 +59,7 @@
               <cfondo>FFFFFF</cfondo>
               <ctapa>000000</ctapa>
         </paxina>
-        <paxina id="5" >
+        <paxina id="4" >
               <tipo>5</tipo>
               <cabeceira>ARRASTE O CÍRCULO E DESCUBRA QUAL LETRA ESTÁ POR TRÁS DO CACHORRO:</cabeceira>
               <imaxe>Cachorro.png</imaxe>
@@ -79,7 +68,7 @@
               <resp>B</resp>
               <rdim>90</rdim>
         </paxina>
-        <paxina id="6" >
+        <paxina id="5" >
               <tipo>3</tipo>
               <cabeceira>MONTE O QUEBRA-CABEÇA:</cabeceira>
               <imaxe>d.jpg</imaxe>
@@ -89,7 +78,7 @@
               <reixa>0</reixa>
             <forma>1</forma>
         </paxina>
-        <paxina id="7" >
+        <paxina id="6" >
               <tipo>1</tipo>
               <imaxe>ELEFANTE.png</imaxe>
               <texto>COM QUE LETRA COMEÇA O NOME DESTE ANIMAL?</texto>
@@ -97,7 +86,7 @@
               <resp texto="D" valor="0">C</resp>
               <resp texto="" valor="1">E</resp>
         </paxina>
-        <paxina id="8" >
+        <paxina id="7" >
               <tipo>4</tipo>
               <cabeceira>ENCONTRE SOMENTE AS PALAVRAS QUE COMEÇAM COM A LETRA B:</cabeceira>
               <modo>1</modo>
@@ -113,7 +102,7 @@
               <cadro>0</cadro>
               <fondo>ABCDEFGHIJKLMNOPQRSTUV</fondo>
         </paxina>
-        <paxina id="9" >
+        <paxina id="8" >
               <tipo>6</tipo>
               <cabeceira>ARRASTE AS PALAVRAS DE ACORDO COM A LETRA INICIAL:</cabeceira>
               <nome caixa="1">ABELHA</nome>
@@ -124,8 +113,9 @@
               <nome caixa="2">BONECA</nome>
               <caixa1>A</caixa1>
               <caixa2>B</caixa2>
+              <modo></modo>
         </paxina>
-        <paxina id="10" >
+        <paxina id="9" >
               <tipo>19</tipo>
               <imaxe>gatos.jpg</imaxe>
               <texto><![CDATA[ESCREVA O NOME DO ANIMAL DA FOTO:]]></texto>
@@ -133,7 +123,7 @@
               <modo>0</modo>
               <forma>1</forma>
         </paxina>
-        <paxina id="11" >
+        <paxina id="10" >
               <tipo>14</tipo>
               <cabeceira>ARRASTE O ANIMAL DE ACORDO COM A LETRA QUE INICA SEU NOME:</cabeceira>
               <peza imaxe="a.jpg" texto="" son="">abelha.png</peza>
@@ -141,7 +131,7 @@
               <peza imaxe="c.jpeg" texto="" son="">Cachorro.png</peza>
               <cfondo>84E1FD</cfondo>
         </paxina>
-        <paxina id="12" >
+        <paxina id="11" >
               <tipo>35</tipo>
               <cabeceira>ARRASTE A IMAGEM NA SEQUÊNCIA CORRETA:</cabeceira>
               <forma>0</forma>
@@ -151,7 +141,7 @@
               <completa>d.jpg</completa>
               <completa>e.jpg</completa>
         </paxina>
-        <paxina id="13" >
+        <paxina id="12" >
               <tipo>2</tipo>
               <imaxe posx="0" posy="0">alfabeto.jpg</imaxe>
               <texto posx="471" posy="177" ancho="459" largo="242"><![CDATA[
@@ -163,11 +153,11 @@ DIVIRTA-SE JOGANDO NA PRÓXIMA TELA.</font></p>
               <ctexto>000000</ctexto>
               <chtml>1</chtml>
         </paxina>
-        <paxina id="14" >
+        <paxina id="13" >
               <tipo>16</tipo>
               <externa>362_motor_abecedario.swf</externa>
         </paxina>
-        <paxina id="15" >
+        <paxina id="14" >
               <tipo>2</tipo>
               <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
         </paxina>

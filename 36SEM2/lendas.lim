@@ -136,6 +136,7 @@ BOA AULA!</font></p>
         <paxina id="11" >
               <tipo>3</tipo>
               <imaxe>freira.jpg</imaxe>
+              <imfondo  trans="35">freira.jpg</imfondo>
               <filas>4</filas>
               <columnas>4</columnas>
               <reixa>0</reixa>

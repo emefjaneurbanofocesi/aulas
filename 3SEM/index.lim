@@ -34,16 +34,6 @@
               <chtml>1</chtml>
         </paxina>
         <paxina id="2" >
-              <tipo>2</tipo>
-              <imaxe posx="274" posy="11">ESSS.png</imaxe>
-              <texto posx="0" posy="49" ancho="286" largo="284"><![CDATA[
-<p align="center">
-<font color="#000000" face="Verdana" size="18">A ESCOLA É O LUGAR ONDE VAMOS PARA ESTUDAR E APRENDER VÁRIOS CONTEÚDOS. ALÉM DE CONVIVER EM GRUPO E FAZER AMIZADES.</font></p>
-]]></texto>
-              <ctexto>000000</ctexto>
-              <chtml>1</chtml>
-        </paxina>
-        <paxina id="3" >
               <tipo>17</tipo>
               <cabeceira>JOGO DA MEMÓRIA:</cabeceira>
               <parellas>APONTADOR.png</parellas>
@@ -55,29 +45,7 @@
               <cfondo>FFFFFF</cfondo>
               <ctapa>000000</ctapa>
         </paxina>
-        <paxina id="4" >
-              <tipo>12</tipo>
-              <cabeceira>EXISTEM PESSOAS MUITO IMPORTANTES PARA O FUNCIONAMENTO DA ESCOLA SÃO ELAS:</cabeceira>
-              <modo>1</modo>
-              <galeria grande="" son="" texto="DIRETOR OU DIRETORA">DIRETORA.jpg</galeria>
-              <galeria grande="" son="" texto="PROFESSOR/ PROFESSORA">PROFESSOR.png</galeria>
-              <galeria grande="" son="" texto="COORDENADORA">COORDE.jpg</galeria>
-              <galeria grande="" son="" texto="MERENDEIRA">MERENDEIRA.jpg</galeria>
-              <galeria grande="" son="" texto="FAXINEIRA">FAXINA.jpg</galeria>
-              <galeria grande="" son="" texto="SECRETÁRIA">secretaria.jpg</galeria>
-        </paxina>
-        <paxina id="5" >
-              <tipo>12</tipo>
-              <cabeceira>OS MATERIAIS USADOS NA ESCOLA SÃO:</cabeceira>
-              <modo>1</modo>
-              <galeria grande="" son="" texto="CADERNO">CADERNO.jpg</galeria>
-              <galeria grande="" son="" texto="LAPÍS">LAPIS.png</galeria>
-              <galeria grande="" son="" texto="MOCHILA">MOCHILA.jpg</galeria>
-              <galeria grande="" son="" texto="BORRACHA">BORRACHA.png</galeria>
-              <galeria grande="" son="" texto="APONTADOR">APONTADOR.png</galeria>
-              <galeria grande="" son="" texto="LIVROS">LIVRO.png</galeria>
-        </paxina>
-        <paxina id="6" >
+        <paxina id="3" >
               <tipo>17</tipo>
               <cabeceira>JOGO DA MEMÓRIA</cabeceira>
               <parellas>PROFESSORA.jpg</parellas>
@@ -89,7 +57,7 @@
               <cfondo>FFFFFF</cfondo>
               <ctapa>000000</ctapa>
         </paxina>
-        <paxina id="7" >
+        <paxina id="4" >
               <tipo>3</tipo>
               <cabeceira>MONTE O QUEBRA-CABEÇA:</cabeceira>
               <imaxe>schll.jpg</imaxe>
@@ -99,7 +67,7 @@
               <reixa>0</reixa>
             <forma>1</forma>
         </paxina>
-        <paxina id="8" >
+        <paxina id="5" >
               <tipo>7</tipo>
               <cabeceira>CLASSIFIQUE AS IMAGENS:</cabeceira>
               <caixa1>FUNCIONÁRIOS</caixa1>
@@ -111,10 +79,8 @@
               <mini caixa="1">PROFESSORA.jpg</mini>
               <mini caixa="2">LAPIS.png</mini>
               <cfondo>E1FBF9</cfondo>
-              <cadro></cadro>
-              <modo></modo>
         </paxina>
-        <paxina id="9" >
+        <paxina id="6" >
               <tipo>34</tipo>
               <cabeceira>ORDENE A PALAVRA:</cabeceira>
               <imaxe>escola.JPG</imaxe>
@@ -122,11 +88,23 @@
               <modo>1</modo>
               <completa>ESCOLA</completa>
         </paxina>
-        <paxina id="10" >
+        <paxina id="7" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="PROFESSORA">PROFESSORA</sopa>
+              <sopa enun="ESCOLA">ESCOLA</sopa>
+              <sopa enun="CADERNO">CADERNO</sopa>
+              <sopa enun="COLA">COLA</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>X</fondo>
+        </paxina>
+        <paxina id="8" >
               <tipo>27</tipo>
               <cabeceira>DESENHE A SUA ESCOLA:</cabeceira>
         </paxina>
-        <paxina id="11" >
+        <paxina id="9" >
               <tipo>2</tipo>
               <imaxe posx="63" posy="3">ESSSS.jpg</imaxe>
               <texto posx="20" posy="25" ancho="340" largo="161"><![CDATA[
@@ -138,7 +116,7 @@ ATÉ A PRÓXIMA!</font></i></p>
               <ctexto>000000</ctexto>
               <chtml>1</chtml>
         </paxina>
-        <paxina id="12" >
+        <paxina id="10" >
               <tipo>2</tipo>
               <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
         </paxina>

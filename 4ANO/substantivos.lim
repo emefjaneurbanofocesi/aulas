@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FF8000</corbanda>
+        <cornavega>FF8000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>Substantivos</subtitulo>
+        <autor>Prof°Sirlande</autor>
+        <iden>Ana Carolina de Souza</iden>
+        <logo>LOGO.png</logo>
+        <imaxefondo posx="-186" posy="268" trans="25">ler.png</imaxefondo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns!</correcto>
+        <incorrecto son="" modo="1" >Você Errou!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="100" posy="25" ancho="563" largo="304"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="14"><b>              </b></font><font color="#000000" face="Verdana" size="16"><b>             EMEF MARIA MORAES DE OLIVEIRA</b><br>
+<br>
+</font><font color="#0000FF" face="Verdana" size="16"><b>        AULA DE LÍNGUA PORTUGUESA</b></font><font color="#000000" face="Verdana" size="16"><b>:SUBSTANTIVOS</b><br>
+<br>
+</font><font color="#0000FF" face="Verdana" size="16"><b>                    ELABORAÇÃO</b></font><font color="#000000" face="Verdana" size="16"><b>:PROF°SIRLANDE ALVES</b><br>
+<br>
+<b>                  </b></font><font color="#0000FF" face="Verdana" size="16"><b>  PRODUÇÃO</b></font><font color="#000000" face="Verdana" size="16"><b>:ANA CAROLINA DE SOUZA</b><br>
+<b>             </b><br>
+<b>                    6° ANO</b><br>
+<b>        </b><br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="152" posy="0">SUBSTANTIVOS.mp4</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <cabeceira>Definição</cabeceira>
+              <texto posx="124" posy="3" ancho="558" largo="307"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="12"><b><i><u><br>
+Os substantivos são palavras que usamos para nomear os seres e as coisas. Possuem classificação e flexionam-se em gênero, número e grau.<br>
+Nas orações de língua portuguesa, o substantivo em geral exerce funções diretamente relacionadas com o verbo: atua como núcleo do sujeito, dos complementos verbais (objeto direto ou indireto) e do agente da passiva. Pode ainda funcionar como núcleo do complemento nominal ou do aposto, como núcleo do predicativo do sujeito ou do objeto ou como núcleo do vocativo. Também encontramos substantivos como núcleos de adjuntos adnominais e de adjuntos adverbiais - quando essas funções são desempenhadas por grupos de palavras.</font></u></i></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <cabeceira>Exemplos de substantivos:</cabeceira>
+              <texto posx="51" posy="5" ancho="548" largo="301"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="12"></font></p>
+<p align="center">
+<b><u><font color="#000000" face="Verdana" size="12"><br>
+Substantivo no masculino: homem<br>
+Substantivo no feminino: mulher<br>
+Substantivo no singular: escola<br>
+Substantivo no plural: escolas<br>
+Substantivo no grau diminutivo: gatinho<br>
+Substantivo no grau normal: gato<br>
+Substantivo no grau aumentativo: gatarrão</font></u></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <cabeceira>Quanto a classificação,podem ser:</cabeceira>
+              <texto posx="95" posy="1" ancho="550" largo="302"><![CDATA[
+<p align="left">
+<font color="#FF0080" face="Verdana" size="12"><br>
+<br>
+                          Concretos</font><font color="#000000" face="Verdana" size="12"><b><u><br>
+Quando tratam de coisas reais, ou tidas como reais.<br>
+homem, menino, lobisomem, fada.</u></b></font><font color="#FF80C0" face="Verdana" size="12"><br>
+<br>
+                          </font><font color="#FF0080" face="Verdana" size="12">Abstratos</font><font color="#000000" face="Verdana" size="12"><b><u><br>
+Quando tratam de estados e qualidades, sentimentos e ações.</u></b></font></p>
+<p align="left">
+<b><u><font color="#000000" face="Verdana" size="12"><br>
+<li>vida (estado), beleza (qualidade), felicidade (sentimento), esforço (ação).</font></u></b></ul></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="6" >
+              <tipo>10</tipo>
+              <cabeceira>Responda</cabeceira>
+              <pregunta res="Os substantivos são palavras que usamos para nomear os seres e as coisas">O que é subtantivo?</pregunta>
+              <pregunta res="gatarrão">Cite um exemplo de substanativo no grau aumentativo masculino:</pregunta>
+              <pregunta res="escolas">Cite um exemplo de substantivo no plural:</pregunta>
+              <pregunta res="gato">Cite um exemplo de substantivo no grau normal:</pregunta>
+        </paxina>
+        <paxina id="7" >
+              <tipo>6</tipo>
+              <cabeceira>Classifique</cabeceira>
+              <nome caixa="1">concreto</nome>
+              <nome caixa="2">abstratos</nome>
+              <caixa1>Quando tratam de coisas reais, ou tidas como reais.</caixa1>
+              <caixa2>Quando tratam de estados e qualidades, sentimentos e ações.</caixa2>
+              <modo></modo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>7</tipo>
+              <cabeceira>Classifique as imagens</cabeceira>
+              <caixa1>Concretos</caixa1>
+              <caixa2>Abstratos</caixa2>
+              <mini caixa="1">lobisomem-festas-halloween-pintado-por-duduzinho-1023942.jpg</mini>
+              <mini caixa="1">seres-magicos-2.jpg</mini>
+              <mini caixa="1">homem-sorrindo_0.png</mini>
+              <mini caixa="2">felicidade.jpg</mini>
+              <mini caixa="2">Sem_t_itulo4.png</mini>
+              <mini caixa="2">PALAVRA-VIDA-M-39897.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <cabeceira>Classificação</cabeceira>
+              <texto posx="106" posy="-5" ancho="547" largo="300"><![CDATA[
+<p align="left">
+<font color="#FF0080" face="Verdana" size="12">                          Simples</font><font color="#000000" face="Verdana" size="12"><b><u><br>
+Quando formados por um só radical.<br>
+flor, tempo, chuva...</u></b></font><font color="#FF0080" face="Verdana" size="12"><br>
+<br>
+                         Compostos</font><font color="#000000" face="Verdana" size="12"><b><u><br>
+Quando possuem mais de um radical.<br>
+couve-flor, passatempo, guarda-chuva...</font></u></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="10" >
+              <tipo>10</tipo>
+              <cabeceira>Responda,qual é o substantivo das frases e a sua classificação?</cabeceira>
+              <pregunta res="flor e simples">A flor é rosa.</pregunta>
+              <pregunta res="guarda-chuva e composto">O guarda-chuva é necessário.</pregunta>
+              <pregunta res="chuva e simples">Hoje a chuva vai ser forte!</pregunta>
+        </paxina>
+        <paxina id="11" >
+              <tipo>47</tipo>
+              <cabeceira>Selecione corretamente as palavras de acordo com seu grupo</cabeceira>
+              <caixa1>Simples ,Composto,Concreto ,Abstrato</caixa1>
+              <nome caixa="2">Couve-flor</nome>
+              <nome caixa="1">Flor</nome>
+              <nome caixa="2">Passatempo</nome>
+              <nome caixa="1">Tempo</nome>
+              <nome caixa="3">Homem</nome>
+              <nome caixa="4">Vida</nome>
+        </paxina>
+        <paxina id="12" >
+              <tipo>13</tipo>
+              <cabeceira>Arraste as palavras</cabeceira>
+              <unir texto="Amor">Simples</unir>
+              <unir texto="micro-ondas">Composto</unir>
+              <unir texto="porta">Concretos</unir>
+              <unir texto="tristeza">Abstratos</unir>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <texto posx="59" posy="0" ancho="538" largo="350"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="12"><b>                                 </b></font><font color="#FF0080" face="Verdana" size="12"><b>    Primitivos</b></font><font color="#000000" face="Verdana" size="12"><b><u><br>
+Quando não derivam de outra palavra da língua portuguesa.<br>
+pedra, ferro, porta...</u><br>
+<br>
+                              </b></font><font color="#FF0080" face="Verdana" size="12"><b>        Derivados</b></font><font color="#000000" face="Verdana" size="12"><b><u><br>
+Quando derivam de outra palavra da língua portuguesa.<br>
+pedreira, pedreiro, ferreiro, portaria...</font></u></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="14" >
+              <tipo>18</tipo>
+              <cabeceira>Escreva a classificação das palavras encontradas nas frases</cabeceira>
+              <modo>2</modo>
+              <completa ant="Eu tropecei na pedra." post="">primitivo</completa>
+              <completa ant="A portaria não atende." post="">derivado</completa>
+              <completa ant="O tempo não está bom." post="">simples</completa>
+              <completa ant="Eu plantei couve-flor." post="">composto</completa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>4</tipo>
+              <cabeceira>Caça-Palavras</cabeceira>
+              <pe>Clique em cima da primeira letra e depois na última para marcar a palavra</pe>
+              <modo>1</modo>
+              <sopa enun="Pedra">PEDRA</sopa>
+              <sopa enun="Amor">AMOR</sopa>
+              <sopa enun="Pedreiro">PEDREIRO</sopa>
+              <sopa enun="Porta">PORTA</sopa>
+              <sopa enun="Passatempo">PASSATEMPO</sopa>
+              <sopa enun="Guarda-chuva">GUARDACHUVA</sopa>
+              <sopa enun="Couve-flor">COUVEFLOR</sopa>
+              <sopa enun="Tempo">TEMPO</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+              <fondo>ABCGYUÓKHLMGTASSGAMMGIPK</fondo>
+        </paxina>
+        <paxina id="16" >
+              <tipo>2</tipo>
+              <texto posx="81" posy="-3" ancho="552" largo="305"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="12"><b>                    </b></font><font color="#FF0080" face="Verdana" size="12"><b> Comuns</b><br>
+</font><font color="#000000" face="Verdana" size="12"><b><u>Quando se referem a seres da mesma espécie, sem especificá-los.</u></b><br>
+<b><u>país</u></b><br>
+<b><u>cidade</u></b><br>
+<b><u>pessoa</u></b><br>
+<b><u>mulher</u></b><br>
+<b><u>cachorro</u></b><br>
+<b><u>loja</u></b><br>
+<b><u>livro</u></b><br>
+<br>
+<b>                                </b></font><font color="#FF0080" face="Verdana" size="12"><b>    Próprios</b><br>
+</font><font color="#000000" face="Verdana" size="12"><b><u>Quando se referem a seres, pessoas, entidades determinados. São escritos sempre com inicial maiúscula.</u></b><br>
+<b><u>Brasil</u></b><br>
+<b><u>Santos</u></b><br>
+<b><u>João</u></b><br>
+<b><u>Deus</u></b><br>
+<b><u>Ana</u></b><br>
+<b><u>Rex</u></b><br>
+<b><u>Lisboa</u></b><br>
+<b><u>São Paulo</u></b><br>
+<b><u>Salvador</u></b><br>
+<b><u>Mateus</u></b><br>
+<b><u>Luis</u></b><br>
+<b><u>Talita</u></b><br>
+<b><u>Natanael</u></b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="17" >
+              <tipo>2</tipo>
+              <cabeceira>Observe as seguintes frases:</cabeceira>
+              <texto posx="68" posy="2" ancho="551" largo="303"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="12"><b><u>1.      O motorista do ônibus era Antônio.<br>
+2.      O Jornal do Brasil deu a notícia do assalto.      <br>
+3.      Os legumes caíram no chão.<br>
+4.      Benito, Iara e Marli já leram o texto em Recife.<br>
+5.      Era sempre festa quando o professor Celso chamava os sobrinhos e os netos para contar-lhes histórias.<br>
+6.      Cláudia, Helena, José e Joaquim atendiam ao avô, com muita alegria.<br>
+7.      Eles gostavam de ouvir as mesmas lendas: Saci Pererê, Negrinho do Pastoreio.<br>
+8.      As lendas de índios e as histórias fantásticas dos escravos trazidos da África eram as histórias preferidas.</font></u></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="18" >
+              <tipo>6</tipo>
+              <cabeceira>Classifique</cabeceira>
+              <nome caixa="1">Antonio</nome>
+              <nome caixa="2">Motorista</nome>
+              <nome caixa="1">Joaquim</nome>
+              <nome caixa="2">Escravos</nome>
+              <nome caixa="1">África</nome>
+              <nome caixa="2">Índios</nome>
+              <caixa1>Próprios</caixa1>
+              <caixa2>Comuns</caixa2>
+              <modo></modo>
+        </paxina>
+        <paxina id="19" >
+              <tipo>2</tipo>
+              <texto posx="69" posy="1" ancho="536" largo="309"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="12"><b>                     </b></font><font color="#FF0080" face="Verdana" size="12"><b>      Coletivos</b></font><font color="#000000" face="Verdana" size="12"><b><u><br>
+Quando se referem a um conjunto de seres da mesma espécie.<br>
+álbum (fotografias, selos), biblioteca (livros), código (leis)...<br>
+<br>
+Flexionam-se em gênero para indicar o sexo dos seres vivos. (quanto aos seres inanimados a classificação é convencional)</u></b>.<br>
+ </font><font color="#FF0080" face="Verdana" size="12"><b><br>
+                                     Masculino</b></font><font color="#000000" face="Verdana" size="12"><b><u><br>
+Quando podem ser precedidos dos artigos o ou os.</u><br>
+</b></font><font color="#FF0080" face="Verdana" size="12"><b><br>
+                                     Feminino</b></font><font color="#000000" face="Verdana" size="12"><b><u><br>
+Quando podem ser precedidos dos artigos a ou as.</u></b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="20" >
+              <tipo>37</tipo>
+              <cabeceira>Escreva na frente do número à qual classificação pertence as palavras</cabeceira>
+              <texto><![CDATA[1*Égua
+2*Compadre
+3*Feixe
+4*Israel
+5*Tempo
+6*Feliz
+]]></texto>
+              <completa>feminino</completa>
+              <completa>Masculino</completa>
+              <completa>Coletivo</completa>
+              <completa>Próprio</completa>
+              <completa>Simples</completa>
+              <completa>Abstrato</completa>
+        </paxina>
+        <paxina id="21" >
+              <tipo>46</tipo>
+              <cabeceira>Relacione as frases com base no que viram nas páginas anteriores.</cabeceira>
+              <etiqueta texto="Próprio"  posy="4">Dia internacional da mulher.</etiqueta>
+              <etiqueta texto="Concreto"  posy="2">Meu álbum sumiu hoje.</etiqueta>
+              <etiqueta texto="Primitivo"  posy="3">Você trancou a porta?</etiqueta>
+              <etiqueta texto="Feminino"  posy="5">Teria como ligar na portaria?</etiqueta>
+              <etiqueta texto="Derivado"  posy="1">Ana comeu minha maçã.</etiqueta>
+        </paxina>
+        <paxina id="22" >
+              <tipo>2</tipo>
+              <texto posx="53" posy="-5" ancho="553" largo="305"><![CDATA[
+<p align="center">
+<font color="#0000FF" face="Verdana" size="54"><b><u>Você concluiu sua tarefa!</u></b></font><font color="#000000" face="Verdana" size="12"><b><br>
+<br>
+<br>
+<br>
+A sabedoria oferece proteção,<br>
+como o faz o dinheiro,<br>
+mas a vantagem do conhecimento é esta:<br>
+a sabedoria preserva a vida<br>
+de quem a possui.</b></font></p>
+<p align="left">
+<font color="#0000FF" face="Verdana" size="12"><br>
+                          Eclesiastes 7:12</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="23" >
+              <tipo>2</tipo>
+              <cabeceira>FONTES</cabeceira>
+              <texto posx="120" posy="3" ancho="557" largo="353"><![CDATA[
+<p align="left">
+<font color="#FF00FF" face="Verdana" size="16"><b><u>ajudandoosalunosnaescola.blogspot<br>
+http://www.infoescola.com/portugues/substantivos<br>
+https://www.google.com.br           https://www.youtube.com/</font></u></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

@@ -29,12 +29,12 @@
         </paxina>
         <paxina id="2" >
               <tipo>50</tipo>
-              <cabeceira>IVAN CRUZ</cabeceira>
+              <cabeceira>CORONAVÍRUS</cabeceira>
               <peza imaxe="corona.jpg"  son="">CO_R_O_N_AV_Í_RUS</peza>
         </paxina>
         <paxina id="3" >
               <tipo>2</tipo>
-              <cabeceira>OBRAS DE IVAN CRUZ</cabeceira>
+              <cabeceira>MÁSCARA</cabeceira>
               <imaxe posx="61" posy="-13">mascara.png</imaxe>
               <texto posx="223" posy="264" ancho="200" largo="200"><![CDATA[
 <p align="left">
@@ -47,7 +47,7 @@
         </paxina>
         <paxina id="4" >
               <tipo>50</tipo>
-              <cabeceira>Escreva o nome da brincadeira</cabeceira>
+              <cabeceira>ESCREVA O NOME</cabeceira>
               <peza imaxe="mascara.png"  son="">M_Á_S_C_A_R_A</peza>
         </paxina>
         <paxina id="5" >

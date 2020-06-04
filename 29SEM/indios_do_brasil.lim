@@ -21,8 +21,7 @@
     <libro>
         <paxina id="1" >
               <tipo>2</tipo>
-              <cabeceira>EMEI/EMEF &quot;PROFª ANTÔNIA RIBEIRO DA SILVA&quot;</cabeceira>
-              <imaxe posx="63" posy="-15">CAPA.png</imaxe>
+              <imaxe posx="137" posy="44">INDIO.png</imaxe>
               <texto posx="30" posy="286" ancho="548" largo="174"><![CDATA[
 <p align="center">
 <font color="#080000" face="Arial" size="12"><b>AULA:</b> ÍNDIOS DO BRASIL<br>

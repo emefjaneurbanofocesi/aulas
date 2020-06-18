@@ -6,9 +6,9 @@
         <corfondo>ffffff</corfondo>
         <cormensaxes>000000</cormensaxes>
         <cortexto>000000</cortexto>
-        <informe>0</informe>
-        <botonson>0</botonson>
-        <maximizar>0</maximizar>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
         <desordenar>0</desordenar>
         <correcto son="" modo="1" >CORRECTO</correcto>
         <incorrecto son="" modo="1" >INCORRECTO</incorrecto>

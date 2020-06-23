@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <recursos>edilim</recursos>
+        <idioma>4</idioma>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FFFF00</corbanda>
+        <cornavega>0000FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>Matemática e Português</subtitulo>
+        <autor>Sueli Macedo do Prado</autor>
+        <iden>Jaqueline Bonifacio</iden>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns!</correcto>
+        <incorrecto son="" modo="1" >Não foi dessa vez!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="20"><b>EMEF PROF JORGE PASSOS<br>
+<br>
+PROFESSORA SUELI MACEDO DO PRADO<br>
+<br>
+5º ANO B</b></font><font color="#FFFF00" face="Verdana" size="20"><b><br>
+<br>
+MATEMÁTICA</b></font><font color="#0000FF" face="Verdana" size="20"><b> </b></font><font color="#000000" face="Verdana" size="20"><b>E</b></font><font color="#0000FF" face="Verdana" size="20"><b> </b></font><font color="#000080" face="Verdana" size="20"><b>PORTUGUÊS</b></font><font color="#000000" face="Verdana" size="20"><b><br>
+<br>
+PRODUÇÃO JAQUELINE BONIFACIO</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>1</tipo>
+              <imaxe>ABC.png</imaxe>
+              <texto>O GRÁFICO ABAIXO MOSTRA A QUANTIDADE DE PONTOS FEITOS PELOS TIMES A, B, C E D NO CAMPEONATO DE FUTEBOL DA ESCOLA. DE ACORDO COM O GRÁFICO QUANTOS PONTOS O TIME C CONQUISTOU?</texto>
+              <resp texto="" valor="0">50</resp>
+              <resp texto="" valor="1">40</resp>
+              <resp texto="" valor="0">35</resp>
+              <resp texto="" valor="0">30</resp>
+        </paxina>
+        <paxina id="3" >
+              <tipo>1</tipo>
+              <imaxe>fracao.png</imaxe>
+              <texto>Um dia tem 24 horas, 1 hora tem 60 minutos e 1 minutos tem 60 segundos. Qual fração da hora corresponde a 35 minutos a que se encontra no círculo?</texto>
+              <resp texto="" valor="1">azul</resp>
+              <resp texto="" valor="0">vermelho</resp>
+              <resp texto="" valor="0">preto</resp>
+              <resp texto="" valor="0">verde</resp>
+        </paxina>
+        <paxina id="4" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto>Um garoto completou 1.960 bolinhas de gude em sua coleção. Esse número é composto por</texto>
+              <resp texto="" valor="0">1 unidade de milhar, 9 dezenas e 6 unidades.</resp>
+              <resp texto="" valor="1">1 unidade de milhar, 9 centenas e 6 dezenas.</resp>
+              <resp texto="" valor="0">1 unidade de milhar, 60 unidades.</resp>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <imaxe>bumbo.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="18">Observe o bumbo que Beto gosta de tocar. Ele tem a forma de um cilindro.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>1</tipo>
+              <imaxe>ABCDS.png</imaxe>
+              <texto>Qual é o molde do cilindro?</texto>
+              <resp texto="" valor="0">A</resp>
+              <resp texto="" valor="0">B</resp>
+              <resp texto="" valor="1">C</resp>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto>Gilda comprou copos descartáveis de 200 mililitros, para servir refrigerantes, em sua festa de aniversário. Quantos copos ela encherá com 1 litro de refrigerantes?</texto>
+              <resp texto="" valor="0">3</resp>
+              <resp texto="" valor="1">5</resp>
+              <resp texto="" valor="0">7</resp>
+              <resp texto="" valor="0">9</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto>Num pacote de balas contendo 10 unidades, o peso liquido é de 49 gramas. Em 5 pacotes teremos quantos gramas?</texto>
+              <resp texto="" valor="0">59</resp>
+              <resp texto="" valor="0">64</resp>
+              <resp texto="" valor="1">245</resp>
+              <resp texto="" valor="0">295</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>1</tipo>
+              <imaxe>museuteatro.png</imaxe>
+              <texto>Chegando a uma cidade, Fabiano visitou a igreja local. De lá, ele se dirigiu à pracinha, visitando em seguida o museu e o teatro, retornando finalmente para a igreja. Ao fazer o mapa do seu percurso, Fabiano descobriu que formava um quadrilátero com dois lados paralelos e quatro ângulos diferentes.
+O quadrilátero que representa o percurso de Fabiano é um</texto>
+              <resp texto="" valor="0">quadrado</resp>
+              <resp texto="" valor="0">Losango</resp>
+              <resp texto="" valor="1">trapézio</resp>
+              <resp texto="" valor="0">retângulo</resp>
+        </paxina>
+        <paxina id="10" >
+              <tipo>1</tipo>
+              <imaxe>canca.png</imaxe>
+              <texto>Todos os objetos estão cheios de água.
+
+Qual deles pode conter exatamente 1 litro de água?</texto>
+              <resp texto="" valor="0">A caneca</resp>
+              <resp texto="" valor="1">A jarra</resp>
+              <resp texto="" valor="0">O garrafão</resp>
+              <resp texto="" valor="0">O tambor</resp>
+        </paxina>
+        <paxina id="11" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto>Vera comprou para sua filha uma mochila de 23,90 e uma lancheira de 8,90. Quanto ela gastou?</texto>
+              <resp texto="" valor="0">R$ 22,80</resp>
+              <resp texto="" valor="1">R$ 31,80</resp>
+              <resp texto="" valor="0">R$ 32,80</resp>
+              <resp texto="" valor="0">R$ 33,80</resp>
+        </paxina>
+        <paxina id="12" >
+              <tipo>1</tipo>
+              <imaxe>ladossss.png</imaxe>
+              <texto>Mariana colou diferentes figuras numa página de seu caderno de Matemática, como mostra o desenho abaixo.
+Essas figuras têm em comum</texto>
+              <resp texto="" valor="0">o mesmo tamanho</resp>
+              <resp texto="" valor="1">o mesmo número de lados</resp>
+              <resp texto="" valor="0">a forma de quadrado</resp>
+              <resp texto="" valor="0">a forma de retângulo</resp>
+        </paxina>
+        <paxina id="13" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto>Uma bióloga que estuda as características gerais dos seres vivos passou um período observando baleias em alto-mar: de 5 de julho a 5 de dezembro. Baseando-se na sequência dos meses do ano, quantos meses a bióloga ficou em alto-mar estudando o comportamento das baleias?</texto>
+              <resp texto="" valor="0">2 meses</resp>
+              <resp texto="" valor="0">3 meses</resp>
+              <resp texto="" valor="1">5 meses</resp>
+              <resp texto="" valor="0">6 meses</resp>
+        </paxina>
+        <paxina id="14" >
+              <tipo>1</tipo>
+              <imaxe>parafuso.png</imaxe>
+              <texto>Vamos medir o parafuso?
+
+O parafuso mede?</texto>
+              <resp texto="" valor="0">2,1 cm.</resp>
+              <resp texto="" valor="0">2,2 cm.</resp>
+              <resp texto="" valor="0">2,3 cm.</resp>
+              <resp texto="" valor="1">2,5 cm.</resp>
+        </paxina>
+        <paxina id="15" >
+              <tipo>1</tipo>
+              <imaxe>DMUMCCC.png</imaxe>
+              <texto>No ábaco abaixo, Cristina representou um número
+
+Qual foi o número representado por Cristina?</texto>
+              <resp texto="" valor="0">1.314</resp>
+              <resp texto="" valor="0">4.131</resp>
+              <resp texto="" valor="1">10.314</resp>
+              <resp texto="" valor="0">41.301</resp>
+        </paxina>
+        <paxina id="16" >
+              <tipo>1</tipo>
+              <imaxe>ABCDEFD.png</imaxe>
+              <texto>Uma professora da 4º série pediu que uma aluna marcasse numa linha do tempo o ano de 1940.
+Que ponto a aluna deve marcar para acertar a tarefa pedida?</texto>
+              <resp texto="" valor="1">A</resp>
+              <resp texto="" valor="0">B</resp>
+              <resp texto="" valor="0">C</resp>
+              <resp texto="" valor="0">D</resp>
+        </paxina>
+        <paxina id="17" >
+              <tipo>1</tipo>
+              <imaxe>1234555.png</imaxe>
+              <texto>Ricardo anda de bicicleta na praça perto de sua casa, representada pela figura abaixo.
+Se ele der a volta completa na praça, andará</texto>
+              <resp texto="" valor="1">160 m.</resp>
+              <resp texto="" valor="0">100 m.</resp>
+              <resp texto="" valor="0">80 m.</resp>
+              <resp texto="" valor="0">60 m.</resp>
+        </paxina>
+        <paxina id="18" >
+              <tipo>38</tipo>
+              <imaxe>FELIZZZ.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#000080" face="Verdana" size="32"><b>PORTUGUÊS</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="19" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="14"><b>Por que temos febre?</b></font><font color="#000000" face="Verdana" size="12"><br>
+<br>
+Temperatura alta é sinal de que seu organismo está sendo atacado por micróbios<br>
+        Você acorda e parece que o dia será como outro qualquer. Pula da cama, mas um cansaço logo toma conta do seu corpo. Então, você volta para o quarto e se esconde debaixo do cobertor. Sente frio e, em seguida, começa a suar. O coração às vezes acelera, a respiração fica ofegante e suas bochechas ficam vermelhas como um tomate. É ela, a febre, que veio te pegar!<br>
+            Calma! A febre não é um monstro. É apenas um sinal de que seu organismo está sendo atacado por microorganismos nocivos à saúde. Só fique atento para não confundir febre com situações que levem ao aumento de temperatura corporal, como se agasalhar e se exercitar muito. Em geral, a febre vem acompanhada de algum outro sintoma, que pode ser dor de garganta, dor de ouvido, manchas pelo corpo, diarréia, vômito etc. Nestes  casos, pode apostar que alguma doença está para chegar.<br>
+           </font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="20" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="14"> Na verdade, a febre é resultado da ação de uma substância chamada prostaglandina. O nome é difícil de pronunciar, mas sua função é relativamente simples: levar ao cérebro a mensagem de que é necessário aumentar a temperatura do corpo para sinalizar que há um micróbio invasor em atividade. Alertas ligados! Nosso sistema imunológico, ou melhor, de defesa, se prepara para combater sozinho e precisa da ajuda de medicamentos para reagir melhor. É por isso que, quando não melhoramos da febre vamos ao médico para nos consultar e tomar o remédio certo.<br>
+(YAMAMOTO, Renato Minoru, Por que temos febre? Ciência Hoje das Crianças, São Paulo, n 143, 2004)</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="21" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto>A febre é</texto>
+              <resp texto="" valor="1">um sinal de que o organismo está sendo atacado.</resp>
+              <resp texto="" valor="0">uma doença causada por microorganismos.</resp>
+              <resp texto="" valor="0">um efeito de situações como se agasalhar ou se exercitar muito.</resp>
+              <resp texto="" valor="0">um fenômeno sem importância, que não merece atenção.</resp>
+        </paxina>
+        <paxina id="22" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto>O trecho “ o nome é difícil de pronunciar, mas a sua função é relativamente simples” se refere à</texto>
+              <resp texto="" valor="0">temperatura do corpo.</resp>
+              <resp texto="" valor="1">prostaglandina.</resp>
+              <resp texto="" valor="0">febre.</resp>
+              <resp texto="" valor="0">doença.</resp>
+        </paxina>
+        <paxina id="23" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto>Quando diz que “ a febre não é um monstro” o autor quer dizer que a febre
+</texto>
+              <resp texto="" valor="0">é uma doença perigosa.</resp>
+              <resp texto="" valor="1">não deve nos assustar demais.</resp>
+              <resp texto="" valor="0">não é causada por monstros.</resp>
+              <resp texto="" valor="0">é um sinal de que nosso corpo está saudável.</resp>
+        </paxina>
+        <paxina id="24" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto> Esse texto apresenta informações</texto>
+              <resp texto="" valor="1">explicando as reações do organismo quando se tem febre.</resp>
+              <resp texto="" valor="0">descrevendo os sintomas de uma doença muito grave.</resp>
+              <resp texto="" valor="0">listando as doenças que os monstros apresentam.</resp>
+              <resp texto="" valor="0">informando que os esportes podem causar febre.</resp>
+        </paxina>
+        <paxina id="25" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="16"><b>Podia ser pior</b></font><font color="#000000" face="Verdana" size="12"><br>
+</font><font color="#000000" face="Verdana" size="14"><br>
+Isaac, um judeu pobre, foi pedir um conselho a um rabino.<br>
+___ Rabino, diga-me o que fazer __ exclamou. _ Sou um homem pobre. Tão pobre que minha mulher, meus seis filhos, meus sogros e eu temos que viver todos juntos. Estamos tão cheios uns dos outros que brigamos o tempo inteiro. É um inferno ter que viver com tanta gente num barraco de um cômodo. Não aguento mais. Eu preferia me enforcar a voltar para casa.<br>
+O rabino pensou no problema por alguns instantes.<br>
+__ Meu filho _ disse ele então _ , se você fizer o que vou lhe dizer, garanto que sua condição vai melhorar.<br>
+__ Faço o que o senhor disser, se for para acabar com essa loucura _ prometeu Isaac.<br>
+__ Quantos animais você tem? _ perguntou o sábio rabino.<br>
+__ Uma cabra, uma vaca e algumas galinhas.<br>
+__ Vá para casa e ponha todos os animais para dentro, para que vivam com você.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="26" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="14">Isaac ficou horrorizado com a ideia, mas ele queria manter sua promessa. Então voltou para casa e seguiu o conselho do rabino.<br>
+Dois dias depois Isaac voltou ao rabino.<br>
+__ Rabino _ exclamou ele _ Eu fiz como o senhor mandou: pus todos os animais dentro de casa. Agora me arrependo de ter prometido lhe obedecer, pois as coisas ainda estão piores. Não agüento nem mais um dia dessa loucura. Por favor, me ajude!<br>
+__ Bem, filho _ respondeu o rabino _, então vá para casa e ponha as galinhas para fora. Que Deus o ajude.<br>
+Assim, o pobre Isaac voltou para casa e enxotou as galinhas. Dois dias depois ele voltou ao rabino.<br>
+__ Rabino, _ exclamou _ , não aguento mais. A cabra está destruindo tudo dentro de casa. Quero que ela saia!<br>
+__ Então vá para casa e ponha a cabra para fora _ disse o rabino. __ Que Deus o ajude.<br>
+Isaac voltou para casa e enxotou a cabra. Dois dias depois ele voltou ao rabino.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="27" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="14">__ Rabino _ suplicou _ , não aguento mais. A vaca está fazendo uma bagunça na minha casa. Ela precisa sair.<br>
+Mais uma vez Isaac foi para casa e pôs a vaca para fora.<br>
+Muito tempo se passou. Então, um dia Isaac voltou ao rabino, radiante de felicidade.<br>
+__ Obrigado, rabino _ ele sorriu. __ O senhor mudou a minha vida! Desde que pus os animais para fora, minha casa tornou-se limpa e tranquila. Estamos todos muito felizes agora. Deus realmente nos abençoou.<br>
+<br>
+FÁBULAS do mundo todo: Esopo, Leonardo da Vinci, Andersen, Tolstoi e muitos outros...</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="28" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto>Isaac vive com a família em</texto>
+              <resp texto="" valor="0">Uma casa elegante</resp>
+              <resp texto="" valor="0">Uma cabana de madeira.</resp>
+              <resp texto="" valor="1">Um barraco de um cômodo.</resp>
+              <resp texto="" valor="0">Um pequeno apartamento.</resp>
+        </paxina>
+        <paxina id="29" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto>Isaac estava desesperado por</texto>
+              <resp texto="" valor="1">Morava com sua família num barraco e brigavam o tempo todo</resp>
+              <resp texto="" valor="0">Queria pedir conselhos ao rabino sobre como educar bem os filhos.</resp>
+              <resp texto="" valor="0">Estava cheio de sua família e preferia viver com os animais.</resp>
+              <resp texto="" valor="0">Queria muito aprender com a sabedoria do rabino.</resp>
+        </paxina>
+        <paxina id="30" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto>Quando Isaac diz “ Preferia me enforcar a voltar para casa” podemos entender que ele</texto>
+              <resp texto="" valor="0">Está mentindo para o rabino.</resp>
+              <resp texto="" valor="0">Está planejando fugir de casa.</resp>
+              <resp texto="" valor="1">Está muito infeliz com a sua situação.</resp>
+              <resp texto="" valor="0">Pretende de fato se matar.</resp>
+        </paxina>
+        <paxina id="31" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto>Isaac vai procurar o rabino porque</texto>
+              <resp texto="" valor="0">é um homem muito religioso</resp>
+              <resp texto="" valor="1">sua família briga muito</resp>
+              <resp texto="" valor="0">quer vender seus animais</resp>
+              <resp texto="" valor="0">está irritado com ele  muito</resp>
+        </paxina>
+        <paxina id="32" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto> Isaac fica feliz no final da história porque</texto>
+              <resp texto="" valor="0">vendeu os animais e conseguiu comprar uma casa maior</resp>
+              <resp texto="" valor="0">o rabino fez um milagre e tornou a sua casa mais bonita do que era.</resp>
+              <resp texto="" valor="0">Seus parentes se mudaram e agora ele vive sozinho com a mulher.</resp>
+              <resp texto="" valor="1">Sem os animais, sua casa pareceu-lhe muito mais espaçosa do que era.</resp>
+        </paxina>
+        <paxina id="33" >
+              <tipo>1</tipo>
+              <imaxe>pergunta.jpg</imaxe>
+              <texto> O título do texto sugere que a principal questão que a história discute é</texto>
+              <resp texto="" valor="1">piorar as coisas o máximo possível pode fazer com que elas pareçam melhores</resp>
+              <resp texto="" valor="0">devemos mudar, mesmo que seja para pior.</resp>
+              <resp texto="" valor="0">Devemos sempre deixar de escutar as reclamações da família.</resp>
+              <resp texto="" valor="0">Devemos desconfiar dos conselhos dos outros</resp>
+        </paxina>
+        <paxina id="34" >
+              <tipo>38</tipo>
+              <imaxe>FELIZZZ.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000080" face="Verdana" size="18"><b>PARABÉNS VOCÊ CONCLUIU A ATIVIDADE!!!</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="35" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="24">Português - SARESP 2005;<br>
+Matemática - PROVA BRASIL;<br>
+Imagens - GOOGLE.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+    </libro>
+</lim>

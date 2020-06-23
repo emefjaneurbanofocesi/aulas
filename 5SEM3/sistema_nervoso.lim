@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>800000</corbanda>
+        <cornavega>800000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>Sistema Nervoso</subtitulo>
+        <logo>logoeducadigital.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns!</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="49" posy="-16">6.jpg</imaxe>
+              <texto posx="4" posy="243" ancho="591" largo="168"><![CDATA[
+<p align="center">
+<font color="#000000" face="Batang" size="20"><b>Emei Profº João Baptista Gardelin.</b><br>
+<b>Aula:<u>Sistema Nervoso</u>.</b><br>
+<b>5ª Ano</b><br>
+<b>Elaboração: Educ@ Digital</b><br>
+<b>Produção:Amanda Letícia</b><br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="52" posy="-24">images.jpg</imaxe>
+              <texto posx="6" posy="211" ancho="598" largo="185"><![CDATA[
+<p align="left">
+<font color="#800000" face="Verdana" size="20"><b><i>Sistema Nervoso</i></b><br>
+</font><font color="#000000" face="Verdana" size="18"><b><i>O </i></b></font><font color="#800000" face="Verdana" size="18"><b><i>sistema nervoso</i></b></font><font color="#000000" face="Verdana" size="18"><b><i> é responsável pela maioria das funções de controle em um organismo, coordenando e regulando as atividades corporais.</i></b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="83" posy="147">w4.jpg</imaxe>
+              <texto posx="2" posy="-4" ancho="587" largo="320"><![CDATA[
+<p align="left">
+<font color="#800000" face="Verdana" size="18"><b><i>Neurônio:</i></b><br>
+</font><font color="#000000" face="Verdana" size="18"><b><i>O neurônio é a unidade funcional do sistema nervoso. Os neurônios comunicam-se através de sinapses; por eles propagam-se os impulsos nervosos. Anatomicamente o neurônio é formado por: dendrito, corpo celular e axônio. </i></b><br>
+<b><i>A transmissão ocorre apenas no sentido do dendrito ao axônio.</i></b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="83" posy="69">neu.jpg</imaxe>
+              <texto posx="0" posy="2" ancho="575" largo="63"><![CDATA[
+<p align="left">
+<font color="#800000" face="Verdana" size="18"><b><i>Observe a imagem:</i></b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <texto posx="2" posy="-1" ancho="587" largo="296"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="20"><b><i>Principais componentes do Sistema Nervoso Central:</i></b><br>
+</font></p>
+<p align="left">
+<font color="#800000" face="Verdana" size="20"><b><i><li>Medula espinhal</i></b></font><font color="#000000" face="Verdana" size="20"><b><i>:A medula espinhal é o centro dos arcos reflexos.</i></b></font><font color="#004000" face="Verdana" size="20"><b><i>     </i></b></font><font color="#000000" face="Verdana" size="20"><b><i>                                                             </i></b></li>
+<br>
+<li></font><font color="#800000" face="Verdana" size="20"><b><i>Cérebro</i></b></font><font color="#004000" face="Verdana" size="20"><b><i>: </i></b></font><font color="#000000" face="Verdana" size="20"><b><i>O cérebro está relacionado com a maioria das funções do organismo </i></b></li>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <texto posx="0" posy="-2" ancho="612" largo="367"><![CDATA[
+<p align="left">
+<font color="#800000" face="Verdana" size="20"><b>Cerebelo:</b></font><font color="#000000" face="Verdana" size="20"><b><br>
+O cerebelo é responsável pelo controle </b><u>motor</u><b>. A organização básica do cerebelo é praticamente a mesma em todos os vertebrados, diferindo apenas no número de células e grau de enrugamento.</b></font><font color="#800000" face="Verdana" size="20"><b><br>
+Bulbo ou medula oblonga:</b></font><font color="#000000" face="Verdana" size="20"><b><br>
+O bulbo tem a função relacionada com a </b><i><u>respiração</u> </i><b>e é considerado um centro vital.</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <texto posx="0" posy="-38" ancho="594" largo="375"><![CDATA[
+<p align="left">
+<font color="#800000" face="Verdana" size="18"><b><u>Principais divisões do Sistema Nervoso </u></b><br>
+<br>
+<b>Periférico:</b><br>
+<b>Sistema Nervoso Voluntário:</b><br>
+</font><font color="#000000" face="Verdana" size="18"><b>Está relacionado com os movimentos voluntários. Os neurônios levam a informação do SNC aos músculos esqueléticos, inervando-os diretamente.</b><br>
+<br>
+</font><font color="#800000" face="Verdana" size="18"><b>Sistema Nervoso Autônomo:</b><br>
+</font><font color="#000000" face="Verdana" size="18"><b>Está relacionado com os movimentos involuntários dos músculos como não-estriado e estriado cardíaco, sistema endócrino e respiratório.</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="156" posy="18">P.gif</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="93" posy="75">ce.gif</imaxe>
+              <texto posx="1" posy="2" ancho="591" largo="224"><![CDATA[
+<p align="left">
+<font color="#800000" face="Verdana" size="18"><b>Formacão do sistema nervoso:</b><br>
+</font><font color="#000000" face="Verdana" size="20"><b>O sistema nervoso é formado pela medula espinal pelos nervos e pelo encéfalo.</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="479" posy="79">SNC.png</imaxe>
+              <texto posx="2" posy="-1" ancho="484" largo="330"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="20"><b>A </b></font><font color="#800000" face="Verdana" size="20"><b>medula espinal</b></font><font color="#000000" face="Verdana" size="20"><b> fica na coluna vertebral,e conduz  informações até o encéfalo.</b><br>
+<b>Os </b></font><font color="#800000" face="Verdana" size="20"><b>nervos</b></font><font color="#000000" face="Verdana" size="20"><b> são fibras,e  transmite informação pelo sistema nervoso.</b><br>
+<b>O </b></font><font color="#800000" face="Verdana" size="20"><b>encéfalo</b></font><font color="#000000" face="Verdana" size="20"><b> é o principal centro de controle do que acontece no corpo.</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="11" >
+              <tipo>19</tipo>
+              <pe>Consulte a página 10!</pe>
+              <imaxe>ce.gif</imaxe>
+              <texto><![CDATA[É uns dos formadores do sistema nervoso: DICA*
+Fica na coluna vertebral,e conduz  informações até o encéfalo.]]></texto>
+              <resp texto="mefdruliaehsplinçazlhkhupçrt">medula espinhal</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>13</tipo>
+              <cabeceira>O sistema nervoso é responsável por movimentos voluntários e involuntários,relacione.</cabeceira>
+              <pe>Consulte a página 7!</pe>
+              <unir texto="Sistema  Periférico">Voluntários</unir>
+              <unir texto="Sistema Autônomo">Involuntários</unir>
+        </paxina>
+        <paxina id="13" >
+              <tipo>13</tipo>
+              <pe>Consulte a página 10!</pe>
+              <unir texto="nervos">Transmite informações</unir>
+              <unir texto="encéfalo">Controla o corpo</unir>
+        </paxina>
+        <paxina id="14" >
+              <tipo>10</tipo>
+              <pe>Consulte a página 6!</pe>
+              <imaxe>BULBO.jpg</imaxe>
+              <pregunta res="respiração">O bulbo tem a função relacionada com:</pregunta>
+              <pregunta res="motor">O cerebelo é responsável pelo controle:</pregunta>
+        </paxina>
+        <paxina id="15" >
+              <tipo>34</tipo>
+              <cabeceira>O sistema nervoso é responsavel pela coordenação do:</cabeceira>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>Corpo</completa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>1</tipo>
+              <imaxe>neu.jpg</imaxe>
+              <texto>Escolha apenas as opções que representam a estrutura do neuronio:</texto>
+              <resp texto="" valor="1">Dendritos</resp>
+              <resp texto="" valor="1">Terminais</resp>
+              <resp texto="" valor="0">Medula</resp>
+              <resp texto="" valor="0">Encefalo</resp>
+        </paxina>
+        <paxina id="17" >
+              <tipo>3</tipo>
+              <cabeceira>Monte o quebra cabeça!</cabeceira>
+              <imaxe>e.jpg</imaxe>
+              <imfondo  trans="15">e.jpg</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>3</tipo>
+              <imaxe>o.jpg</imaxe>
+              <imfondo  trans="20">o.jpg</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="medula">medula</sopa>
+              <sopa enun="corpo">corpo</sopa>
+              <sopa enun="nervos">nervos</sopa>
+              <sopa enun="encéfalo">encéfalo</sopa>
+              <sopa enun="Bulbo ">Bulbo</sopa>
+              <sopa enun="neurônio">neurônio</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="20" >
+              <tipo>17</tipo>
+              <cabeceira>Jogo da memória</cabeceira>
+              <parellas>0.jpg</parellas>
+              <parellas>e.jpg</parellas>
+              <parellas>BULBO.jpg</parellas>
+              <parellas>u.jpg</parellas>
+              <parellas>p.jpg</parellas>
+              <parellas>o.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="21" >
+              <tipo>2</tipo>
+              <imaxe posx="331" posy="70">homer.png</imaxe>
+              <texto posx="0" posy="1" ancho="604" largo="101"><![CDATA[
+<p align="left">
+<font color="#FF0000" face="Verdana" size="24">Parabéns!<br>
+Concluiu a tarefa com sucesso!</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

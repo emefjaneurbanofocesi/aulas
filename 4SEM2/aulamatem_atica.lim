@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <recursos>matematica</recursos>
+        <idioma>0</idioma>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Exercicícios de Matemática</titulo>
+        <subtitulo>Secretaria Municipal de Educação</subtitulo>
+        <autor>Alaide</autor>
+        <iden>Yasmin Vieira</iden>
+        <imaxefondo posx="-780" posy="-14" trans="100">67623_Papel-de-Parede-Ferramentas-da-Matematica_1920x1200.jpg</imaxefondo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns !!</correcto>
+        <incorrecto son="" modo="1" >Tente Novamente</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="0" posy="-2" ancho="602" largo="359"><![CDATA[
+<p align="left">
+<font color="#000000" face="Comic" size="32"><b>Exercicícios de Matemática - 4° Ano<br>
+<br>
+EMEF Prof° Geraldo de Lima  <br>
+Elaboração:Profª Alaide <br>
+Produção: Yasmin Vieira</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>29</tipo>
+              <cabeceira>Introdução</cabeceira>
+              <texto><![CDATA[Para ler alguma coisa escrita em uma língua, a gente tem que saber falar essa tal língua, né? 
+Mas você já reparou que uma coisa escrita em japonês parece muito mais difícil de entender do que uma outra escrita em inglês, ou francês? É que, no Japão, as pessoas não só falam uma língua diferente da nossa, como também usam um outro alfabeto! 
+
+- Tudo bem mas...o que isso tem a ver com matemática?
+Bom, o "alfabeto" da matemática são os números, certo? E, assim como existem vários tipos de alfabetos, também existem vários sistemas de numeração !
+]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>0</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <texto posx="0" posy="0" ancho="608" largo="351"><![CDATA[
+<p align="center">
+<font color="#000000" face="Comic Sans MS" size="32"><b>A seguir iremos fazer alguns exercícios<br>
+para treinar suas habilidades <br>
+com as operações matemáticas<br>
+e com as diversas unidades de medida.</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <texto posx="2" posy="1" ancho="594" largo="340"><![CDATA[
+<p align="center">
+<font color="#000000" face="Comic Sans MS" size="32"><b>Prontos  ??<br>
+Então vamos para os Exercícios !!</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <cabeceira>Situação 1</cabeceira>
+              <texto>Para uma temporada curta, chegou a cidade o circo Fantasia, com palhaços, mágicos e acrobatas. O circo abrirá suas portas ao público as 9 horas e ficará aberto durante 9 horas e meia. A que horas o circo fechará ?</texto>
+              <resp texto="" valor="0">16h30</resp>
+              <resp texto="" valor="0">17h30</resp>
+              <resp texto="" valor="0">17h45</resp>
+              <resp texto="" valor="1">18h30</resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>1</tipo>
+              <cabeceira>Situação 2</cabeceira>
+              <texto>A professora de João pediu para ele decompor um número e ele fez da seguinte forma: 4 x 1000 + 3 x 10 + 5 x 1.
+Qual numero foi pedido ?</texto>
+              <resp texto="" valor="1">4035</resp>
+              <resp texto="" valor="0">4305</resp>
+              <resp texto="" valor="0">5034</resp>
+              <resp texto="" valor="0">5304</resp>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+              <cabeceira>Situação 3</cabeceira>
+              <texto>Num pacote de balas contendo 10 unidades, o peso líquido é de 49 gramas. Em 5 pacotes teremos quantas gramas ?</texto>
+              <resp texto="" valor="0">59</resp>
+              <resp texto="" valor="0">64</resp>
+              <resp texto="" valor="1">245</resp>
+              <resp texto="" valor="0">295</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <cabeceira>Situação 4</cabeceira>
+              <texto>Um fazendeiro tinha 285 bois. Comprou mais 176 bois e depois vendeu 85 deles. Quantos bois esse fazendeiro tem agora ?</texto>
+              <resp texto="" valor="0">266</resp>
+              <resp texto="" valor="1">376</resp>
+              <resp texto="" valor="0">476</resp>
+              <resp texto="" valor="0">486</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>1</tipo>
+              <cabeceira>Situação 5</cabeceira>
+              <texto>Uma bióloga que estuda as caracteristicas gerais dos seres vivos, passou um periodo observando baleias em alto mar: de 5 de Julho a 5 de Dezembro. Baseando-se nas sequência dos meses do ano, quantos meses a bióloga ficou em alto mar estudando o comportamento das baleias ?</texto>
+              <resp texto="" valor="0">2 meses</resp>
+              <resp texto="" valor="0">3 meses</resp>
+              <resp texto="" valor="1">5 meses</resp>
+              <resp texto="" valor="0">6 meses</resp>
+        </paxina>
+        <paxina id="10" >
+              <tipo>26</tipo>
+              <cabeceira>Resolva a multiplicação !</cabeceira>
+              <modo>0</modo>
+              <forma>x</forma>
+              <numero>6</numero>
+              <numero>7</numero>
+        </paxina>
+        <paxina id="11" >
+              <tipo>26</tipo>
+              <cabeceira>Resolva a Divisão !</cabeceira>
+              <modo>0</modo>
+              <forma>/</forma>
+              <numero>64</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="12" >
+              <tipo>26</tipo>
+              <cabeceira>Resolva a Adição !</cabeceira>
+              <modo>0</modo>
+              <forma>+</forma>
+              <numero>7</numero>
+              <numero>5</numero>
+              <numero>20</numero>
+              <numero>10</numero>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <imaxe posx="37" posy="74">download.png</imaxe>
+              <texto posx="210" posy="16" ancho="379" largo="314"><![CDATA[
+<p align="center">
+<font color="#000000" face="Comic" size="46"><b>PARABÉNS !!</b></font><font color="#000000" face="Comic" size="32"><b><br>
+<br>
+Você concluiu toda  a atividade !</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

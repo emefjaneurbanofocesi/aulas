@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>004000</corbanda>
+        <cornavega>004000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>Regionalização do Brasil</subtitulo>
+        <autor>Patrícia Araujo</autor>
+        <iden>Amanda Letícia</iden>
+        <logo>logoeducadigital.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="17" posy="-26">br.jpg</imaxe>
+              <texto posx="31" posy="181" ancho="529" largo="150"><![CDATA[
+<p align="left">
+<font color="#008000" face="Verdana" size="32"><i>Regionalização do Brasil</i></font><font color="#008000" face="Verdana" size="28"><i>.</i><br>
+<br>
+</font><font color="#008000" face="Verdana" size="20"><i>Escola:João Baptista Gardelin.</i><br>
+<i>Produção:Amanda Letícia.</i><br>
+<i>Professora:Patricia Araujo de Souza.</i><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="408" posy="-38">mapa1.jpg</imaxe>
+              <texto posx="0" posy="14" ancho="457" largo="333"><![CDATA[
+<p align="center">
+<font color="#004000" face="Verdana" size="28">A regionalização do Brasil<br>
+<br>
+</font><font color="#000000" face="Verdana" size="24">O Brasil é dividido em Estados e Regiões. <br>
+A regionalização, proposta em 1969, foi elaborada pelo IBGE.<br>
+(Instituto Brasileiro de Geografia e Estatística).<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="589" posy="63">45.png</imaxe>
+              <texto posx="2" posy="3" ancho="569" largo="334"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="24">O Brasil é um país com enorme extensão territorial e proporções continentais.  <br>
+Para facilitar sua administração e organização política, houve uma divisão de governos, sendo eles: federal, estadual e municipal. <br>
+Assim surgiram os Estados e os municípios.<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="227" posy="-41">mapa.jpg</imaxe>
+              <texto posx="0" posy="100" ancho="287" largo="345"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="24">O mapa apresentado representa as regioes do Brasil.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="293" posy="-54">regioes2.png</imaxe>
+              <texto posx="0" posy="-49" ancho="295" largo="297"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="24"><br>
+<br>
+<br>
+Dentro das regiões estão localizados os estados.<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="275" posy="-46">estadosl.png</imaxe>
+              <texto posx="0" posy="101" ancho="364" largo="256"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="24">Dentro dos Estados estão os municípios.<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <pe>Azul estado\vermelho região</pe>
+              <imaxe posx="421" posy="-19">67.gif</imaxe>
+              <texto posx="11" posy="-29" ancho="404" largo="344"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="32"> </font><font color="#000000" face="Verdana" size="24">- Os estados que compõem o </font><font color="#FF0000" face="Verdana" size="24">Centro-Oeste</font><font color="#000000" face="Verdana" size="24"> são: <br>
+</font><font color="#000080" face="Verdana" size="24">Goiás</font><font color="#000000" face="Verdana" size="24">, </font><font color="#000080" face="Verdana" size="24">Mato Grosso</font><font color="#000000" face="Verdana" size="24">, </font><font color="#000080" face="Verdana" size="24">Mato Grosso do Sul </font><font color="#000000" face="Verdana" size="24">e o </font><font color="#000080" face="Verdana" size="24">Distrito Federal</font><font color="#000000" face="Verdana" size="24">.<br>
+A </font><font color="#FF0000" face="Verdana" size="24">região Norte</font><font color="#000000" face="Verdana" size="24"> abriga os seguintes estados: </font><font color="#000080" face="Verdana" size="24">Acre, Amazonas, Amapá, Pará, Rondônia, Roraima</font><font color="#000000" face="Verdana" size="24"> e </font><font color="#000080" face="Verdana" size="24">Tocantins</font><font color="#000000" face="Verdana" size="24">.<br>
+O </font><font color="#FF0000" face="Verdana" size="24">Nordeste</font><font color="#000000" face="Verdana" size="24"> abrange </font><font color="#000080" face="Verdana" size="24">Alagoas, Bahia, Ceará, Maranhão, Piauí,</font><font color="#000000" face="Verdana" size="24"> </font><font color="#000080" face="Verdana" size="24">Pernambuco, Paraíba, Rio Grande do Norte</font><font color="#000000" face="Verdana" size="24"> e </font><font color="#000080" face="Verdana" size="24">Sergipe</font><font color="#000000" face="Verdana" size="24">.<br>
+O </font><font color="#FF0000" face="Verdana" size="24">Sul</font><font color="#000000" face="Verdana" size="24"> é composto por </font><font color="#000080" face="Verdana" size="24">Paraná, Rio Grande do Sul </font><font color="#000000" face="Verdana" size="24">e </font><font color="#000080" face="Verdana" size="24">Santa Catarina.<br>
+</font><font color="#000000" face="Verdana" size="24">A região </font><font color="#FF0000" face="Verdana" size="24">sudeste </font><font color="#000000" face="Verdana" size="24">abriga os estados do </font><font color="#000080" face="Verdana" size="24">Espírito Santo, Minas Gerais, Rio de Janeiro</font><font color="#000000" face="Verdana" size="24"> e </font><font color="#000080" face="Verdana" size="24">São Paulo</font><font color="#000000" face="Verdana" size="24">.<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <cabeceira>Mapa dos estados:</cabeceira>
+              <imaxe posx="54" posy="0">ES.jpg</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="451" posy="7">YT.jpg</imaxe>
+              <texto posx="7" posy="2" ancho="437" largo="334"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="24">Os Estados são conhecidos também como Unidades da Federação.<br>
+ No total, o Brasil possui 26 Estados, mais o Distrito Federal.  Todo estado possui uma capital, onde são tomadas as decisões políticas e administrativas. <br>
+Para administrar cada Unidade da Federação existe um governador, representando o poder executivo; e deputados estaduais, representantes do poder legislativo.<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <cabeceira>Voce sabia?</cabeceira>
+              <imaxe posx="541" posy="42">amazonas.png</imaxe>
+              <texto posx="11" posy="5" ancho="530" largo="329"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="24">O Amazonas é o estado com maior extensão territorial, ocupando aproximadamente 17% do território brasileiro. Já o estado do Sergipe é o menor estado da Federação, ocupando uma área de menos de 0,5% do país.<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="11" >
+              <tipo>1</tipo>
+              <imaxe>67.gif</imaxe>
+              <texto>Quantos estados tem no Brasil?</texto>
+              <resp texto="" valor="1">26</resp>
+              <resp texto="" valor="0">17</resp>
+              <resp texto="" valor="0">24</resp>
+              <resp texto="" valor="0">21</resp>
+        </paxina>
+        <paxina id="12" >
+              <tipo>1</tipo>
+              <imaxe>regioes.jpg</imaxe>
+              <texto>O Brasil é dividido em quantas regiões?</texto>
+              <resp texto="5 regiões" valor="1">5</resp>
+              <resp texto="7" valor="0">7</resp>
+              <resp texto="4" valor="0">4</resp>
+              <resp texto="9" valor="0">9</resp>
+        </paxina>
+        <paxina id="13" >
+              <tipo>1</tipo>
+              <imaxe>IK.jpg</imaxe>
+              <texto>Qual a sigla que representa o  Instituto Brasileiro de Geografia e Estatística?</texto>
+              <resp texto="" valor="0">IBJE</resp>
+              <resp texto="IBGE" valor="1">IBGE</resp>
+              <resp texto="" valor="0">IBBE</resp>
+              <resp texto="" valor="0">IBPE</resp>
+        </paxina>
+        <paxina id="14" >
+              <tipo>47</tipo>
+              <cabeceira>Separe as regiões e os estados:</cabeceira>
+              <caixa1>Estados,Regiões</caixa1>
+              <nome caixa="2">Centro-oeste</nome>
+              <nome caixa="1">São Paulo</nome>
+              <nome caixa="2">Nordeste</nome>
+              <nome caixa="2">Sudeste</nome>
+              <nome caixa="1">Rio de janeiro</nome>
+              <nome caixa="1">Mato grosso</nome>
+        </paxina>
+        <paxina id="15" >
+              <tipo>1</tipo>
+              <imaxe>amazon.jpg</imaxe>
+              <texto>Qual o estado com maior extensão territorial no Brasil?</texto>
+              <resp texto="" valor="1">Amazonas</resp>
+              <resp texto="" valor="0">Mato grosso</resp>
+              <resp texto="" valor="0">Distrito Federal</resp>
+              <resp texto="" valor="0">São paulo</resp>
+        </paxina>
+        <paxina id="16" >
+              <tipo>1</tipo>
+              <imaxe>i.jpg</imaxe>
+              <texto>Em que estado se localiza caraguatatuba?</texto>
+              <resp texto="" valor="1">SP</resp>
+              <resp texto="" valor="0">RJ</resp>
+              <resp texto="" valor="0">MT</resp>
+              <resp texto="" valor="0">SC</resp>
+        </paxina>
+        <paxina id="17" >
+              <tipo>3</tipo>
+              <cabeceira>Monte o quebra-cabeça.</cabeceira>
+              <imaxe>regioes.jpg</imaxe>
+              <imfondo  trans="15">regioes.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>4</tipo>
+              <cabeceira>Encontre as palavras:</cabeceira>
+              <modo>1</modo>
+              <sopa enun="regiões">regiões</sopa>
+              <sopa enun="Brasil">brasil</sopa>
+              <sopa enun="municípios">municípios</sopa>
+              <sopa enun="mapa">mapa</sopa>
+              <sopa enun="local">local</sopa>
+              <sopa enun="ibge">ibge</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="19" >
+              <tipo>2</tipo>
+              <imaxe posx="31" posy="209">90.jpg</imaxe>
+              <texto posx="2" posy="0" ancho="568" largo="301"><![CDATA[
+<p align="center">
+<font color="#008000" face="Verdana" size="24"><b><i>Parabéns!Completou a tarefa com sucesso.</i></b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="20" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-4">logo-brescola.png</imaxe>
+              <texto posx="3" posy="-2" ancho="574" largo="202"><![CDATA[
+<p align="center">
+<font color="#008000" face="Verdana" size="24"><b><i></i></b><br>
+<b><i>Fonte: </i></b></font><font color="#000000" face="Verdana" size="24"><b><i>www.brasilescola.uol.com.br alunosonline.uol.com.br</i></b><br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<lim version="3.26">
+    <config>
+        <recursos>$C:\Users\yasmin\Desktop\Edilim\edilim_es\matematica\</recursos>
+          <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>Exercicícios de Matemática</titulo>
+          <subtitulo>EMEF Profº Geraldo de Lima</subtitulo>
+          <autor>Alaide</autor>
+          <iden>Yasmin Vieira</iden>
+          <imaxefondo posx="-780" posy="-14" trans="100">C:\Users\yasmin\Desktop\Edilim\edilim_es\matematica\67623_Papel-de-Parede-Ferramentas-da-Matematica_1920x1200.jpg</imaxefondo>
+        <aspectosup >2</aspectosup>
+        <aspectoinf >2</aspectoinf>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns !!</correcto>
+        <incorrecto son="" modo="1" >Tente Novamente</incorrecto>
+    </config>
+    <libro>
+            <paxina id="1" >
+            <tipo>2</tipo>
+            <texto posx="142" posy="56" ancho="300" largo="200"><![CDATA[
+<p align="left">
+<font color="#000000" face="Comic Sans MS" size="54"><b>Treinando<br>
+Matemática</font></b></p>
+]]></texto>
+            <ctexto>000000</ctexto>
+            <chtml>1</chtml>
+          </paxina>
+            <paxina id="2" >
+            <tipo>29</tipo>
+            <texto><![CDATA[Para ler alguma coisa escrita em um língua, a gente tem que saber falar essa tal língua, né? Mas você já reparou que uma coisa escrita em japonês parece muito mais difícil de entender do que uma outra escrita em inglês, ou francês? É que, no Japão, as pessoas não só falam uma língua diferente da nossa, como também usam um outro alfabeto! 
+- Tudo bem mas...o que isso tem a ver com matemática?
+Bom, o "alfabeto" da matemática são os números, certo? E, assim como existem vários tipos de alfabetos, também existem vários sistemas de numeração! ]]></texto>
+            <ctexto>000000</ctexto>
+            <modo>0</modo>
+          </paxina>
+            <paxina id="3" >
+            <tipo>29</tipo>
+            <texto><![CDATA[EXERCICÍOS !]]></texto>
+            <ctexto>000000</ctexto>
+            <modo>0</modo>
+          </paxina>
+    </libro>
+</lim>

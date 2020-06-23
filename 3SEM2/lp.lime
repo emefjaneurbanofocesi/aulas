@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+          <recursos>$\Users\DRCARLOS\Documents\Aulas\3ºano - ortografia, vogais, consoantes e sílabas\img\</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+          <corfondo>00FFFF</corfondo>
+        <corbanda>00FFFF</corbanda>
+        <cornavega>00FFFF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>Ortografia, vogais, consoantes e sílabas</titulo>
+          <autor>Pâmela Leal</autor>
+          <iden>Rafael Felipe Silva</iden>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns, siga em frente!</correcto>
+        <incorrecto son="" modo="1" >Tente novamente!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="50" posy="50" ancho="542" largo="285"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="24">EMEF DR. CARLOS DE ALMEIDA RODRIGUES<br>
+<br>
+NOME DA AULA: ORTOGRAFIA: VOGAIS, CONSOANTES E SÍLABAS.<br>
+<br>
+ELABORAÇÃO: PAMELA LEAL<br>
+<br>
+PRODUÇÃO: RAFAEL FELIPE<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>Leia os tópicos abaixo:</cabeceira>
+              <imaxe posx="170" posy="164">\Users\DRCARLOS\Documents\Aulas\3ºano - ortografia, vogais, consoantes e sílabas\img\Alfabeto2.gif</imaxe>
+              <texto posx="39" posy="-6" ancho="546" largo="192"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="16">-PARA ESCREVER NÓS USAMOS LETRAS.<br>
+<br>
+-A PALAVRA VIDA TEM 4 LETRAS E DUAS SÍLABAS.<br>
+<br>
+-NOSSO ALFABETO POSSUI 26 LETRAS.<br>
+<br>
+-TODA PALAVRA PODE SER DIVIDIDA EM SÍLABAS.<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>20</tipo>
+              <cabeceira>Ligue as frutas ao seus nomes:</cabeceira>
+              <imaxe>\Users\DRCARLOS\Documents\Aulas\3ºano - ortografia, vogais, consoantes e sílabas\img\frutas2.jpg</imaxe>
+              <modo>9</modo>
+              <etiqueta posx="286" posy="118">Laranja</etiqueta>
+              <etiqueta posx="151" posy="276">Ameixa</etiqueta>
+              <etiqueta posx="6" posy="121">Morango</etiqueta>
+              <etiqueta posx="290" posy="278">Abacaxi</etiqueta>
+              <etiqueta posx="155" posy="119">Melancia</etiqueta>
+              <etiqueta posx="9" posy="275">Banana</etiqueta>
+        </paxina>
+        <paxina id="4" >
+              <tipo>14</tipo>
+              <cabeceira>Arraste as imagens e forme as palavras:</cabeceira>
+              <peza imaxe="\Users\DRCARLOS\Documents\Aulas\3ºano - ortografia, vogais, consoantes e sílabas\img\bran.png" texto="" son="">\Users\DRCARLOS\Documents\Aulas\3ºano - ortografia, vogais, consoantes e sílabas\img\ca.png</peza>
+              <peza imaxe="\Users\DRCARLOS\Documents\Aulas\3ºano - ortografia, vogais, consoantes e sílabas\img\xa.png" texto="" son="">\Users\DRCARLOS\Documents\Aulas\3ºano - ortografia, vogais, consoantes e sílabas\img\drez.png</peza>
+              <peza imaxe="C:\Users\DRCARLOS\Documents\Aulas\3ºano - ortografia, vogais, consoantes e sílabas\img\ca.png" texto="" son="">C:\Users\DRCARLOS\Documents\Aulas\3ºano - ortografia, vogais, consoantes e sílabas\img\sa.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>6</tipo>
+              <cabeceira>Coloque nos quadros as palavras que COMEÇAM com vogal ou consoante:</cabeceira>
+              <nome caixa="2">amigo</nome>
+              <nome caixa="1">sabiá</nome>
+              <nome caixa="2">escola</nome>
+              <nome caixa="1">leão</nome>
+              <nome caixa="1">hora</nome>
+              <nome caixa="2">olhos</nome>
+              <caixa1>Consoante</caixa1>
+              <caixa2>Vogal</caixa2>
+              <modo></modo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>6</tipo>
+              <cabeceira>Coloque nos quadros as palavras que COMEÇAM com vogal ou consoante:</cabeceira>
+              <nome caixa="1">bala</nome>
+              <nome caixa="1">mala</nome>
+              <nome caixa="1">xícara</nome>
+              <nome caixa="2">unha</nome>
+              <nome caixa="2">ilha</nome>
+              <nome caixa="2">arara</nome>
+              <caixa1>Consoante</caixa1>
+              <caixa2>Vogal</caixa2>
+              <modo></modo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>29</tipo>
+              <cabeceira>Conte e escreva o número de sílabas, vogais e consoantes:</cabeceira>
+              <texto><![CDATA[ a) PA - RA - LE - LE - PÍ - PE - DO: *7 sílabas / *7 vogais / *7 consoantes.
+
+b) PRO - BLE - MA: *3 sílabas / *3 vogais / *5 consoantes.
+
+c) PSI - CO - LO - GI - A: *5 sílabas / *5 vogais / *5 consoantes.]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>1</modo>
+              <forma>10</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>29</tipo>
+              <cabeceira>Separe as sílabas das palavras abaixo:</cabeceira>
+              <texto><![CDATA[carimbo: *ca - *rim - *bo
+
+grau: *grau 
+
+guache: *gua - *che 
+
+meu: *meu]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>1</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>29</tipo>
+              <cabeceira>Separe as sílabas das palavras abaixo:</cabeceira>
+              <texto><![CDATA[geleia: *ge - *lei - *a
+
+mais: *mais 
+
+sua: *su - *a
+
+arqueólogo: *ar - *que - *ó - *lo - *go
+
+surpreendente: *sur - *pre - *en - *den - *te ]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>1</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>1</tipo>
+              <cabeceira>Escolha a alternativa correta:</cabeceira>
+              <texto>Classifique CARIMBO:</texto>
+              <resp texto="" valor="1">trissílaba</resp>
+              <resp texto="" valor="0">dissílaba</resp>
+              <resp texto="" valor="0">polissílaba</resp>
+              <resp texto="" valor="0">monossílaba</resp>
+        </paxina>
+        <paxina id="11" >
+              <tipo>1</tipo>
+              <cabeceira>Escolha a alternativa correta:</cabeceira>
+              <texto>Classifique GRAU:</texto>
+              <resp texto="" valor="0">trissílaba</resp>
+              <resp texto="" valor="0">dissílaba</resp>
+              <resp texto="" valor="0">polissílaba</resp>
+              <resp texto="" valor="1">monossílaba</resp>
+        </paxina>
+        <paxina id="12" >
+              <tipo>1</tipo>
+              <cabeceira>Escolha a alternativa correta:</cabeceira>
+              <texto>Classifique SURPREENDENTE:</texto>
+              <resp texto="" valor="0">trissílaba</resp>
+              <resp texto="" valor="0">dissílaba</resp>
+              <resp texto="" valor="1">polissílaba</resp>
+              <resp texto="" valor="0">monossílaba</resp>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <texto posx="32" posy="62" ancho="528" largo="152"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial Rounded MT Bold" size="32">Parabéns, você concluiu a aula!</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

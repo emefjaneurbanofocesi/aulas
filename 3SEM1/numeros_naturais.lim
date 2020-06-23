@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>Recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>EBF706</corbanda>
+        <cornavega>EBF706</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>Números naturais e operações</subtitulo>
+        <autor>Educa Digital</autor>
+        <iden>Edesio Neto</iden>
+        <logo ir="Números naturais e operações" >LOGO.png</logo>
+        <imaxefondo posx="-90" posy="54" trans="7">51880735_17122_53612009_7991.jpg</imaxefondo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Correto</correcto>
+        <incorrecto son="" modo="1" >Incorreto</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="41" posy="132">NUMEROS.png</imaxe>
+              <texto posx="15" posy="13" ancho="423" largo="186"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="16">Números naturais e operações - 3º Ano<br>
+EMEF Profª Maria Aparecida de Carvalho<br>
+Elaboração: Educadigital<br>
+Produção: Edésio Neto<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-16">musica.mp4</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <cabeceira>NÚMEROS NATURAIS</cabeceira>
+              <imaxe posx="385" posy="174">Maths.png</imaxe>
+              <texto posx="19" posy="13" ancho="449" largo="242"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="16">NÚMEROS NATURAIS<br>
+<br>
+Pertencem ao conjunto dos naturais os números inteiros positivos, incluindo o zero. <br>
+Exemplo de números naturais:<br>
+{0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ... } <br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <cabeceira>MONTE O QUEBRA CABEÇA</cabeceira>
+              <imaxe>Numeros-Naturais.jpg</imaxe>
+              <imfondo  trans="10">Numeros-Naturais.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>34</tipo>
+              <cabeceira>ORDENE OS NÚMEROS NATURAIS</cabeceira>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>0123456789</completa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>number-146021_640.png</parellas>
+              <parellas>number-146022_640.png</parellas>
+              <parellas>number-146023_960_720.png</parellas>
+              <parellas>number-146024_640.png</parellas>
+              <parellas>number-146025_640.png</parellas>
+              <parellas>number-146026_640.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <cabeceira>OPERAÇÕES MATEMÁTICAS</cabeceira>
+              <imaxe posx="161" posy="254">simbolos-comuns-7.png</imaxe>
+              <texto posx="12" posy="-2" ancho="572" largo="259"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12"><b>ADIÇÃO</b><br>
+É a operação matemática que explica o montante do total de objetos juntos de uma coleção. <br>
+<br>
+Por exemplo, se José tem 2 maçãs e Laura tem 3 maçãs, e queremos saber quantas maçãs eles têm juntos. Então, devemos unir os dois conjuntos e eles terão 5 maçãs juntos (2 de José + 3 de Laura = 5 maçãs no total). <b>2 + 3 = 5</b><br>
+<br>
+<b>SUBTRAÇÃO</b><br>
+A subtração representa a operação aritmética que é a oposta da adição. Ela é usada quando você quer saber quantos objetos são deixados no grupo, depois que você retirar uma certa quantidade de objetos a partir desse grupo. <br>
+<br>
+Por exemplo, Maria tem 5 maçãs e ela dá 2 maçãs para seu amigo Paulo. Com quantas maçãs que ela ficou? Ela ficou com 3 maçãs (5 maçãs que ela tinha menos 2 maçãs que ela deu a Paulo que é igual a 3 maçãs que ficaram para ela). <b>5 - 2 = 3</b><br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="8" >
+              <tipo>46</tipo>
+              <cabeceira>RELACIONE</cabeceira>
+              <etiqueta texto="8"  posy="2">3 + 2</etiqueta>
+              <etiqueta texto="5"  posy="5">8 + 1</etiqueta>
+              <etiqueta texto="1"  posy="6">2 + 4</etiqueta>
+              <etiqueta texto="2"  posy="1">9 - 1</etiqueta>
+              <etiqueta texto="9"  posy="4">6 - 4</etiqueta>
+              <etiqueta texto="6"  posy="3">8 - 7</etiqueta>
+        </paxina>
+        <paxina id="9" >
+              <tipo>1</tipo>
+              <cabeceira>RESPONDA</cabeceira>
+              <texto>Ana tinha 8 maçãs. Comeu 3 delas Com quantas ficou?</texto>
+              <resp texto="" valor="0">3</resp>
+              <resp texto="" valor="0">4</resp>
+              <resp texto="" valor="1">5</resp>
+              <resp texto="" valor="0">6</resp>
+        </paxina>
+        <paxina id="10" >
+              <tipo>1</tipo>
+              <cabeceira>RESPONDA</cabeceira>
+              <texto>João tinha 5 figurinhas. José deu mais 6. Com quantas figurinhas João ficou?</texto>
+              <resp texto="" valor="0">8</resp>
+              <resp texto="" valor="0">9</resp>
+              <resp texto="" valor="0">10</resp>
+              <resp texto="" valor="1">11</resp>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <cabeceira>MULTIPLICAÇÃO</cabeceira>
+              <imaxe posx="311" posy="43">Sinal_de_vezes.svg.png</imaxe>
+              <texto posx="17" posy="20" ancho="281" largo="320"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="16">A multiplicação nada mais é que uma soma de parcelas iguais e seu sinal é representado pelo <b>x</b>     <br>
+<br>
+Por exemplo, se 1 caneta custa 2 reais e Lúcia comprou 5 canetas, quanto ela gastou?<br>
+<br>
+2 + 2 + 2 + 2 + 2  = 10<br>
+5 x 2 = 10<br>
+<br>
+ou<br>
+<br>
+5 + 5 = 10<br>
+2 x 5 = 10<br>
+<br>
+Portanto, Lúcia gastou 10 reais. Veja a tabuada de multiplicação na próxima página.<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <cabeceira>TABUADA DE MULTIPLICAÇÃO</cabeceira>
+              <imaxe posx="36" posy="-9">tabuada-de-multiplicar-para-completar-para-imprimir-1.jpg</imaxe>
+        </paxina>
+        <paxina id="13" >
+              <tipo>18</tipo>
+              <cabeceira>COMPLETE</cabeceira>
+              <modo>1</modo>
+              <completa ant="2 x 3" post="">6</completa>
+              <completa ant="1 x 4" post="">4</completa>
+              <completa ant="2 x 4" post="">8</completa>
+              <completa ant="3 x 5" post="">15</completa>
+              <completa ant="6 x 2" post="">12</completa>
+              <completa ant="5 x 4" post="">20</completa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>2</tipo>
+              <cabeceira>DIVISÃO</cabeceira>
+              <imaxe posx="302" posy="27">2693.png</imaxe>
+              <texto posx="19" posy="26" ancho="260" largo="261"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">A divisão é a repartição de um número em parcelas iguais, e é representada pelo <b>÷ </b>ou<b> :</b>  <br>
+<br>
+Por exemplo, Maria deseja distribuir 6 canetas coloridas entre 3 colegas de escola, de forma que todos recebam a mesma quantidade.  <br>
+<br>
+Se dividirmos 6 canetas, para 3 colegas, cada um receberá 2<br>
+<br>
+ 6 : 3 = 2 → 6 dividido por 3 é igual a 2<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="15" >
+              <tipo>2</tipo>
+              <cabeceira>TABUADA DE DIVISÃO</cabeceira>
+              <imaxe posx="0" posy="-4">eoq.jpg</imaxe>
+        </paxina>
+        <paxina id="16" >
+              <tipo>18</tipo>
+              <modo>1</modo>
+              <completa ant="4 : 2" post="">2</completa>
+              <completa ant="8 : 2" post="">4</completa>
+              <completa ant="10 : 2" post="">5</completa>
+              <completa ant="16 : 4" post="">4</completa>
+              <completa ant="6 : 3" post="">2</completa>
+              <completa ant="14 : 7 " post="">2</completa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>20</tipo>
+              <imaxe>operacoes-matematicas_318-35768.png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="109" posy="302">Multiplicação</etiqueta>
+              <etiqueta posx="268" posy="281">Divisão</etiqueta>
+              <etiqueta posx="306" posy="125">Adição</etiqueta>
+              <etiqueta posx="118" posy="127">Subtração</etiqueta>
+        </paxina>
+        <paxina id="18" >
+              <tipo>2</tipo>
+              <imaxe posx="181" posy="129">Maths.png</imaxe>
+              <texto posx="42" posy="8" ancho="522" largo="113"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="28"><b>PARABÉNS,</b><br>
+<b>VOCÊ FINALIZOU A AULA</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="19" >
+              <tipo>2</tipo>
+              <imaxe posx="36" posy="-40">pato.swf</imaxe>
+        </paxina>
+        <paxina id="20" >
+              <tipo>2</tipo>
+              <texto posx="50" posy="50" ancho="476" largo="243"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12"><b>Referências:</b><br>
+www.youtube.com/watch?v=bl2aoIFTUEA<br>
+brasilescola.uol.com.br/matematica/numeros-naturais.htm<br>
+prezi.com/nbh1irupzyj7/as-quatro-operacoes-matematicas/<br>
+recordandomatematica.blogspot.com.br/2014/05/as-operacoes-basicas-da-matematica.html<br>
+joaozinhoblog.files.wordpress.com/2013/02/mb-2-multiplicar-e-dividir.pdf<br>
+planejandoinfoeducativa.blogspot.com/<br>
+<br>
+Imagens do Google</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

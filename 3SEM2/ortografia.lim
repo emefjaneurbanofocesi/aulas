@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <corbanda>8888FF</corbanda>
+        <cornavega>A4FFD1</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>Aprendendo as vogais, consoantes e as sílabas!</subtitulo>
+        <autor>Maria aparecida</autor>
+        <iden>Viviane Cherry</iden>
+        <logo>logoeducadigital.png</logo>
+        <imaxefondo posx="2" posy="64" trans="10">9ef71747210efa0fce377dfd15401850.jpg</imaxefondo>
+        <aspectosup >skin_4_sup.swf</aspectosup>
+        <aspectoinf >skin_inferior_barra.swf</aspectoinf>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns!</correcto>
+        <incorrecto son="" modo="1" >Tente novamente!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="1" posy="1">livro.jpg</imaxe>
+              <texto posx="46" posy="-2" ancho="542" largo="285"><![CDATA[
+<p align="center">
+<font color="#080000" face="Baskerville" size="18"><b>EMEF DR. CARLOS DE ALMEIDA RODRIGUES.</b><br>
+<b>APRENDENDO AS VOGAIS, CONSOANTES E SÍLABAS     </b><br>
+<b>(3º C) </b><br>
+<b>ELABORAÇÃO:</b> <b>MARIA APARECIDA</b><br>
+<b>PRODUÇÃO:</b> <b>VIVIANE CHERRY</b><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>TÓPICOS:</cabeceira>
+              <imaxe posx="170" posy="164">Alfabeto2.gif</imaxe>
+              <texto posx="23" posy="-1" ancho="546" largo="192"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="16"><b><i><li>-PARA ESCREVER NÓS USAMOS LETRAS.</i></b></li>
+<br>
+<li><b><i>-NOSSO ALFABETO POSSUI 26 LETRAS.</i></b></li>
+<br>
+<li><b><i>TODA PALAVRA PODE SER DIVIDIDA EM SÍLABAS.</i></b></li>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <cabeceira>VÍDEO</cabeceira>
+              <imaxe posx="55" posy="-9">video.mp4</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>20</tipo>
+              <cabeceira>LIGUE OS NOMES CONFORME SUAS FRUTAS:</cabeceira>
+              <imaxe>frutinhas.jpg</imaxe>
+              <modo>9</modo>
+              <etiqueta posx="286" posy="118">Laranja</etiqueta>
+              <etiqueta posx="151" posy="276">Ameixa</etiqueta>
+              <etiqueta posx="6" posy="121">Morango</etiqueta>
+              <etiqueta posx="290" posy="278">Abacaxi</etiqueta>
+              <etiqueta posx="155" posy="119">Melancia</etiqueta>
+              <etiqueta posx="9" posy="275">Banana</etiqueta>
+        </paxina>
+        <paxina id="5" >
+              <tipo>14</tipo>
+              <cabeceira>JUNTE AS SÍLABAS E DESCUBRA AS PALAVRAS:</cabeceira>
+              <peza imaxe="bran.png" texto="" son="">ca.png</peza>
+              <peza imaxe="xa.png" texto="" son="">drez.png</peza>
+              <peza imaxe="ca.png" texto="" son="">sa.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>6</tipo>
+              <cabeceira>SEPAREM AS PALAVRAS QUE COMEÇAM COM VOGAIS DAS QUE COMEÇAM COM CONSOANTES:</cabeceira>
+              <fondocaixa1 trans="40">CONSOANTES.jpg</fondocaixa1>
+              <fondocaixa2 trans="40">vogais[1].png</fondocaixa2>
+              <nome caixa="2">AMIZADE</nome>
+              <nome caixa="1">SABIÁ</nome>
+              <nome caixa="2">ESCOLA</nome>
+              <nome caixa="1">LEÃO</nome>
+              <nome caixa="1">HORA</nome>
+              <nome caixa="2">OLHOS</nome>
+              <caixa1>Consoante</caixa1>
+              <caixa2>Vogal</caixa2>
+        </paxina>
+        <paxina id="7" >
+              <tipo>29</tipo>
+              <cabeceira>CONTE E ESCREVA O NUMEROS DE CADA SÍLABA, VOGAL E CONSOANTE:</cabeceira>
+              <texto><![CDATA[ a) PA - RA - LE - LE - PÍ - PE - DO: *7 sílabas / *7 vogais / *7 consoantes.
+
+b) PRO - BLE - MA: *3 sílabas / *3 vogais / *5 consoantes.
+
+c) PSI - CO - LO - GI - A: *5 sílabas / *5 vogais / *5 consoantes.
+
+D) CA - DEI - RA: *3 sílabas / *4 vogais / *3 consoantes]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>1</modo>
+              <forma>10</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>29</tipo>
+              <cabeceira>CRUZADINHA: ENCONTRE AS PALAVRAS ( BANANA - MAÇA- CAJU E MARACUJA ):</cabeceira>
+              <texto><![CDATA[                  3)
+   1)  *M*      *C*
+2) *B* *A* *N* *A* *N* *A*
+       *Ç*      *J*
+       *A*      *U*
+4) *M* *A* *R* *A* *C* *U* *J* *A*]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>1</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>29</tipo>
+              <cabeceira>SEPARE AS SÍLABAS DAS PALAVRAS ABAIXO:</cabeceira>
+              <texto><![CDATA[carimbo: *ca - *rim - *bo
+
+grau: *grau 
+
+guache: *gua - *che 
+
+meu: *meu
+
+uva: *uva
+
+melão: *me - *lão]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>1</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>29</tipo>
+              <cabeceira>SEPARE AS SÍLABAS DAS PALAVRAS ABAIXO:</cabeceira>
+              <texto><![CDATA[geleia: *ge - *lei - *a
+
+mais: *mais 
+
+sua: *su - *a
+
+arqueólogo: *ar - *que - *ó - *lo - *go
+
+surpreendente: *sur - *pre - *en - *den - *te ]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>1</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>1</tipo>
+              <cabeceira>ESCOLHA A ALTERNATIVA CORRETA:</cabeceira>
+              <imaxe>3e2710e21553703d10843181f11a9279.jpg</imaxe>
+              <texto>CLASSIFIQUE A PALAVRA CABELO:</texto>
+              <resp texto="" valor="1">trissílaba</resp>
+              <resp texto="" valor="0">dissílaba</resp>
+              <resp texto="" valor="0">polissílaba</resp>
+              <resp texto="" valor="0">monossílaba</resp>
+        </paxina>
+        <paxina id="12" >
+              <tipo>1</tipo>
+              <cabeceira>ESCOLHA A ALTERNATIVA CORRETA:</cabeceira>
+              <imaxe>desenho-colorido-a4-personalizado-adele.jpg</imaxe>
+              <texto>CLASSIFIQUE A PALAVRA ROSTO:</texto>
+              <resp texto="" valor="0">trissílaba</resp>
+              <resp texto="" valor="1">dissílaba</resp>
+              <resp texto="" valor="0">polissílaba</resp>
+              <resp texto="" valor="0">monossílaba</resp>
+        </paxina>
+        <paxina id="13" >
+              <tipo>1</tipo>
+              <cabeceira>ESCOLHA A ALTERNATIVA CORRETA:</cabeceira>
+              <imaxe>uvas-ROXAS.jpg</imaxe>
+              <texto>CLASSIFIQUE A PALAVRA UVA:</texto>
+              <resp texto="" valor="0">trissílaba</resp>
+              <resp texto="" valor="0">dissílaba</resp>
+              <resp texto="" valor="0">polissílaba</resp>
+              <resp texto="" valor="1">monossílaba</resp>
+        </paxina>
+        <paxina id="14" >
+              <tipo>1</tipo>
+              <cabeceira>ESCOLHA A ALTERNATIVA CORRETA:</cabeceira>
+              <imaxe>pc.jpg</imaxe>
+              <texto>CLASSIFIQUE A PALAVRA COMPUTADOR:</texto>
+              <resp texto="" valor="0">trissílaba</resp>
+              <resp texto="" valor="0">dissílaba</resp>
+              <resp texto="" valor="1">polissílaba</resp>
+              <resp texto="" valor="0">monossílaba</resp>
+        </paxina>
+        <paxina id="15" >
+              <tipo>4</tipo>
+              <cabeceira>CAÇA - PALAVRAS:</cabeceira>
+              <modo>2</modo>
+              <sopa enun="abacate.jpg">ABACATE</sopa>
+              <sopa enun="Abacaxi.jpg">ABACAXI</sopa>
+              <sopa enun="ameixa.jpg">AMEIXA</sopa>
+              <sopa enun="banana.jpg">BANANA</sopa>
+              <sopa enun="ameixa.jpg">MELANCIA</sopa>
+              <sopa enun="morango.jpg">MORANGO</sopa>
+              <sopa enun="Laranja.jpg">LARANJA</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>QWERTYUIOPASDFGHJKLÇZXCVBNM</fondo>
+        </paxina>
+        <paxina id="16" >
+              <tipo>18</tipo>
+              <cabeceira>CPOMPLETE COM Á SÍLABA QUE FALTA DA PALAVRA:</cabeceira>
+              <modo>3</modo>
+              <completa ant="CAN" post="RU">GU</completa>
+              <completa ant="JA" post="RÉ">CA</completa>
+              <completa ant="MO" post="GO">RAN</completa>
+              <completa ant="CA" post="BO">RIM</completa>
+              <completa ant="CA" post="RA">DEI</completa>
+              <completa ant="FOR" post="GA">MI</completa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>2</tipo>
+              <imaxe posx="162" posy="99">assinatura_1.swf</imaxe>
+              <texto posx="45" posy="168" ancho="528" largo="152"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="32"><b></b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="18" >
+              <tipo>2</tipo>
+              <imaxe posx="303" posy="10">52628.swf</imaxe>
+              <texto posx="48" posy="93" ancho="530" largo="233"><![CDATA[
+<p align="right">
+<font color="#080000" face="Arial" size="14"><b>REFERÊNCIAS:</b><br>
+<br>
+</font></p>
+<p align="left">
+<font color="#080000" face="Arial" size="12"><b>https://www.google.com.br/search?noj=1&amp;amp;amp;amp;amp;amp;amp;amp;tbm=isch&amp;amp;amp;amp;amp;amp;amp;amp;sa=1&amp;amp;amp;amp;amp;amp;amp;amp;q=MELANCIA+&amp;amp;amp;amp;amp;amp;amp;amp;oq=MELANCIA+&amp;amp;amp;amp;amp;amp;amp;amp;gs_l=img.3..0l10.22674.27064.0.28462.9.9.0.0.0.0.254.969.2-4.4.0....0...1c.1.64.img..5.4.967.dyr6rfdd668#imgrc=W9a9d-swTx9DjM%3A.</b><br>
+<br>
+<b>https://www.google.com.br</b><br>
+<br>
+</font><font color="#000000" face="Arial" size="12"><b>http://www.professorzezinhoramos.com/2013/05/70-atividades-de-alfabetizacao-juntando.html</b><br>
+<br>
+<b>http://www.nossoclubinho.com.br/atividades-para-alfabetizacao-silabas/</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="19" >
+              <tipo>2</tipo>
+              <cabeceira>VAMOS JOGAR  :)</cabeceira>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>

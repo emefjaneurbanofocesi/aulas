@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>004000</corbanda>
+        <cornavega>808040</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>Animais </subtitulo>
+        <logo>logoeducadigital.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns,provou que é bom em ciências  =)</correcto>
+        <incorrecto son="" modo="1" >Ops,tente outra vez! =(</incorrecto>
+        <modomenu>1</modomenu>
+        <liga ir="2">Reprodução</liga>
+        <liga ir="5">Respiração</liga>
+        <liga ir="8">Classificação</liga>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-31">lg.png</imaxe>
+              <texto posx="283" posy="29" ancho="287" largo="302"><![CDATA[
+<p align="center">
+<font color="#004000" face="impact" size="32"><u>ANIMAIS.</u><br>
+<br>
+</font><font color="#808000" face="impact" size="20">Emei Profº João Baptista Gardelin.<br>
+4ª Ano<br>
+Elaboração: Ana Regina.<br>
+Produção: Amanda Letícia.<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="468" posy="25">3.jpg</imaxe>
+              <texto posx="0" posy="-1" ancho="465" largo="351"><![CDATA[
+<p align="center">
+<font color="#004000" face="impact" size="32"><u>Reprodução animal.</u></font><font color="#000000" face="Verdana" size="24"><br>
+<br>
+Os animais, assim como todos os seres vivos, são capazes de se reproduzir. <br>
+Isso significa que eles podem dar origem a novos indivíduos de sua espécie, permitindo que elas continuem a existir.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="451" posy="43">2.jpg</imaxe>
+              <texto posx="6" posy="19" ancho="438" largo="334"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="24">Para ocorrer a reprodução de muitas espécies de animais,<br>
+é necessário que a célula sexual dos machos(espermatozoide) se una a célula sexual das fêmeas(óvulo).<br>
+Esse evento é chamado de fecundação.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="503" posy="53">4.GIF</imaxe>
+              <texto posx="6" posy="10" ancho="455" largo="339"><![CDATA[
+<p align="center">
+<font color="#808000" face="Verdana" size="24">Fecundação interna</font><font color="#000000" face="Verdana" size="28">,</font><font color="#000000" face="Verdana" size="24"><br>
+é quando a fecundação ocorre dentro do corpo do animal,<br>
+Quando a fecundação ocorre fora do corpo do animal, diretamente no ambiente,ela é chamada de </font><font color="#808000" face="Verdana" size="24">fecundação externa</font><font color="#000000" face="Verdana" size="24">.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="541" posy="10">pandas.jpg</imaxe>
+              <texto posx="0" posy="-3" ancho="543" largo="356"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="24">Como os animais respiram?<br>
+O gás  oxigênio obtido pela respiração,é essencial para os seres vivos.<br>
+Assim como o ser humano,outros animais,como o<br>
+cachorro realiza a respiração pulmonar. <br>
+Ela ocorre por meio de estruturas chamadas pulmões.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="522" posy="10">10.jpg</imaxe>
+              <texto posx="6" posy="13" ancho="418" largo="355"><![CDATA[
+<p align="center">
+<font color="#000000" face="Verdana" size="24">O oxigênio  que é inspirado <br>
+entra nos pulmões e é distribuido no corpo pelo sangue.<br>
+Os peixes realizam a repiração branquial,esses peixes tem uma estrutura chamada brânquia.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="7" >
+              <tipo>12</tipo>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="Sistema respiratório">sistema.jpg</galeria>
+              <galeria grande="" son="" texto="">5.jpg</galeria>
+              <galeria grande="" son="" texto="Respiração Branquial">6.jpg</galeria>
+              <galeria grande="" son="" texto="Respiração pulmonar.">8.jpg</galeria>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="491" posy="82">11.jpg</imaxe>
+              <texto posx="2" posy="5" ancho="485" largo="334"><![CDATA[
+<p align="center">
+<font color="#004000" face="Verdana" size="24">Animais invertebrados.</font><font color="#000000" face="Verdana" size="24"><br>
+Chamamos de invertebrados os animais que não possuem coluna vertebral nem crânio.<br>
+ São exemplos: as esponjas, as águas-vivas, os vermes,as lombrigas, os polvos, as minhocas, as formigas, e as estrelas-do-mar. </font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="451" posy="74">00.jpg</imaxe>
+              <texto posx="3" posy="6" ancho="418" largo="361"><![CDATA[
+<p align="center">
+<font color="#004000" face="Verdana" size="24">Animais vertebrados.</font><font color="#000000" face="Verdana" size="24"><br>
+<br>
+Os animais vertebrados, pertencentes ao reino animal, são animais que possuem vértebras, ou seja, os ossos que compõem a coluna vertebral.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="222" posy="-26">1.png</imaxe>
+              <texto posx="32" posy="4" ancho="300" largo="200"><![CDATA[
+<p align="center">
+<font color="#800000" face="Impact" size="28">Atividades!!!!</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="11" >
+              <tipo>1</tipo>
+              <imaxe>3.jpeg</imaxe>
+              <texto>O que são animais capazes de se reproduzir?</texto>
+              <resp texto="" valor="1">Animais que dão origem a novos indivíduos de sua espécie.</resp>
+              <resp texto="" valor="0">Animais que não reproduzem.</resp>
+              <resp texto="" valor="0">Animais vertebrados.</resp>
+              <resp texto="" valor="0">Nenhuma das alternativas</resp>
+        </paxina>
+        <paxina id="12" >
+              <tipo>1</tipo>
+              <imaxe>2.jpg</imaxe>
+              <texto>Qual o nome do 'evento' de reprodução das espécies?</texto>
+              <resp texto="" valor="0">Fermentação.</resp>
+              <resp texto="" valor="0">Polinização.</resp>
+              <resp texto="" valor="1">Fecundação.</resp>
+              <resp texto="" valor="0">óvulo.</resp>
+        </paxina>
+        <paxina id="13" >
+              <tipo>13</tipo>
+              <cabeceira>Existem tipos de fecundação que ocorre na reprodução das espécies,  Relacione:</cabeceira>
+              <unir texto="Fecundação interna">Dentro do corpo.</unir>
+              <unir texto="Fecundação externa">Fora do corpo.</unir>
+        </paxina>
+        <paxina id="14" >
+              <tipo>1</tipo>
+              <imaxe>8.jpg</imaxe>
+              <texto>Quais são os tipos de respirações apresentadas nos textos anteriores?</texto>
+              <resp texto="" valor="0">Fluvial e vertebral.</resp>
+              <resp texto="" valor="1">Branquial e Pulmonar.</resp>
+              <resp texto="" valor="0">Respiração interna.</resp>
+              <resp texto="" valor="0">Nenhuma das alternativas.</resp>
+        </paxina>
+        <paxina id="15" >
+              <tipo>46</tipo>
+              <cabeceira>Faça as ligações:</cabeceira>
+              <etiqueta texto="Animais que possuem vértebras,os ossos."  posy="2">Animais invertebrados.</etiqueta>
+              <etiqueta texto="Animais que não possuem coluna vertebral nem crânio."  posy="1">Animais vertebrados.</etiqueta>
+        </paxina>
+        <paxina id="16" >
+              <tipo>14</tipo>
+              <cabeceira>Arraste as imagens:</cabeceira>
+              <peza imaxe="" texto="VERTEBRADO" son="">QW.jpg</peza>
+              <peza imaxe="" texto="INVERTEBRADO" son="">1111.jpg</peza>
+              <cfondo>C0C0C0</cfondo>
+        </paxina>
+        <paxina id="17" >
+              <tipo>17</tipo>
+              <cabeceira>Jogo da memória:</cabeceira>
+              <parellas>3.jpeg</parellas>
+              <parellas>QW.jpg</parellas>
+              <parellas>00.jpg</parellas>
+              <parellas>1111.jpg</parellas>
+              <parellas>pandas.jpg</parellas>
+              <parellas>3.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000040</ctapa>
+              <tempo>30</tempo>
+        </paxina>
+        <paxina id="18" >
+              <tipo>3</tipo>
+              <imaxe>puzzle.jpg</imaxe>
+              <imfondo  trans="15">puzzle.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>4</tipo>
+              <cabeceira>Encontre as palavras:</cabeceira>
+              <modo>1</modo>
+              <sopa enun="animais">animais</sopa>
+              <sopa enun="vertebrado">vertebrado</sopa>
+              <sopa enun="fecundação">fecundação</sopa>
+              <sopa enun="reprodução">reprodução</sopa>
+              <sopa enun="respiração">respiração</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="20" >
+              <tipo>12</tipo>
+              <cabeceira>JOGOS:</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="">motocross3D.swf</galeria>
+              <galeria grande="" son="" texto="">paparazzi.swf</galeria>
+              <galeria grande="" son="" texto="">jogo_velha_zuzu.swf</galeria>
+        </paxina>
+        <paxina id="21" >
+              <tipo>2</tipo>
+              <imaxe posx="510" posy="-12">fm.png</imaxe>
+              <texto posx="0" posy="18" ancho="493" largo="328"><![CDATA[
+<p align="center">
+<font color="#004040" face="Verdana" size="32">Parabéns finalizou a aula com sucesso!</font><font color="#000000" face="Verdana" size="24"><br>
+<br>
+Fonte: Livro ciências:"Juntos nessa",escolakids.com,infoescola.com,<br>
+google imagens"</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

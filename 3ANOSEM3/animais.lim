@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <recursos>edilim</recursos>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>A6FFA6</corfondo>
+        <corbanda>FF8000</corbanda>
+        <cornavega>F27900</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <subtitulo>ANIMAIS</subtitulo>
+        <autor>Fatima</autor>
+        <iden>Jaqueline Bonifacio</iden>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Parabéns!!!</correcto>
+        <incorrecto son="" modo="1" >Tente novamente.</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#008000" face="Verdana" size="16"><b>EMEF PROFº JORGE PASSOS</b><br>
+<br>
+<br>
+</font><font color="#008000" face="Verdana" size="24"><b>ANIMAIS</b><br>
+<br>
+<br>
+</font><font color="#008000" face="Verdana" size="16"><b>PROFESSORA FATIMA LUCAICHUS</b><br>
+<br>
+<b>3º ANO</b><br>
+<br>
+<b>PRODUÇÃO JAQUELINE BONIFACIO</b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <imaxe>feliz.png</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="18">Vamos conhecer um pouco mais sobre como os animais se desenvolvem antes de nascerem. Para isso, vamos fazer uma visita e alguns lugares do sítio de Joaquim.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>12</tipo>
+              <cabeceira>Nossa primeira parada é no galinheiro do sítio. Nele podemos observar galinhas, pintinhos recém-nascidos e alguns ovos.</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto=" Galinha: cerca de 80 cm de comprimento.">galinha.jpg</galeria>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <imaxe>galinha.jpg</imaxe>
+              <texto><![CDATA[Onde se desenvolvem os pintinhos antes do nascimento. ]]></texto>
+              <resp texto="">ovos</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="16">O embrião de animais como a galinha, o peru, o avestruz, a lagartixa, a tartaruga e o bicho-da-seda se desenvolve dentro de ovos, que permanecem fora do corpo da fêmea até o nascimento dos filhotes. Por esse motivo, eles são chamados <b>ovíparos.</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>12</tipo>
+              <cabeceira>Nossa segunda parada é no chiqueiro do sítio. Nele podemos observar porcos adultos e alguns filhotes que acabaram de nascer.</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="Porco: pode atingir 1,9 m de comprimento.">porco.jpg</galeria>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <cabeceira>Palavra secreta</cabeceira>
+              <imaxe alt="Ç">porco.jpg</imaxe>
+              <texto><![CDATA[Os filhotes de porco se desenvolvem no ________ materno que se localiza dentro do corpo da porca.]]></texto>
+              <resp texto="">útero</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="16">O embrião de animais como o porco, o gato, o coelho, a vaca e a ovelha se desenvolve no útero materno até o nascimento. Eles são chamados animais vivíparos.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="9" >
+              <tipo>38</tipo>
+              <imaxe>cocho.jpg</imaxe>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="18">Nossa terceira parada é em uma pequena plantação de café. Nos cafeeiros existem alguns insetos chamados cochonilhas-verdes, que se alimentam desses vegetais. Os embriões das cochonilhas-verdes se desenvolvem em ovos que permanecem dentro do corpo da fêmea até o nascimento.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="10" >
+              <tipo>10</tipo>
+              <imaxe>hm.png</imaxe>
+              <pregunta res="cochonilhas-verdes">A terceira parada foi em uma plantação de café, nessa plantação existem alguns insetos chamados ?</pregunta>
+        </paxina>
+        <paxina id="11" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="16">O corpo dos filhotes de muitos animais é bastante semelhante ao corpo dos pais. No entanto, isso não ocorre com todos os animais. Alguns nascem com o corpo bem diferente do corpo dos pais e, durante o desenvolvimento, passam por transformações até atingir a forma adulta. O conjunto dessas transformações é chamado <b>metamorfose.<br>
+</b><br>
+O bicho-da-seda é um exemplo de animal que passa por metamorfose durante o desenvolvimento. Veja como isso ocorre.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="12" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="16">Após o acasalamento e a fecundação, a mariposa, que é a forma adulta do bicho-da-seda, deposita, geralmente, de 200 a 500 ovos em folhas de amoreiras.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="13" >
+              <tipo>12</tipo>
+              <cabeceira>Mariposa pondo seus ovos:</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="Ovo de mariposa: de 1 a 1,3 mm de comprimento.">mariposa.jpg</galeria>
+        </paxina>
+        <paxina id="14" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="18">Cerca de doze dias depois, nasce uma lagarta de cada ovo, que passa a se alimentar das folhas da amoreira. Durante essa fase, a lagarta troca o revestmento de seu corpo algumas vezes.<br>
+<br>
+lagarta do bicho-da-seda.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="15" >
+              <tipo>12</tipo>
+              <cabeceira>Lagarta do bicho-da-seda</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="Bicho-da-seda: Cerca de 7 cm de comprimento.">bichoseda.jpg</galeria>
+        </paxina>
+        <paxina id="16" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="18">Após a última troca de pele, a lagarta começa a produzir um casulo em volta de seu corpo. Nessa fase, o animal está na forma de pupa e seu corpo continua a mudar.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="17" >
+              <tipo>12</tipo>
+              <cabeceira>Casulo do bicho da seda:</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="Cerca de 3 cm de comprimento.">casulo.jpg</galeria>
+        </paxina>
+        <paxina id="18" >
+              <tipo>38</tipo>
+              <imaxe>FASEADULTA.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="18"> Após aproximadamente dez dias, o bicho-da-seda atinge a fase adulta e sai do casulo na forma de mariposa.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="19" >
+              <tipo>19</tipo>
+              <cabeceira>Palavra secreta</cabeceira>
+              <imaxe>casulo.jpg</imaxe>
+              <texto><![CDATA[Após a última troca de pele, a lagarta começa a produzir um _______ em volta de seu corpo.]]></texto>
+              <resp texto="">casulo</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>38</tipo>
+              <imaxe>MERGULHADORES.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#0000A0" face="Verdana" size="20"><b>Como os animais respiram<br>
+</b></font><font color="#0000A0" face="Verdana" size="16"><br>
+Observe a fotografia abaixo.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="21" >
+              <tipo>38</tipo>
+              <imaxe>hm.png</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="16"><b>Em sua opnião, por que os mergulhadores precisam utilizar o equipamento de mergulho e os pexes que estão proximos a eles não precisam utilizá-lo?</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="22" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="14">O gás oxigênio, obtido pela respiração, é essencial para os seres vivos. Esse gás participa de um processo de obtenção de energia realizado pela maioria dos seres vivos.<br>
+<br>
+Na fotografia anterior, podemos perceber que os animais obtém o gás oxigênio de diferentes maneiras. Vamos estudar de que forma isso ocorre?<br>
+<br>
+Assim como o ser humano, outros animais, como o cavalo e o cachorro, realizam a respiração pulmonar. Ela ocorre por meio de estruturas chamadas pulmões. Veja a seguir como ocorre esse tipo de respiração.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="23" >
+              <tipo>38</tipo>
+              <imaxe>cachorro.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="14">O gás oxigênio presente no ar que é inspirado entra nos pulmões e é distribuido no corpo pelo sangue. O gás carbônico produzido pelo corpo é liberado dos pulmões para o ambiente.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="24" >
+              <tipo>19</tipo>
+              <imaxe>hm.png</imaxe>
+              <texto><![CDATA[É obtido pela respiração, é essencial para os seres vivos. Esse gás participa de um processo de obtenção de energia realizado pela maioria dos seres vivos.
+
+]]></texto>
+              <resp texto="">gás oxigênio</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="25" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="14">A maioria das espécies de peixes realiza<b> respiração branquial. </b>Esses peixes têm uma estrutura chamada brânquia, cuja função é semelhante à do pulmão. Veja a seguir como ocorre a respiração branquial.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="26" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="16"><b>1.</b> A água entra pela boca do peixe, passando pelas brânquias.<b><br>
+<br>
+2.</b> Nas brânquias, o gás oxigênio dissolvido na água é absorvido pelo sangue e transportado no interior do corpo do peixe.<b><br>
+<br>
+3.</b> Ao mesmo tempo, o gás carbônico passa do sangue para a água.</font></p>
+<p align="center">
+<b><font color="#000000" face="Verdana" size="18"><br>
+<br>
+VEJA ASEGUIR:</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="27" >
+              <tipo>12</tipo>
+              <cabeceira>Peixe-japonês cerca de 32 cm de comprimento:</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="">peixe.jpg</galeria>
+        </paxina>
+        <paxina id="28" >
+              <tipo>18</tipo>
+              <cabeceira>COMPLETE</cabeceira>
+              <modo>1</modo>
+              <completa ant="A água entra pela boca do peixe, passando pelas" post="">brâquias</completa>
+              <completa ant="Ao mesmo tempo, o gás carbônico passa do sangue para a" post="">água</completa>
+        </paxina>
+        <paxina id="29" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#FF8000" face="Verdana" size="20"><b>Que curioso!</b></font><font color="#008000" face="Verdana" size="16"><b><br>
+<br>
+Peixe que respira foda da água</b></font><font color="#000000" face="Verdana" size="16"><br>
+<br>
+A piramboia é um peixe que tem as brânquias pouco desenvolvidas e apresenta pulmões. Os peixes que apresentam essa característica são chamados <b>peixes pulmonados. </b>Por não conseguir retirar gás oxigênio da água em quantidade suficiente para sobreviver, esses peixes utilizam os pulmões para retirar o gás oxigênio do ar.</font></p>
+<p align="center">
+<b><font color="#000000" face="Verdana" size="16"><br>
+<br>
+VEJA A SEGUIR:</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="30" >
+              <tipo>12</tipo>
+              <cabeceira>Clique na imagem para visualizar.</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="Piramboia pode atingir 1,5 m de comprimento.">PIRAMBOIA.jpg</galeria>
+        </paxina>
+        <paxina id="31" >
+              <tipo>10</tipo>
+              <imaxe>hm.png</imaxe>
+              <pregunta res="peixes pulmonados">A piramboia é um peixe que tem as brânquias pouco desenvolvidas e apresenta pulmões. Os peixes que apresentam essa característica são chamados de?</pregunta>
+        </paxina>
+        <paxina id="32" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="18">Alguns animais, como o gafanhoto, realizam as trocas gasosas por meio de pequenos canais distribuídos por seu corpo. Esses canais se chamam traqueias, e esse tipo de troca gasosa se chama respiração traqueal. Veja a seguir como ocorre esse processo.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="33" >
+              <tipo>38</tipo>
+              <imaxe>gafanhoto.jpg</imaxe>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="16"><b>1.</b> O gás oxigênio existente no ar entra por meio de pequenas aberturas na lateral do corpo do gafanhoto que estão ligadas às traqueias.<br>
+<b><br>
+2. </b>Depois, o gás carbônico sai do corpo do gafanhoto também por meio dessas aberturas.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="34" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#FF8000" face="Verdana" size="16"><b>PRATIQUE E APRENDA</b></font><font color="#000000" face="Verdana" size="16"><br>
+<br>
+O peixe-boi vive na água, mas não é peixe. Ele é um mamífero aquático e se alimenta de vegetais que se desenvolve em águas rasas.<br>
+Esse animal está em risco de extinção por ser muito caçado pelo ser humano, em busca de sua carne e de sua gordura.<br>
+O peixe-boi respira por meio de pulmões e por isso precisa subir até a superfície da água para respirar. Os caçadores aproveitam esse momento e colocam rolhas em suas narinas para sufocálo. Com isso, o peixe-boi mergulha e morre afogado.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="35" >
+              <tipo>12</tipo>
+              <cabeceira>Peixe-boi pode atingir até 3m de comprimento:</cabeceira>
+              <modo>1</modo>
+              <galeria grande="" son="" texto="">peixeboi.jpg</galeria>
+        </paxina>
+        <paxina id="36" >
+              <tipo>10</tipo>
+              <imaxe>hm.png</imaxe>
+              <modo>1</modo>
+              <pregunta res="peixe-boi">Vive na água, mas não é peixe?</pregunta>
+              <pregunta res="vegetais">Um mamífero aquático que se alimenta de?</pregunta>
+              <pregunta res="caçado">Esse animal está em risco de extinção por ser muito?</pregunta>
+        </paxina>
+        <paxina id="37" >
+              <tipo>4</tipo>
+              <cabeceira>CAÇA-PALAVRAS</cabeceira>
+              <modo>2</modo>
+              <sopa enun="bichoseda.jpg">bichoseda</sopa>
+              <sopa enun="casulo.jpg">casulo</sopa>
+              <sopa enun="mariposa.jpg">mariposa</sopa>
+              <sopa enun="gafanhoto.jpg">gafanhoto</sopa>
+              <sopa enun="PIRAMBOIA.jpg">piramboia</sopa>
+              <sopa enun="peixeboi.jpg">peixeboi</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="38" >
+              <tipo>17</tipo>
+              <cabeceira>JOGO DA MEMÓRIA</cabeceira>
+              <parellas>bichoseda.jpg</parellas>
+              <parellas>casulo.jpg</parellas>
+              <parellas>FASEADULTA.jpg</parellas>
+              <parellas>PIRAMBOIA.jpg</parellas>
+              <parellas>gafanhoto.jpg</parellas>
+              <parellas>peixeboi.jpg</parellas>
+              <cfondo>88FF88</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>30</tempo>
+        </paxina>
+        <paxina id="39" >
+              <tipo>3</tipo>
+              <imaxe>MERGULHADORES.jpg</imaxe>
+              <imfondo  trans="10">MERGULHADORES.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="40" >
+              <tipo>38</tipo>
+              <imaxe>feliz.png</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#004000" face="Verdana" size="28"><b>PARABÉNS VOCÊ CONCLUIU A AULA</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="41" >
+              <tipo>38</tipo>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#004000" face="Verdana" size="14"><b>FONTE DE PESQUISA<br>
+<br>
+</b></font></p>
+<p align="left">
+<font color="#004000" face="Verdana" size="14"><br>
+Livro de Ciências JUNTOS NESSA, 4º ANO<br>
+pg. 138 à 146.<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+<p align="center">
+<b><font color="#004000" face="Verdana" size="28"><br>
+OBRIGADO!</font></b></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+    </libro>
+</lim>

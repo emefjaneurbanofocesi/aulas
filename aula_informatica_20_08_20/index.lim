@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="56" posy="103">CAPA.png</imaxe>
+              <texto posx="0" posy="-27" ancho="625" largo="117"><![CDATA[
+<p align="center">
+<font color="#0080FF" face="Arial" size="28"><b>EMEF JANE URBANO FOCESI</b><br>
+<br>
+</font><font color="#008080" face="Arial" size="20"><b>AULA DE INFORMÁTICA</b></font><font color="#0080FF" face="Arial" size="20"><b> </b><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>34</tipo>
+              <imaxe>chico1.png</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>MULA SEM CABEÇA</completa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>34</tipo>
+              <imaxe>chico2.png</imaxe>
+              <forma>0</forma>
+              <modo>1</modo>
+              <completa>NOITE</completa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>34</tipo>
+              <imaxe>chico3.png</imaxe>
+              <forma>1</forma>
+              <modo>0</modo>
+              <completa>CHICO BENTO E MULA SEM CABEÇA</completa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>34</tipo>
+              <imaxe>ASMUL.png</imaxe>
+              <forma>1</forma>
+              <modo>0</modo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>34</tipo>
+              <imaxe>LOJA.png</imaxe>
+              <forma>1</forma>
+              <modo>0</modo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>34</tipo>
+              <imaxe>ESCREVA.png</imaxe>
+              <forma>1</forma>
+              <modo>0</modo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>34</tipo>
+              <imaxe>AGORA.png</imaxe>
+              <forma>1</forma>
+              <modo>0</modo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">BOBESPONJA.swf</imaxe>
+        </paxina>
+    </libro>
+</lim>
